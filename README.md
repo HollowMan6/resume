@@ -213,7 +213,7 @@ VT Benjamin F. Bock, VT Gay B. Shober, VT I. Luck Gravett
 Selected publications are <span style='background-color: #ffffd0'>highlighted.</span>
 <!-- I most frequently publish at ICML (9 papers), NeurIPS (9 papers), and ICLR (5 papers). -->
 <br>
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ">Google Scholar</a>: 7.1k+ citations and an h-index of 34.]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ">Google Scholar</a>:  citations and an h-index of 0.]
 <br>
 
 <h2>2023</h2>
@@ -2776,7 +2776,7 @@ malware machine learning classifiers.
   <td>
     <span class='cvdate'>2013</span>
     <a href="https://github.com/bamos/cv">bamos/cv</a> |
-    <i class="fa fas fa-star"></i> 391 |
+    <i class="fa fas fa-star"></i> 392 |
     <em>Source for this CV: Creates LaTeX/Markdown from YAML/BibTeX</em>
     <!--  -->
     <!--     bamos/cv  -->
