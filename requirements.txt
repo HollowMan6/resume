@@ -1,0 +1,6 @@
+bibtexparser
+Jinja2
+PyYaml
+beautifulsoup4
+markupsafe
+scholarly

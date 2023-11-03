@@ -1,0 +1,10 @@
+__pycache__
+/gh-pages
+*.aux
+*.log
+*.out
+*.pdf
+*.db
+*.shelf*
+venv
+auto

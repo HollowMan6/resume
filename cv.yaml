@@ -1,0 +1,816 @@
+name:
+  first: Songlin
+  last: Jiang
+email: songlin.jiang@aalto.fi
+pdf: /data/cv.pdf
+src: https://github.com/HollowMan6/resume
+url: "hollowman6.github.io"
+social:
+  github: HollowMan6
+  twitter: HollowM186
+  linkedin: songlin-jiang
+  google_scholar: F7Z3Fd0AAAAJ
+
+# LaTeX formatting
+style: banking # casual, classic, oldstyle, or banking
+color: blue # blue, orange, green, red, purple, grey and black
+color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
+
+order:
+  - [about, NONE]
+  - [current_position, Current Position]
+  - [education, Education]
+  - [positions, Previous Positions]
+  - [honors, Honors \& Awards]
+  - [all_publications, Publications]
+  - [repos, Open Source Repositories]
+  - [talks, Invited Talks]
+  - [advising, Interns and Students]
+  - [service, Professional Activities]
+  - [teaching, Teaching]
+  - [skills, Skills]
+  # - [NEWPAGE, NONE]
+
+about: |
+  <p align='justify'>
+  I am a research scientist in the
+  <b>Fundamental AI Research (FAIR)</b>
+  group at
+  <b>Meta AI</b>
+  in NYC and study foundational topics in <b>machine learning</b> and
+  <b>optimization</b>, recently involving reinforcement learning, control,
+  optimal transport, and geometry.
+  My research is on learning systems that understand and interact with our world
+  and focuses on integrating structural information and domain knowledge into
+  these systems to represent non-trivial reasoning operations.
+  A key theme of my work in this space involves the use of optimization as
+  a differentiable building block in larger architectures that are end-to-end learned.
+  I believe that science should be open and reproducible and
+  freely publish my research code to \href{https://github.com/bamos}{GitHub}.
+  </p><br>
+
+current_position:
+  - place: Meta AI, Fundamental AI Research (FAIR)
+    location: New York City
+    title: Research Scientist
+    dates: 2019 -- Present
+
+education:
+  - school: Carnegie Mellon University
+    location: Pittsburgh, PA
+    degree: Ph.D. in Computer Science
+    dates: 2014 -- 2019 # May 19, 2019
+    overallGPA: 0.00/0.00
+    details:
+      - "Thesis: \\textit{\\href{https://github.com/bamos/thesis}{Differentiable Optimization-Based Modeling for Machine Learning}}"
+      - "Advisor: \\href{http://zicokolter.com}{J. Zico Kolter}"
+  - school: Virginia Tech
+    location: Blacksburg, VA
+    degree: B.S. in Computer Science
+    dates: 2011 -- 2014
+    overallGPA: 3.99/4.00
+    majorGPA: 4.00/4.00
+# - school: Northside High School
+#   location: Roanoke, VA
+#   dates: 2011
+
+positions:
+  - place: Carnegie Mellon University
+    title: Research Assistant
+    inline_detail: "with \\href{http://zicokolter.com}{J. Zico Kolter} on ML and optimization"
+    dates: 2016 -- 2019
+  - place: Intel Labs
+    location: Santa Clara
+    title: Research Intern
+    dates: 2018
+    inline_detail: "with \\href{http://vladlen.info/}{Vladlen Koltun} on computer vision"
+  - place: Google DeepMind
+    location: London
+    title: Research Intern
+    dates: 2017
+    inline_detail: "with \\href{https://scholar.google.com/citations?user=nzEluBwAAAAJ}{Nando de Freitas} and \\href{http://mdenil.com/}{Misha Denil} on RL"
+  - place: Carnegie Mellon University
+    title: Research Assistant
+    inline_detail: "with \\href{https://www.cs.cmu.edu/~satya/}{Mahadev Satyanarayanan} on mobile systems"
+    dates: 2014 -- 2016
+  - place: Adobe Research
+    location: San Jose
+    title: Research Intern
+    dates: 2014
+    inline_detail: "with \\href{https://research.adobe.com/person/david-tompkins/}{David Tompkins} on distributed systems"
+    # details:
+    #   - I built a web analytics processing engine using {\bf Scala},
+    #     {\bf Spark}, {\bf Spray}, {\bf Parquet}, and {\bf HDFS}.
+  - place: Virginia Tech
+    title: Research Assistant
+    inline_detail: "with \\href{https://people.cs.vt.edu/~ltw/shortvita.html}{Layne Watson} and \\href{https://dblp.org/pid/75/8682.html}{David Easterling} on optimization"
+    dates: 2013 -- 2014
+    # area: Scientific computing, global/stochastic optimization, and bioinformatics
+    # details:
+    #   - Algorithm development for global and stochastic optimization using quasi-Newton
+    #     methods for {\bf parameter estimation} in
+    #     {\bf Fortran 95} and {\bf OpenMP}.
+    #   - Bioinformatics research on yeast cell modeling using
+    #     {\bf Fortran 95}, {\bf C++}, and {\bf Matlab}.
+  - place: Virginia Tech
+    title: Research Assistant
+    inline_detail: "with \\href{https://www.magnum.io/people/jules.html}{Jules White} and \\href{https://scholar.google.com/citations?user=MRKab9cAAAAJ}{Hamilton Turner} on mobile systems"
+    dates: 2012 -- 2014
+    # dates: May 2012 -- May 2014
+    # area: Mobile systems, cyber-physical systems, and security
+    # details:
+    #   - Android malware detection research using
+    #     a distributed {\bf Actor-based Scala} system.
+      #- Modified the {\bf Android source} to provide non-standard logging
+      #  information for dynamic malware analysis.
+      # - Manufacturing cyber-physical security research implemented
+      #   with {\bf VC\#} and {\bf Python}.
+      #- Developed {\bf VC\#} and {\bf Python} programs for a pilot study on
+      #  manufacturing cyber-physical security.
+      #- Assisted {\bf C++} and {\bf Make} development in {\bf Linux} for a
+      #  deployment optimization framework.
+  - place: Virginia Tech
+    title: Research Assistant
+    inline_detail: "with \\href{https://www.ssrg.ece.vt.edu/}{Binoy Ravindran} and \\href{http://www.alastairmurray.co.uk/}{Alastair Murray} on compilers"
+    dates: 2012 -- 2014
+    # dates: Nov 2012 -- Mar 2014
+    # details:
+    #   - Compiler research on a heterogeneous system
+    #     on automatic {\bf OpenMP} to {\bf CUDA}
+    #     translation using {\bf C++} and the {\bf ROSE} compiler framework.
+    #   - Polyhedral loop optimization research to restructure
+    #     {\bf OpenCL} kernels for locality using {\bf LLVM} and {\bf Polly}.
+      #- '{\bf Scala} and {\bf Bash} development in {\bf Linux}.'
+  - place: Snowplow
+    # location: Remote
+    title: Software Intern
+    dates: 2013 -- 2014
+    inline_detail: "Scala development"
+    # details:
+    # - Open-source {\bf Scala} development with a startup on the
+    #   Snowplow analytics platform.
+    #   My commits are online at
+    #   \url{https://github.com/snowplow/snowplow/commits?author=bamos}.
+    # - Developed a new server using {\bf Spray} and {\bf Actors} to store
+    #   {\bf Thrift} events on {\bf Amazon Kinesis}.
+    # - "Helped port Snowplow's Scala enrichment process to Kinesis."
+  - place: Qualcomm
+    location: San Diego
+    title: Software Intern
+    inline_detail: "Python and C++ development"
+    dates: 2013
+    # details:
+    # - "I created a specification format language translator for fuzz
+    #   testing with Python."
+    # - Developed an XML modification {\bf web application} for
+    #   fuzz vector generation.
+    #   Implemented with client-side {\bf HTML} and {\bf js},
+    #   using {\bf D3} for graphics and {\bf Handlebars} for templating.
+    # - Developed an XML-based grammar translator in {\bf C++} with
+    #   the {\bf Xerces} XML parser in {\bf Linux}.
+    #   Reimplemented in {\bf Python} using the {\bf ElementTree} XML API for
+    #   sophisticated analysis and tree transformations.
+  - place: Phoenix Integration
+    location: Virginia
+    title: Software Intern
+    dates: 2012
+    inline_detail: "C++, C\\#, and Java development"
+      #"{\bf VC++}, {\bf VC\#}, {\bf Java}"
+    # details:
+    #   - I developed industry software for software integration and
+    #     design process optimization in {\bf VC++}, {\bf VC\#}, and {\bf Java}.
+      # - Developed industry software in
+      #   {\bf VC++}, {\bf VC\#}, {\bf Java}, and {\bf Tomcat}.
+      # - Improved the testing ({\bf JUnit} and {\bf NUnit}) and installation
+      #   ({\bf Ant}, {\bf InstallShield}, and {\bf Make}) frameworks.
+      # - Integrated a new licensing mode into CenterLink, a grid computing
+      #   application, using {\bf FLEXlm} and {\bf Java}.
+  - place: Sunapsys
+    location: Virginia
+    title: Network Administrator Intern
+    dates: 2011
+    # dates: Jan 2011 -- Aug 2011
+    # details:
+    #   - Internship in high school to replace Windows domain, mail,
+    #     DHCP, and DNS servers with virtual {\bf Linux} servers
+    #     using {\bf KVM} and {\bf virsh}.
+      # - Migrated the office's computers to the Linux servers.
+      # - Created {\bf Bash} scripts for incremental backups with rsync
+      #   and hard links.
+
+honors:
+  - title: NeurIPS Top Reviewer
+    year: 2022
+    url: https://neurips.cc/Conferences/2022/ProgramCommittee
+  - title: ICML Outstanding Reviewer
+    year: 2022
+    url: https://icml.cc/Conferences/2022/Reviewers
+  - title: ICLR Outstanding Reviewer
+    year: 2019
+    url: https://iclr.cc/Conferences/2019/Awards
+  - title: NSF Graduate Research Fellowship
+    year: 2016 -- 2019
+  - title: Nine undergraduate scholarships
+    descr: |
+      Roanoke County Public Schools Engineering,
+      Salem--Roanoke County Chamber of Commerce,
+      Papa John's,
+      Scottish Rite of Freemasonry,
+      VT Intelligence Community Conter for Academic Excellence,
+      VT Pamplin Leader,
+      VT Benjamin F.~Bock, VT Gay B.~Shober, VT I.~Luck Gravett
+    year: 2011 -- 2014
+
+all_publications:
+  name: "Amos"
+  file: all.bib
+  sort_bib: True
+  include_image: True
+  group_by_year: True
+  author_urls:
+    'Aram-Alexandre Pooladian': 'http://arampooladian.com/'
+    'Carles Domingo-Enrich': 'https://cims.nyu.edu/~cd2754/'
+    'Aaron Lou': 'https://www.aaronlou.com/'
+    'Aditya Grover': 'https://aditya-grover.github.io/'
+    'Akshay Agrawal': 'https://www.akshayagrawal.com/'
+    'Alex Hauptmann': 'http://www.cs.cmu.edu/~alex/'
+    'Alexander Rives': 'https://scholar.google.com/citations?user=vqb78-gAAAAJ'
+    'Alistair Muldal': 'https://scholar.google.com/citations?user=YfgdfyYAAAAJ'
+    'Amy Zhang': 'https://amyzhang.github.io/'
+    'Andrew Gordon Wilson': 'https://cims.nyu.edu/~andrewgw'
+    'Anselm Paulus': 'https://scholar.google.com/citations?user=njZL5CQAAAAJ'
+    'Anupam Das': 'https://anupamdas.org/'
+    'Arnaud Fickinger': 'https://scholar.google.com/citations?user=bBFN_qwAAAAJ'
+    'Artem Molchanov': 'https://amolchanov86.github.io/'
+    'Austin Wang': 'https://scholar.google.com/citations?user=keDqjK0AAAAJ'
+    'Bartolomeo Stellato': 'https://stellato.io/'
+    'Bartosz Ludwiczuk': 'https://www.linkedin.com/in/bartosz-ludwiczuk-a677a760'
+    'Benjamin Gilbert': 'https://github.com/bgilbert'
+    'Brent Castle': 'https://dblp.org/pid/142/1258.html'
+    'Byron Boots': 'https://homes.cs.washington.edu/~bboots/'
+    'Caroline Chen': 'https://www.linkedin.com/in/caroline-chen/'
+    'Christopher Williams': 'https://scholar.google.com/citations?user=AW81mosAAAAJ'
+    'Cihan Oguz': 'https://scholar.google.com/citations?user=Z4534DUAAAAJ'
+    'Cliff Shaffer': 'https://people.cs.vt.edu/shaffer/'
+    'Colmenarejo': 'https://scholar.google.com/citations?user=0Dkf68EAAAAJ'
+    'Daniel DeTone': 'https://danieldetone.com/'
+    'Daniel Siewiorek': 'http://www.cs.cmu.edu/~dps/'
+    'David Easterling': 'https://dblp.org/pid/75/8682.html'
+    'Deisenroth': 'https://deisenroth.cc/'
+    'Denis Yarats': 'https://cs.nyu.edu/~dy1042/'
+    'Douwe Kiela': 'https://douwekiela.github.io/'
+    'Edward Grefenstette': 'https://www.egrefen.com/'
+    'Eugene Vinitsky': 'https://eugenevinitsky.github.io'
+    'Franziska Meier': 'https://fmeier.github.io/'
+    'Geoff Gordon': 'http://www.cs.cmu.edu/~ggordon/'
+    'Georg Martius': 'https://al.is.mpg.de/person/gmartius'
+    'Georgina Hall': 'https://sites.google.com/view/georgina-hall'
+    'Gisella Kakoti': 'https://dblp.org/pid/235/5473.html'
+    'Giulia Luise': 'https://giulslu.github.io/'
+    'Guanhang Wu': 'https://scholar.google.com/citations?user=0pF6i38AAAAJ'
+    'Hamilton Turner': 'https://scholar.google.com/citations?user=MRKab9cAAAAJ'
+    'Han Zhao': 'https://hanzhaoml.github.io/'
+    'Heli Ben-Hamu': 'https://helibenhamu.github.io/'
+    'Hengyuan Hu': 'https://scholar.google.com/citations?user=sJwwn54AAAAJ'
+    'Ievgen Redko': 'https://ievred.github.io'
+    'Ilya Kostrikov': 'https://scholar.google.com/citations?user=PTS2AOgAAAAJ'
+    'Ivan Dario Jimenez Rodriguez': 'https://ivandariojr.io/'
+    'Jack Richter-Powell': 'https://scholar.google.com/citations?hl=es&user=L78pVMMAAAAJ'
+    'Jacob Sacks': 'https://scholar.google.com/citations?user=Th4PuGkAAAAJ'
+    'Jaime A. Camelio': 'https://scholar.google.com/citations?user=tWmVBNwAAAAJ'
+    'Jakob Foerster': 'https://www.jakobfoerster.com/'
+    'Jan Harkes': 'https://scholar.google.com/citations?user=jj5tN8sAAAAJ'
+    'Jason Liu': 'https://www.linkedin.com/in/jasonliu6/'
+    'Jing Dong': 'https://www.linkedin.com/in/jing-dong-24b26ab3/'
+    'Joelle Pineau': 'https://www.cs.mcgill.ca/~jpineau/'
+    'Joey Bose': 'https://joeybose.github.io/'
+    'John Tyson': 'https://scholar.google.com/citations?user=syETjMMAAAAJ'
+    'Jonathan Lorraine': 'https://scholar.google.com/citations?user=Hzf8bu0AAAAJ'
+    'Joseph Ortiz': 'https://joeaortiz.github.io/'
+    'Joshua Meier': 'https://scholar.google.com/citations?user=2M0OltAAAAAJ'
+    'Jules White': 'https://scholar.google.com/citations?user=10HSX90AAAAJ'
+    'Junjue Wang': 'https://junjuew.github.io/'
+    'K S Sesh Kumar': 'https://scholar.google.co.in/citations?user=FPVUA-YAAAAJ'
+    'Khalid Elgazzar': 'https://scholar.google.com/citations?user=R9r5_GIAAAAJ'
+    'Kiryong Ha': 'http://krha.kr/'
+    'Kyunghyun Cho': 'https://kyunghyuncho.me/'
+    'Laurent Dinh': 'https://laurent-dinh.github.io/'
+    'Layne T. Watson': 'https://people.cs.vt.edu/~ltw/shortvita.html'
+    'Lei Xu': 'https://leix28.github.io/'
+    'Lu Jiang': 'http://www.lujiang.info/'
+    'Luis Pineda': 'https://scholar.google.com/citations?user=rebEn8oAAAAJ'
+    'Mahadev Satyanarayanan': 'https://www.cs.cmu.edu/~satya/'
+    'Maurizio Monge': 'https://scholar.google.com/citations?user=gpgb4LgAAAAJ'
+    'Maximilian Nickel': 'https://mnick.github.io/'
+    'Michal Rol': 'https://mrolinek.github.io/'
+    'Mikael Henaff': 'http://www.mikaelhenaff.com/'
+    'Minghan Chen': 'https://chenm.sites.wfu.edu/publications/'
+    'Misha Denil': 'https://mdenil.com/'
+    'Musil': 'https://scholar.google.com/citations?user=hA1rlU4AAAAJ'
+    'Mustafa Mukadam': 'https://www.mustafamukadam.com/'
+    'Nando de Freitas': 'https://scholar.google.com/citations?user=nzEluBwAAAAJ'
+    'Nathan Lambert': 'https://www.natolambert.com/'
+    'Nathan Lichtlé': 'https://www.nathanlct.com/about'
+    'Nigel Davies': 'https://www.lancaster.ac.uk/sci-tech/about-us/people/nigel-davies'
+    'Nina Taft': 'https://scholar.google.com/citations?user=BItCgjYAAAAJ'
+    'Noam Brown': 'http://www.noambrown.com/'
+    'Norman Sadeh': 'https://www.normsadeh.org/'
+    'Omry Yadan': 'https://scholar.google.com/citations?user=zSsW478AAAAJ'
+    'Padmanabhan Pillai': 'https://www.andrew.cmu.edu/user/pspillai/'
+    'Paloma Sodhi': 'https://psodhi.github.io/'
+    'Phu Mon Htut': 'https://phumonhtut.me/'
+    'Pieter Simoens': 'https://www.ugent.be/ea/idlab/en/members/pieter-simoens.htm'
+    'Priya L. Donti': 'https://priyadonti.com/'
+    'Qinqing Zheng': 'https://enosair.github.io/'
+    'Rajiv Sambharya': 'https://rajivsambharya.github.io/'
+    'Ricky Chen': 'https://scholar.google.com/citations?user=7MxQd6UAAAAJ'
+    'Ricky T. Q. Chen': 'https://scholar.google.com/citations?user=7MxQd6UAAAAJ'
+    'Rob Fergus': 'https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php'
+    'Robert Parker': 'https://ieeexplore.ieee.org/author/37085729541'
+    'Robert Verkuil': 'https://dblp.org/pid/296/8930.html'
+    'Roberta Klatzky': 'https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/klatzky-roberta.html'
+    'Roberto Calandra': 'https://www.robertocalandra.com/about/'
+    'Rohit Upadhyaya': 'https://dblp.org/pid/207/9123.html'
+    'Samuel Cohen': 'https://scholar.google.com/citations?user=CmdjfTsAAAAJ'
+    'Samuel Stanton': 'https://samuelstanton.github.io/'
+    'Sarah Clinch': 'http://www.sclinch.com/'
+    'Serkan Cabi': 'https://scholar.google.com/citations?user=l-HhJaUAAAAJ'
+    'Shane Barratt': 'https://web.stanford.edu/~sbarratt/'
+    'Shobha': 'https://scholar.google.com/citations?user=BFWurDEAAAAJ'
+    'Siyan Zhao': 'https://www.siyanz.com/'
+    'Soumith Chintala': 'https://soumith.ch/'
+    'Stephen Boyd': 'https://web.stanford.edu/~boyd/'
+    'Steven Diamond': 'https://stevendiamond.me/'
+    'Stuart Anderson': 'https://scholar.google.com/citations?user=8orqBsYAAAAJ'
+    'Stuart Russell': 'http://people.eecs.berkeley.edu/~russell/'
+    'Tameem Adel': 'https://tameemadel.wordpress.com/'
+    'Taosha Fan': 'https://scholar.google.com/citations?user=3PJeg1wAAAAJ'
+    'Terenin': 'https://avt.im/'
+    'Thacker': 'https://scholar.google.com/citations?user=2I6IgikAAAAJ'
+    'Thomas Eiszler': 'https://dblp.org/pid/207/9122.html'
+    'Thomas Roth': 'https://dblp.org/pid/188/6045.html'
+    'Tom Erez': 'https://scholar.google.com/citations?user=gVFnjOcAAAAJ'
+    'Tom Sercu': 'https://tom.sercu.me/'
+    'Tricity Andrew': 'https://scholar.google.com/citations?user=qpRt_KYAAAAJ'
+    'Trosset': 'https://mtrosset.pages.iu.edu/'
+    'Tuomas Sandholm': 'http://www.cs.cmu.edu/~sandholm/'
+    'Vladlen Koltun': 'http://vladlen.info/'
+    'Wenlu Hu': 'http://www.cs.cmu.edu/~wenluh/'
+    'William Baumann': 'https://scholar.google.com/citations?user=fAmU38gAAAAJ'
+    'Wolfgang Richter': 'https://scholar.google.com/citations?user=vU6bKxEAAAAJ'
+    'Xiaomeng Yang': 'https://www.linkedin.com/in/xiaomeng-yang-356a976b/'
+    'Yang Cao': 'https://people.cs.vt.edu/~ycao/'
+    'Yann LeCun': 'http://yann.lecun.com/'
+    'Yannik Pitcan': 'https://scholar.google.com/citations?user=jmM-JlIAAAAJ'
+    'Yaron Lipman': 'https://www.wisdom.weizmann.ac.il/~ylipman/'
+    'Ying Gao': 'https://www.linkedin.com/in/joelyinggao/'
+    'Yoshihisa Abe': 'https://dblp.org/pid/18/1620.html'
+    'Yu Xiao': 'https://scholar.google.com/citations?user=ZeRhyWsAAAAJ'
+    'Yuval Tassa': 'https://scholar.google.com/citations?user=CjOTm_4AAAAJ'
+    'Zeming Lin': 'https://scholar.google.com/citations?user=ZDjmMuwAAAAJ'
+    'Zhuo Chen': 'https://scholar.google.com/citations?user=-wKpBNkAAAAJ'
+    'Zico Kolter': 'http://zicokolter.com/'
+    'Dishank Bansal': 'https://dishank-b.github.io/'
+    'Matthew Retchin': 'https://www.linkedin.com/in/matthew-retchin/'
+    'Steven Brunton': 'https://www.eigensteve.com/'
+    'Shuran Song': 'https://shurans.github.io/'
+    'Arman Zharmagambetov': 'https://arman-z.github.io/'
+    'Aaron Ferber': 'https://scholar.google.com/citations?user=TuVq07oAAAAJ'
+    'Taoan Huang': 'https://taoanhuang.github.io/'
+    'Bistra Dilkina': 'https://scholar.google.com/citations?user=1jjyaBYAAAAJ'
+    'Yuandong Tian': 'https://yuandong-tian.com/'
+
+repos:
+  - repo_url: https://github.com/facebookresearch/amortized-optimization-tutorial
+    year: 2023
+    desc: Tutorial on amortized optimization
+  - repo_url: https://github.com/facebookresearch/w2ot
+    year: 2023
+    desc: Wasserstein-2 optimal transport in JAX
+  - repo_url: https://github.com/facebookresearch/theseus
+    year: 2022
+    desc: Differentiable non-linear optimization library
+  - repo_url: https://github.com/facebookresearch/meta-ot
+    year: 2022
+    desc: Meta Optimal Transport
+  - repo_url: https://github.com/bamos/presentations
+    year: 2022
+    desc: Source for my major presentations
+  - repo_url: https://github.com/facebookresearch/rcpm
+    year: 2021
+    desc: Riemannian Convex Potential Maps
+  - repo_url: https://github.com/facebookresearch/svg
+    year: 2021
+    desc: Model-based stochastic value gradient
+  - repo_url: https://github.com/facebookresearch/mbrl-lib
+    year: 2021
+    desc: Model-based reinforcement learning library
+  - repo_url: https://github.com/facebookresearch/dcem
+    year: 2020
+    desc: The Differentiable Cross-Entropy Method
+  - repo_url: https://github.com/facebookresearch/higher
+    year: 2019
+    desc: PyTorch higher-order gradient and optimization library
+  - repo_url: https://github.com/bamos/thesis
+    year: 2019
+    desc: Ph.D.~Thesis LaTeX source code
+  - repo_url: https://github.com/cvxgrp/cvxpylayers
+    year: 2019
+    desc: Differentiable Convex Optimization Layers
+  - repo_url: https://github.com/locuslab/lml
+    year: 2019
+    desc: The Limited Multi-Label Projection Layer
+  - repo_url: https://github.com/locuslab/mpc.pytorch
+    year: 2018
+    desc: Differentiable PyTorch Model Predictive Control library
+  - repo_url: https://github.com/locuslab/differentiable-mpc
+    year: 2018
+    desc: Differentiable MPC experiments
+  - repo_url: https://github.com/locuslab/icnn
+    year: 2017
+    desc: Input Convex Neural Network experiments
+  - repo_url: https://github.com/locuslab/optnet
+    year: 2017
+    desc: OptNet experiments
+  - repo_url: https://github.com/locuslab/qpth
+    www: https://locuslab.github.io/qpth/
+    year: 2017
+    desc: Differentiable PyTorch QP solver
+  - repo_url: https://github.com/bamos/densenet.pytorch
+    year: 2017
+    desc: PyTorch DenseNet implementation
+  - repo_url: https://github.com/bamos/block
+    year: 2017
+    desc: Intelligent block matrix constructions
+  - repo_url: https://github.com/bamos/setGPU
+    year: 2017
+    desc: Automatically use the least-loaded GPU
+  - repo_url: https://github.com/bamos/dcgan-completion.tensorflow
+    year: 2016
+    desc: Image completion with GANs
+  - repo_url: https://github.com/cmusatyalab/openface
+    www: http://cmusatyalab.github.io/openface/
+    year: 2015
+    desc: Face recognition with deep neural networks
+  - repo_url: https://github.com/vtopt/qnstop
+    year: 2014
+    desc: Fortran Quasi-newton stochastic optimization library
+  - repo_url: https://github.com/bamos/snowglobe
+    year: 2014
+    desc: Haskell-driven, self-hosted web analytics with minimal configuration
+  - repo_url: https://github.com/bamos/zsh-history-analysis
+    year: 2014
+    desc: Analyze and plot your zsh history
+  - repo_url: https://github.com/bamos/beamer-snippets
+    year: 2014
+    desc: Beamer and TikZ snippets
+  - repo_url: https://github.com/bamos/latex-templates
+    year: 2013
+    desc: LaTeX templates
+  - repo_url: https://github.com/cparse/cparse
+    year: 2013
+    desc: C++ expression parser using Dijkstra's shunting-yard algorithm
+  - repo_url: https://github.com/bamos/cv
+    year: 2013
+    desc: "Source for this CV: Creates LaTeX/Markdown from YAML/BibTeX"
+  - repo_url: https://github.com/bamos/python-scripts
+    year: 2013
+    desc: Short and fun Python scripts
+  - repo_url: https://github.com/bamos/reading-list
+    year: 2013
+    desc: YAML reading list and notes system
+  - repo_url: https://github.com/bamos/dotfiles
+    year: 2012
+    desc: $\varheart$ Linux, xmonad, emacs, vim, zsh, tmux
+
+talks:
+  - year: 2023
+    location: 'ICML Learning, Control, and Dynamical Systems Workshop'
+    url: https://frontiers4lcd.github.io/
+    title: "On optimal control and machine learning"
+  - year: 2023
+    title: "Tutorial on amortized optimization"
+    location: Brown University
+  - year: 2023
+    location: NYU AI Seminar
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2023
+    location: Vanderbilt ML Seminar
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2022
+    location: Microsoft Research
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2022
+    location: Flatiron Workshop
+    title: "Amortized optimization for computing optimal transport maps"
+    url: https://sites.google.com/view/sampling-transport-diffusions/home
+  - year: 2022
+    location: Cornell AI Seminar
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2022
+    location: Cornell Tech Seminar
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2022
+    location: Argonne National Laboratory
+    title: "Learning with differentiable and amortized optimization"
+  - year: 2022
+    location: NYU
+    title: "Theseus: A library for differentiable nonlinear optimization"
+  - year: 2022
+    location: University of Zurich
+    title: "Theseus: A library for differentiable nonlinear optimization"
+  - year: 2022
+    location: Colorado Mines AMS Colloquium
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2022
+    location: IJCAI Tutorial
+    url: https://guaguakai.github.io/IJCAI22-differentiable-optimization/
+    title: Differentiable optimization
+  - year: 2022
+    location: ICML Workshop on Decision Awareness in RL
+    url: https://darl-workshop.github.io/
+    title: Differentiable optimization for control and RL
+  - year: 2022
+    location: CPAIOR Master Class
+    url: https://sites.google.com/usc.edu/cpaior-2022/master_class
+    # url: https://sites.google.com/usc.edu/cpaior-2022/master_class
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2022
+    location: ICCOPT
+    title: Tutorial on amortized optimization
+  - year: 2022
+    location: Gridmatic
+    title: Differentiable optimization for control and RL
+  - year: 2021
+    location: Columbia University
+    title: Learning for control with differentiable optimization and ODEs
+  - year: 2021
+    location: IBM Research
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2020
+    location: Max Planck Institute (Tübingen)
+    title: Differentiable optimization for control
+  - year: 2020
+    location: Mila Seminar
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2020
+    location: ECCV Tutorial
+    url: https://anucvml.github.io/ddn-eccvt2020/
+    title: Deep Declarative Networks
+  - year: 2020
+    location: CVPR Deep Declarative Networks Workshop
+    url: https://anucvml.github.io/ddn-cvprw2020/
+    title: On differentiable optimization for control and vision
+  - year: 2020
+    location: Caltech CS 159 (Guest Lecture)
+    url: https://sites.google.com/view/cs-159-spring-2020/lectures
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2020
+    location: SIAM MDS Minisymposium
+    title: Unrolled optimization for learning deep energy models
+    url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67922
+  - year: 2019
+    location: NYU CILVR Seminar
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2019
+    location: INFORMS
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2019
+    location: Facebook AI Research
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: ISMP
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: Google Brain
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: Bosch Center for AI
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: Waymo Research
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: Tesla AI
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: NVIDIA Robotics
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: Salesforce Research
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: OpenAI
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: NNAISENSE
+    title: Differentiable optimization-based modeling for machine learning
+  - year: 2018
+    location: UC Berkeley
+    title: Differentiable optimization and control
+
+advising:
+  - year: 2023 -- present
+    name: Anselm Paulus
+    details: "(visiting FAIR from Max Planck Institute, Tübingen)"
+    url: https://scholar.google.com/citations?user=njZL5CQAAAAJ
+  - year: 2022 -- present
+    name: Aram-Alexandre Pooladian
+    details: "(visiting FAIR from NYU)"
+    url: http://arampooladian.com/
+  - year: 2022 -- present
+    name: Carles Domingo-Enrich
+    details: "(visiting FAIR from NYU)"
+    url: https://cims.nyu.edu/~cd2754/
+  - year: 2022 -- 2023
+    name: Sanae Lotfi
+    details: "(visiting FAIR from NYU)"
+    url: https://sanaelotfi.github.io/
+  - year: 2022 -- 2023
+    name: Dishank Bansal
+    details: "(AI resident at FAIR)"
+    url: https://dishank-b.github.io
+  - year: 2021 -- 2022
+    name: Arnaud Fickinger
+    details: (visiting FAIR from Berkeley)
+    url: https://www.linkedin.com/in/arnaudfickinger/
+  - year: 2020 -- 2022
+    name: Aaron Lou
+    details: "(visiting FAIR from Cornell and Stanford)"
+    url: https://www.aaronlou.com/
+  - year: 2021 -- 2022
+    name: Eugene Vinitsky
+    details: "(visiting FAIR from Berkeley, now incoming professor at NYU)"
+    url: https://eugenevinitsky.github.io/
+  - year: 2021 -- 2022
+    name: Samuel Cohen
+    details: "(visiting FAIR from UCL, now CEO at FairGen)"
+    url: https://scholar.google.com/citations?user=CmdjfTsAAAAJ
+  - year: 2020
+    name: Ricky Chen
+    details: "(visiting FAIR from Toronto, now scientist at FAIR)"
+    url: http://www.cs.toronto.edu/~rtqichen/
+  - year: 2020
+    name: Paul Liang
+    details: "(visiting FAIR from CMU)"
+    url: http://www.cs.cmu.edu/~pliang/
+  - year: 2018
+    name: Phillip Wang
+    details: "(at CMU, now CEO at \\href{https://gather.town/}{Gather})"
+    url: https://phillipkwang.com/
+
+service:
+  reviewing:
+    - "AAAI Conference on Artificial Intelligence"
+    - "American Controls Conference (ACC)"
+    - "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+    - "IEEE Conference on Decision and Control (CDC)"
+    - "IEEE Control Systems Letters (L-CSS)"
+    - "IEEE International Conference on Computer Vision (ICCV)"
+    - "IEEE International Conference on Intelligent Robots and Systems (IROS)"
+    - "IEEE International Conference on Robotics and Automation (ICRA)"
+    - "International Conference on the Constraint Programming, AI, and Operations Research (CPAIOR)"
+    - "International Conference on Learning Representations (ICLR)"
+    - "International Conference on Machine Learning (ICML)"
+    - "International Conference on Machine Learning (ICML) SODS Workshop"
+    - "Journal of Machine Learning Research (JMLR)"
+    - "Learning for Dynamics and Control (L4DC)"
+    - "Mathematical Programming Computation (MPC)"
+    - "Neural Information Processing Systems (NeurIPS)"
+    - "Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track"
+    - "Neural Information Processing Systems (NeurIPS) OPT Workshop"
+    - "Neural Information Processing Systems (NeurIPS) DiffCVGP Workshop"
+    - "Neural Information Processing Systems (NeurIPS) Deep RL Workshop"
+    - "Optimization Letters"
+    - "Transactions on Machine Learning Research (TMLR)"
+
+  main:
+    - details: AAAI Senior Program Committee
+      year: 2024
+    - details: NeurIPS Area Chair
+      year: 2023
+    - details: NeurIPS Datasets and Benchmarks Area Chair
+      year: 2023
+    - details: AAAI Senior Program Committee
+      year: 2023
+    - details: NeurIPS Learning Meets Combinatorial Optimization Workshop Organizer
+      year: 2020
+      url: https://sites.google.com/view/lmca2020/home
+    - details: CVPR Deep Declarative Networks Workshop Organizer
+      url: https://anucvml.github.io/ddn-cvprw2020/
+      year: 2020
+    - details: ECCV Deep Declarative Networks Tutorial Organizer
+      url: https://anucvml.github.io/ddn-eccvt2020/
+      year: 2020
+    - details: CMU CSD MS Admissions
+      year: 2014 -- 2015
+
+skills:
+  - title: Programming
+    details: C, C++, Fortran, Haskell, Java,
+      Lua, Make, Mathematica, Python, R, Scala
+  - title: Frameworks
+    details: JAX, NumPy, Pandas, PyTorch, SciPy, TensorFlow, Torch7
+  - title: Toolbox
+    details: Linux, emacs, vim, evil, org, mu4e, xmonad, git, tmux, zsh
+
+teaching:
+  - semester: S2017
+    name: Graduate AI
+    short: CMU 15-780
+    position: TA
+  - semester: S2016
+    name: Distributed Systems
+    short: CMU 15-440/640
+    position: TA
+  - semester: S2013
+    name: Software Design and Data Structures
+    short: VT CS2114
+    position: TA
+
+# === Older honors/awards from high school and college :-)
+# - title: Phi Beta Kappa Honor Society
+#   year: Inducted May 2014
+# - title: 1st Place Undergraduate Senior Capstone Award, Virginia Tech Computer Science
+#   year: 2014
+# - title: David Heilman Research Award, Virginia Tech Computer Science
+#   year: 2014
+#   descr: Awarded to the Computer Science student with the most
+#     outstanding research experience.
+# - title: Senior Scholar Award, Virginia Tech Computer Science
+#   year: 2014
+#   descr: Awarded to the senior in Computer Science with the most
+#          outstanding academic record.
+# - title: ACC Meeting of the Minds Undergraduate Research Conference, 2014
+#   url: http://www.vtnews.vt.edu/articles/2014/03/030514-uged-accmom.html
+# - title: Honorable Mention, CRA Outstanding Undergraduate Researcher Award
+#   year: 2014
+# - title: Qualstar Award, Qualcomm, 2013
+# - title: Pi Mu Epsilon Honor Society, Inducted 2013
+# - title: Benjamin F. Bock Merit Scholarship, Virginia Tech Engineering
+#   year: 2013 -- 2014
+# - title: Sophomore Scholar Award, Virginia Tech Computer Science, 2013
+#   descr: Awarded to the sophomore in Computer Science with the most
+#          outstanding academic record.
+# - title: University Honors, Virginia Tech, 2012 -- 2014
+# - title: Intelligence Community Center of Academic Excellence Scholarship, Virginia Tech
+#   year: 2012 -- 2014
+#   descr: Merit-based scholarship providing a cyber-security
+#          research fellowship.
+# - title: Dean's List with Distinction, Virginia Tech, 2011 -- 2014
+# - title: Engineering Merit Scholarship,
+#          Roanoke County Public Schools Education Foundation
+#   year: 2011
+#   descr: Merit-based scholarship presented annually to one student
+#          in the graduating Engineering class.
+# - title: "Papa John's Merit Scholarship"
+#   year: 2011
+# - title: Gay B. Shober Memorial Merit Scholarship,
+#          Roanoke County Federal Credit Union
+#   year: 2011
+# - title: Pamplin Leader Merit Scholarship, Virginia Tech
+#   year: 2011
+#   descr: Merit-based scholarship presented to one student from
+#          each public high school in Virginia.
+#   url: http://ww2.roanoke.com/community/virginia/education/wb/292050
+# - title: I. Luck Gravett Memorial Merit Scholarship,
+#       Scottish Rite of Freemasonry
+#   year: 2011
+# - title: Salem -- Roanoke County Chamber of Commerce Merit Scholarship
+#   year: 2011
+#   url: http://s-rcchamber.org/wp-content/uploads/2011/03/August-2011-NL.pdf
+# - title: 1st Place Regional CAD/Engineering Drawing,
+#          Virginia TSA, Blue Ridge Region, 2011
+# - title: District Band Trumpeter, VBODA District VI, 2009 -- 2011
+# - title: Virginia Aerospace Science and Technology Scholar,
+#          National Space Grant Foundation, 2010
+#   descr: Selected as an attendee of a summer academy at NASA
+#          Langley Research Center.
+# - title: Head Junior Marshall, Northside High School, 2010
+# - title: 3rd Place District Foreign Extemporaneous Speaker,
+#          VHSL Forensics, 2009
+
+# activities: # From high school and college :-)
+# - Honors Residential College, Virginia Tech, 2013 -- 2014
+# - Hokies Pep Band, Virginia Tech, 2012 -- 2013
+# - Computer Science Community Service, Virginia Tech, 2012
+# - Symphony Band, Virginia Tech, 2011 -- 2012
+# - Linux and Unix Users Group, Virginia Tech, 2011 -- 2012
+# - Galileo Living -- Learning Community, Virginia Tech, 2011 -- 2012
+# - Trumpet Section Leader, Maring Band, Northside High School, 2010 -- 2011
+# - Math Club, Northside High School, 2010 -- 2011
+# - National Honor Society, Northside High School, 2009 -- 2011
+# - Academic Team, Northside High School, 2009 -- 2011
+# - Chess Team, Northside High School, 2009 -- 2011
+# - Tennis Team, Northside High School, 2008 -- 2011
+# - Technology Student Association, Northside High School, 2008 -- 2011
+# - Maring Band, Northside High School, 2007 -- 2011
+# - Robotics Team, Virginia Western Community College, 2009 -- 2010
+# - Guitar Club, Northside High School, 2009 -- 2010
+# - Forensics Team, Northside High School, 2008 -- 2010
+# - Spanish Club, Northside High School, 2008 -- 2010
+# - Engineering Club, Burton Center for Arts and Technology, 2007 -- 2008
+# - Soccer Team, Northside High School, 2007 -- 2008
+
+# Erdős  number is at most 4.
+# (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
