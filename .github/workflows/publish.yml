@@ -1,0 +1,49 @@
+name: Publish CV
+
+on:
+  workflow_dispatch:  # Allow manual triggers
+  pull_request:       # Trigger on pull requests
+  push:
+    branches:
+      - main  # Change to your default branch name
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to publish CV.
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: make deps
+
+      - name: Build CV
+        run: make
+
+      - name: Upload build results to Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: build
+          path: build
+
+      - name: Checkout gh-pages
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Update gh-pages
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          make push

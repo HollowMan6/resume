@@ -5,8 +5,8 @@
 # Songlin Jiang <http://hollowman6.github.io>
 
 WEBSITE_DIR=gh-pages
-WEBSITE_PDF=$(WEBSITE_DIR)/CV-Songlin-Jiang.pdf
-WEBSITE_MD=$(WEBSITE_DIR)/README.md
+WEBSITE_PDF=CV-Songlin-Jiang.pdf
+WEBSITE_MD=README.md
 
 TEMPLATES=$(shell find templates -type f)
 
@@ -49,16 +49,18 @@ viewpdf: $(PDF)
 	gnome-open $(PDF)
 
 stage: $(PDF) $(MD)
-	cp $(PDF) $(WEBSITE_PDF)
-	cp $(MD) $(WEBSITE_MD)
+	cp $(PDF) $(WEBSITE_DIR)/$(WEBSITE_PDF)
+	cp $(MD) $(WEBSITE_DIR)/$(WEBSITE_MD)
 
 jekyll: stage
 	cd $(WEBSITE_DIR) && bundle exec jekyll server
 
 push: stage
-	git -C $(WEBSITE_DIR) add $(WEBSITE_PDF) $(WEBSITE_MD)
-	git -C $(WEBSITE_DIR) commit -m "Update cv."
-	git -C $(WEBSITE_DIR) push
+	cd $(WEBSITE_DIR); \
+	git add $(WEBSITE_PDF) $(WEBSITE_MD); \
+	git commit -m "Update CV"; \
+	git push -f origin $(WEBSITE_DIR)
 
 clean:
 	rm -rf *.db $(BUILD_DIR)/cv*
+
