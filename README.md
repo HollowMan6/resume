@@ -213,7 +213,7 @@ VT Benjamin F. Bock, VT Gay B. Shober, VT I. Luck Gravett
 Selected publications are <span style='background-color: #ffffd0'>highlighted.</span>
 <!-- I most frequently publish at ICML (9 papers), NeurIPS (9 papers), and ICLR (5 papers). -->
 <br>
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ">Google Scholar</a>:  citations and an h-index of 0.]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 0.]
 <br>
 
 <h2>2023</h2>
