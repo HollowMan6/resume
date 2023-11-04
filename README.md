@@ -44,7 +44,7 @@ maintain serveral open source projects and contribute to many others.
         (91/100)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis: <i><a href="https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf" target="_blank">A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN</a></i>
+        <br> Thesis: <i>\hrefhttps://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf</i>{A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN}
         <br> Supervisor: <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>
         </p>
     </td>
@@ -234,7 +234,7 @@ maintain serveral open source projects and contribute to many others.
   <td>
   <div style='float: right'>2022</div>
   <div>
-        Intern of Excellence & Star of Open Source Award in <a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank"><b>openEuler</a> Open Source Internship</b>
+        Intern of Excellence & Star of Open Source Award in <a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank"><b>openEuler</b> Open Source Internship</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -252,7 +252,7 @@ maintain serveral open source projects and contribute to many others.
   <td>
   <div style='float: right'>2021</div>
   <div>
-        Software Design Engineer, <a href="https://commons.wikimedia.org/wiki/File:China_Qualification_of_Computer_and_Software_Professional_Certificate.jpg" target="_blank">China <b>Qualification of Computer and Software Professional</a></b>
+        Software Design Engineer, <a href="https://commons.wikimedia.org/wiki/File:China_Qualification_of_Computer_and_Software_Professional_Certificate.jpg" target="_blank">China <b>Qualification of Computer and Software Professional</b></a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2021</td> -->
@@ -279,7 +279,7 @@ maintain serveral open source projects and contribute to many others.
   <td>
   <div style='float: right'>2020</div>
   <div>
-        <a href="https://www.catticenter.com/wzjs/452" target="_blank"><b>CATTI</a></b> Level 3 (English & Chinese) Translator
+        <a href="https://www.catticenter.com/wzjs/452" target="_blank"><b>CATTI</b></a> Level 3 (English & Chinese) Translator
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -298,7 +298,7 @@ maintain serveral open source projects and contribute to many others.
   <td>
   <div style='float: right'>2020</div>
   <div>
-        Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</a> University Developer Competition</b>
+        Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
