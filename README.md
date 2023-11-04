@@ -44,7 +44,7 @@ maintain serveral open source projects and contribute to many others.
         (91/100)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis: <i>\hrefhttps://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf</i>{A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN}
+        <br> Thesis: <a href="https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf" target="_blank"><i>A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN</i></a>
         <br> Supervisor: <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>
         </p>
     </td>
@@ -583,7 +583,7 @@ maintain serveral open source projects and contribute to many others.
 <!-- [<a href="https://github.com/HollowMan/resume/blob/master/publications/all.bib">BibTeX</a>] -->
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
-<br>
+<!-- <br> -->
 [<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ">Google Scholar</a>, 2 citations with h-index of 1]
 <br>
 
