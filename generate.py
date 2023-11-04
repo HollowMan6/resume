@@ -90,7 +90,8 @@ def get_pub_md(context, config):
         year_venue = "{} {}".format(pub['_venue'], pub['year'])
 
         highlight = 'selected' in pub and pub['selected'].lower() == 'true'
-        img_str = f'<img src="images/publications/{pub["ID"]}.png" onerror="this.style.display=\'none\'" class="publicationImg" />'
+        img_str = ''
+        # img_str = f'<img src="images/publications/{pub["ID"]}.png" onerror="this.style.display=\'none\'" class="publicationImg" />'
         links = []
         abstract = ''
         if 'abstract' in pub:
@@ -401,10 +402,12 @@ def truncate_to_k(num):
     return f"{num_k}k+"
 
 
-def add_repo_data(context, config):
+def add_repo_data(context, config, in_tex):
     repo_htmls = shelve.open('repo_htmls.shelf')
 
     total_stars = 0
+    followers = 1500
+
     for item in config:
         assert 'repo_url' in item
         assert 'year' in item
@@ -412,7 +415,7 @@ def add_repo_data(context, config):
 
         short_name = re.search('.*github\\.com/(.*)', item['repo_url'])[1]
         if 'name' not in item:
-            item['name'] = short_name
+            item['name'] = short_name.replace('_', '\\_') if in_tex else short_name
 
         # Scrape the repo HTML instead of using the GitHub API
         # to avoid being rate-limited (sorry), and be nice by
@@ -434,18 +437,20 @@ def add_repo_data(context, config):
         if 'desc' not in item:
             item['desc'] = soup.find('p', class_='f4 mt-3').text.strip()
 
-    return truncate_to_k(total_stars)
+    return truncate_to_k(total_stars), truncate_to_k(followers)
 
 def get_scholar_stats(scholar_id):
     scholar_stats = shelve.open('scholar_stats.shelf')
     if 'h_index' not in scholar_stats:
         author = scholarly.search_author_id(scholar_id)
         author = scholarly.fill(author, sections=['indices'])
-        scholar_stats['h_index'] = author['hindex']
-        citation = 0
-        if 'citedby' in author:
-            citation = author['citedby']
-        scholar_stats['citations'] = truncate_to_k(citation)
+        scholar_stats['h_index'] = 1
+        scholar_stats['citations'] = 2
+        # scholar_stats['h_index'] = author['hindex']
+        # citation = 0
+        # if 'citedby' in author:
+        #     citation = author['citedby']
+        # scholar_stats['citations'] = truncate_to_k(citation)
     return scholar_stats
 
 
@@ -518,8 +523,6 @@ class RenderContext(object):
             section_data = {'name': section_title}
             section_content = None if section_tag == "NEWPAGE" else yaml_data[section_tag]
             if section_tag == 'about':
-                if self._file_ending == '.tex':
-                    continue
                 section_template_name = "section" + self._file_ending
                 section_data['data'] = section_content
             elif section_tag == 'news':
@@ -528,9 +531,10 @@ class RenderContext(object):
                 section_template_name = os.path.join(self.SECTIONS_DIR, 'news.md')
                 section_data['items'] = section_content
             elif section_tag == 'repos':
-                total_stars = add_repo_data(self, section_content)
+                total_stars, followers = add_repo_data(self, section_content, self._file_ending == '.tex')
                 section_data['items'] = section_content
                 section_data['total_stars'] = total_stars
+                section_data['followers'] = followers
                 section_template_name = os.path.join(
                     self.SECTIONS_DIR, section_tag + self._file_ending)
             elif section_tag in ['current_position']:
@@ -541,7 +545,7 @@ class RenderContext(object):
                     self.SECTIONS_DIR, 'positions' + self._file_ending)
             elif section_tag in ['coursework', 'education', 'honors',
                                  'positions', 'research', 'skills', 'service',
-                                 'teaching', 'talks', 'advising']:
+                                 'teaching', 'talks', 'advising', 'patents']:
                 section_data['items'] = section_content
                 section_template_name = os.path.join(
                     self.SECTIONS_DIR, section_tag + self._file_ending)
@@ -612,12 +616,13 @@ MARKDOWN_CONTEXT = RenderContext(
         (r'\.~', '. '),  # spaces
         (r'\\ ', ' '),  # spaces
         (r'\\&', '&'),  # unescape &
+        (r'\\_', '_'),  # unescape _
         (r'\\\$', '\\$'),  # unescape $
         (r'\\%', '%'),  # unescape %
-        (r'\\textbf{(.*)}', r'**\1**'),  # bold text
-        (r'\{ *\\bf *(.*)\}', r'**\1**'),
-        (r'\\textit{(.*)}', r'*\1*'),  # italic text
-        (r'\{ *\\it *(.*)\}', r'*\1*'),
+        (r'\\textbf{(.*?)}', r'<b>\1</b>'),  # bold text
+        (r'\{ *\\bf *(.*?)\}', r'<b>\1</b>'),
+        (r'\\textit{(.*?)}', r'<i>\1</i>'),  # italic text
+        (r'\{ *\\it *(.*?)\}', r'<i>\1</i>'),
         (r'\\LaTeX', 'LaTeX'),  # \LaTeX to boring old LaTeX
         (r'\\TeX', 'TeX'),  # \TeX to boring old TeX
         (' --- ', '&nbsp;-&nbsp;'),  # em dash

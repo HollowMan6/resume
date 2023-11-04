@@ -1,8 +1,8 @@
 {% extends "section.md" %}
 
 {% block body %}
-Slides for my major presentations are open-sourced with a CC-BY license at
-[bamos/presentations](https://github.com/bamos/presentations).
+<!-- Slides for my major presentations are open-sourced with a CC-BY license at -->
+<!-- [bamos/presentations](https://github.com/bamos/presentations). -->
 
 <table class="table table-hover">
 {% for item in items %}

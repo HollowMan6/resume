@@ -1,10 +1,12 @@
 ~< extends "section.tex" >~
 
 ~< block body >~
+Some top-quality courses I've taken: \\
+
 ~< for course in items >~
 \cvlistitem{
     << course.name >>,
-    << course.instructor >>
+    << course.school >>
     \hfill
     << course.semester>>
 }

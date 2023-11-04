@@ -1,0 +1,12 @@
+~< extends "section.tex" >~
+
+~< block body >~
+~< for item in items >~
+\cvlistitem{
+    \textbf{<< item.name >>}
+    \hfill
+    \href{<<item.url>>}{<< item.id >>}
+    << item.year>>
+}
+~< endfor >~
+~< endblock body >~
