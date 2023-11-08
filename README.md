@@ -1,9 +1,12 @@
 > [Download PDF version](CV-Songlin-Jiang.pdf)
 
-My academic pursuits and passion converge within the realms of improving
-<b>computer systems</b>, <b>networks</b>, <b>databases</b>, and also their associated
-<b>security</b> dimensions. I'm a free software enthusiast as well. In my spare time, I
-maintain serveral open source projects and contribute to many others.
+My academic fervor converges with enhancing <b>computer systems</b>,
+<b>networks</b>, <b>databases</b>, and their corresponding
+<b>security</b> aspects, which allows my research to have impacts
+on computing for both the environment (<b>greener while efficient</b>)
+and people (<b>faster while reliable</b>). Additionally, I am a
+passionate <b>free software advocate</b>. During my leisure time, I
+maintain several open-source projects and contribute to many others.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -33,7 +36,7 @@ maintain serveral open source projects and contribute to many others.
   <tr>
     <td>
       <span class='cvdate'>Spring 2020</span>
-      <strong>Exchange Student</strong>, <em>University of Leeds</em>
+      <strong>Exchange</strong>, <em>University of Leeds</em>
       <br>
     </td>
   </tr>
@@ -44,7 +47,7 @@ maintain serveral open source projects and contribute to many others.
         (91/100)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis: <a href="https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf" target="_blank"><i>A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN</i></a>
+        <br> Thesis: <a href="https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf" target="_blank"><i>A Short-Term Wind Speed Multistep-Ahead Hybrid\ Prediction Model based on ICEEMDAN and Prophet-GRU-NN</i></a>
         <br> Supervisor: <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>
         </p>
     </td>
@@ -56,109 +59,156 @@ maintain serveral open source projects and contribute to many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jun 2023&nbsp;-&nbsp;Present</span>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
 <p markdown="1" style='margin: 0'><strong>Developer Relations Engineer</strong>, <em>Enclaive</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(with <a href="https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en" target="_blank">Prof. Sebastian Gajek</a> on confidential computing)
+(confidential computing, with <a href="https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en" target="_blank">Prof. Sebastian Gajek</a>)
 </span></p>
-  </td>
-</tr>
-<tr>
-  <td style='padding-right:0;'>
-<span class='cvdate'>Jun 2023&nbsp;-&nbsp;Present</span>
-<p markdown="1" style='margin: 0'><strong>VR Browser Developer</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://github.com/Igalia/wolvic" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
-</span></p>
-  </td>
-</tr>
-<tr>
-  <td style='padding-right:0;'>
-<span class='cvdate'>May 2023&nbsp;-&nbsp;Aug 2023</span>
-<p markdown="1" style='margin: 0'><strong>HPC Developer Intern</strong>, <em>CSC - IT Center for Science</em></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> Help develop the GPU monitoring service for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
-  <br> Develop the Documentation GPT chatbot service using llamaIndex, LangChain and Redis
-  <br> LUMI ranked 3rd around the world and 1st in Europe at HPC supercomputer TOP500 list by 2023
+  <br> Technical <b>documentation</b>, tutorials and content creation
+  <br> Channel management to <b>interact</b> with the community and grow the base
   </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Mar 2023&nbsp;-&nbsp;May 2023</span>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
+<p markdown="1" style='margin: 0'><strong>Coding Experience</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+(<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
+</span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> <b>VR Browser</b> Development, <b>Android</b> deprecated methods refactoring
+  <br> Address user issues, UI and <b>openXR</b> related feature implementation
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
+<span class='cvdate'>05/2023&nbsp;-&nbsp;08/2023</span>
+<p markdown="1" style='margin: 0'><strong>HPC Developer Internship</strong>, <em>CSC - IT Center for Science</em></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Develop the <b>GPU monitoring service</b> for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
+  <br> Develop the Documentation GPT chatbot service using <a href="https://twitter.com/llama_index/status/1671537854802202624" target="_blank"><b>llamaIndex</b></a>, <b>LangChain</b> and <b>Redis</b>
+  <br> Make <a href="https://github.com/OSC/ondemand/pull/2958" target="_blank">improvements</a> to the HPC web operating interface project <i>Open OnDemand</i> in <b>Ruby on Rails</b>
+  <br> LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 2023
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
+<span class='cvdate'>03/2023&nbsp;-&nbsp;05/2023</span>
 <p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-LFX-Mentorship" target="_blank">CNCF LFX Mentorship</a></strong>, <em><a href="https://github.com/kubescape" target="_blank">Kubescape</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (Kubernetes security platform)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Add packaging support for various <b>package managers</b> in <b>Linux</b>, <b>macOS</b>, and <b>Windows</b>
+  <br> Improve <b>release CI</b> by adding <b>ARM64</b> binaries building and testing support (by <b>QEMU</b> and <b>cross compiling</b>), and also support Kubescape auto version bumping for other Kubescape-related repositories
+  <br> Enable Kubescape <a href="https://github.com/kubescape/github-action" target="_blank"><b>GitHub action</b></a> to support <b>code review</b> based on generated <a href="https://github.com/HollowMan6/sarif4reviewdog/pull/5" target="_blank"><b>SARIF report</b></a>
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>July 2022&nbsp;-&nbsp;Sep 2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program" target="_blank">Rhino-Bird Open-Source Training Program 2022</a></strong>, <em>Tencent</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span class='cvdate'>07/2022&nbsp;-&nbsp;09/2022</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program" target="_blank">Rhino-Bird Open-Source Training Program</a></strong>, <em>Tencent</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (Kona JDK)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Generate keypairs for <a href="https://www.cryptopp.com/wiki/SM2" target="_blank"><b>SM2</b></a> by various algorithms with <a href="https://github.com/HollowMan6/tencent_RbOSTP_jdk/tree/sm2" target="_blank"><b>JDK</b> library</a>, compare <b>performance</b> and <b>security</b>
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>May 2022&nbsp;-&nbsp;Sep 2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code 2022</a></strong>, <em><a href="https://www.csail.mit.edu/research/mit-app-inventor" target="_blank">MIT CSAIL</a> & Google</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://github.com/google/blockly" target="_blank">Blockly</a>, web-based program editor)
+<span class='cvdate'>05/2022&nbsp;-&nbsp;09/2022</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em><a href="https://www.csail.mit.edu/research/mit-app-inventor" target="_blank">MIT CSAIL</a> & Google</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+(<a href="https://github.com/google/blockly/releases/tag/blockly-v10.1.2" target="_blank">Blockly</a>, web-based visual program editor)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Allow selecting, dragging and manipulating multiple blocks for Google Blockly by <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">creating a <b>plugin</b></a>
+  <br> Resolve the <a href="https://github.com/google/blockly-samples/issues/267\#issuecomment-255582938" target="_blank">issue</a> that had troubled the <b>Google Engineers</b> for <b>a decade</b> (since the Blockly project started)
+  <br> <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has average <b>50+</b> downloads per week
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>May 2022&nbsp;-&nbsp;Aug 2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Summer-of-Bitcoin" target="_blank">Summer of Bitcoin 2022</a></strong>, <em><a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">Cryptoanarchy Debian</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span class='cvdate'>05/2022&nbsp;-&nbsp;08/2022</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Summer-of-Bitcoin" target="_blank">Summer of Bitcoin</a></strong>, <em><a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">Cryptoanarchy Debian</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (Bitcoin related Debian packages)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Add Continuous Integration (CI) by investigating <b>systemd</b> support inside Docker with GitHub Actions
+  <br> <a href="https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/" target="_blank">Chances</a> to get into this internship in 2022: <b>83/20317</b>
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>May 2022&nbsp;-&nbsp;Aug 2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest" target="_blank">RL Open Source Fest 2022</a></strong>, <em><a href="https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/" target="_blank">Microsoft Research NYC</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://vowpalwabbit.org/" target="_blank">Vowpal Wabbit</a>, ML library)
+<span class='cvdate'>05/2022&nbsp;-&nbsp;08/2022</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest" target="_blank">RL Open Source Fest</a></strong>, <em><a href="https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/" target="_blank">Microsoft Research NYC</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+(<a href="https://github.com/VowpalWabbit/vowpal_wabbit/releases/tag/9.4.0" target="_blank">Vowpal Wabbit</a>, ML library)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Add native CSV parser support for the Vowpal Wabbit project in C++, <b>100%</b> Test & Code Coverage
+  <br> Finally managed to make <b>10x performance improvement</b> and is comparable to VW text format
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jan 2022&nbsp;-&nbsp;Jul 2022</span>
+<span class='cvdate'>01/2022&nbsp;-&nbsp;07/2022</span>
 <p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Open Source Intern</a></strong>, <em>Institute of Software, CAS</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (<a href="https://www.openeuler.org/zh/internship/" target="_blank">openEuler</a>, Linux distribution)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> <b>First</b> to obtain 150 intern credits. Help solve 6 issues, related technologies include <b>D-Bus</b>, <b>Glib</b>, building Cloud Native <b>Container</b> images, <b>Rust</b> programming, <b>Chrome DevTools Protocol</b>, test case, <b>RPM</b> packaging
+  <br> One of the achievement <a href="https://crates.io/crates/mdbook-pdf" target="_blank">mdbook-pdf</a> now has average <b>100+</b> downloads per week
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jun 2021&nbsp;-&nbsp;Aug 2021</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code 2021</a></strong>, <em>openSUSE</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://en.wikipedia.org/wiki/Intelligent_Input_Bus" target="_blank">IBus</a>, input method framework)
+<span class='cvdate'>06/2021&nbsp;-&nbsp;08/2021</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em>openSUSE</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+(<a href="https://github.com/ibus/ibus" target="_blank">IBus</a>, input method framework)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Add custom themes feature for IME framework IBus, improve IBus settings support in GNOME
+  <br> A <a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">blog post</a> at <b>openSUSE News</b> that introduces my work
+  <br> <b>GNOME extension</b> <a href="https://extensions.gnome.org/extension/4112/customize-ibus/" target="_blank">Customize IBus</a> now has average <b>100+</b> downloads per week
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jul 2021&nbsp;-&nbsp;Sep 2021</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer 2021</a></strong>, <em>openEuler</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span class='cvdate'>07/2021&nbsp;-&nbsp;09/2021</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>openEuler</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (Developed an ISO writer using QT and C++)
 </span></p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jul 2020&nbsp;-&nbsp;Sep 2020</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer 2020</a></strong>, <em>Emacs Application Framework</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span class='cvdate'>07/2020&nbsp;-&nbsp;09/2020</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>Emacs Application Framework</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (<a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">EAF</a>, work with <a href="https://github.com/manateelazycat" target="_blank">Yong Wang</a>)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Address issues using <b>Emacs Lisp</b>, <b>Python</b>, <b>JavaScript</b>, <b>SQLite</b> to add new features for Emacs Application
+  <br> A <a href="https://manateelazycat.github.io/2020/07/22/eaf-support-caret-browse/" target="_blank">blog post (in Chinese)</a> about my work posted by Yong Wang (ManateeLazyCat)
+  </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>Jul 2020&nbsp;-&nbsp;Aug 2020</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Alibaba-Summer-of-Code" target="_blank">Summer of Code 2020</a></strong>, <em>Alibaba</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span class='cvdate'>07/2020&nbsp;-&nbsp;08/2020</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Alibaba-Summer-of-Code" target="_blank">Summer of Code</a></strong>, <em>Alibaba</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
 (<a href="https://github.com/alibaba/arthas" target="_blank">Arthas</a>, Java diagnostic tool)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> Write Chinese and English online tutorials for Arthas using <b>Katacoda</b> and <b>Vue.js</b>
+  <br> <b>Highlight</b>: Support directly searching Class Loader by name instead of Hash Code using Java
+  </p>
   </td>
 </tr>
 </table>
@@ -171,7 +221,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2022&nbsp;-&nbsp;2024</div>
   <div>
         SECCLO <b>Erasmus Mundus</b> Scholarship
-    <br><p style="color:grey;font-size:1.2rem">Full-ride scholarship, including tuition and living costs</p>
+    <br><p style="color:grey;font-size:1.2rem">(26/767) Full-ride scholarship, including tuition and living costs</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022&nbsp;-&nbsp;2024</td> -->
@@ -217,6 +267,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://opensource.tencent.com/contribution" target="_blank">Recognized</a> <b>Tencent</b> Open Source Contributor
+    <br><p style="color:grey;font-size:1.2rem">Only 30+ were issued globally by then</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -226,6 +277,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://mp.weixin.qq.com/s/E4dSpia0V9k5gtGl5T9cDg" target="_blank">Intern of Excellence</a> Award at <b>Tencent</b>
+    <br><p style="color:grey;font-size:1.2rem">2/4000+ to receive all the 3 kinds of intern awards</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -235,6 +287,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         Intern of Excellence & Star of Open Source Award in <a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank"><b>openEuler</b> Open Source Internship</a>
+    <br><p style="color:grey;font-size:1.2rem">Only 3/150+ interns received both awards</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -299,6 +352,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
+    <br><p style="color:grey;font-size:1.2rem">Ranked 1st in final defense</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -308,6 +362,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         <a href="https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh" target="_blank">Star of Innovation Award</a> in <b>Alibaba T-head</b> OCC Developers IoT Innovation Competition
+    <br><p style="color:grey;font-size:1.2rem">My proposal ranked 1st in voting (850 votes, 300 more than the 2nd one)</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -317,7 +372,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <b>China Scholarship Council</b> <a href="https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
-    <br><p style="color:grey;font-size:1.2rem">Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
+    <br><p style="color:grey;font-size:1.2rem">(Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -327,6 +382,7 @@ maintain serveral open source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <b>Google</b> <a href="https://www.zhihu.com/question/292397097" target="_blank">InnoCamp Hangzhou BoostMakers</a>&nbsp;-&nbsp;TensorFlow Boost
+    <br><p style="color:grey;font-size:1.2rem">40+/2000+</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -358,7 +414,7 @@ maintain serveral open source projects and contribute to many others.
 
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
-1.5k+ GitHub followers,
+1.5k+ GitHub followers.
 55.5k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
@@ -432,7 +488,7 @@ maintain serveral open source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 105 |
+    <i class="fa fas fa-star"></i> 106 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
     <!--  -->
@@ -542,7 +598,7 @@ maintain serveral open source projects and contribute to many others.
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2023</span>
+    <span class='cvdate'>06/2023</span>
      <em><a href="https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf" target="_blank">Virtual Network Systems among Containers</a></em>,
         <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/">Aalto University Secure Systems Demo Day</a>
   </td>
@@ -550,7 +606,7 @@ maintain serveral open source projects and contribute to many others.
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2023</span>
+    <span class='cvdate'>06/2023</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Multi-Select Plugin</a></em>,
         <a href="https://www.youtube.com/watch?v=4OFU9D1Y2DI">Google Blockly Summit</a>
   </td>
@@ -558,7 +614,7 @@ maintain serveral open source projects and contribute to many others.
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2022</span>
+    <span class='cvdate'>08/2022</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Native CSV Parser</a></em>,
         <a href="https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s">Microsoft Research NYC Seminar (RLOSFest)</a>
   </td>
@@ -566,24 +622,24 @@ maintain serveral open source projects and contribute to many others.
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2022</span>
-     <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship (in Chinese)</a></em>,
+    <span class='cvdate'>08/2022</span>
+     <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship</a></em>,
         <a href="https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3">openEuler Excellent Intern Seminar</a>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2021</span>
-     <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python (in Chinese)</a></em>,
+    <span class='cvdate'>05/2021</span>
+     <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
         <a href="https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34">openEuler University Developer Competition</a>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
   <td style='padding-right:0;'>
-    <span class='cvdate'>2020</span>
-     <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas (in Chinese)</a></em>,
+    <span class='cvdate'>08/2020</span>
+     <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas</a></em>,
         <a href="https://www.bilibili.com/video/BV1ih41197m3">Alibaba Summer of Code Presentation</a>
   </td>
 </tr>
@@ -606,11 +662,11 @@ maintain serveral open source projects and contribute to many others.
 
 
 ## <i class="fa fa-chevron-right"></i> Software Copyright
-+ Hollow Software for Smartly Memorizing Words, <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html">CN 2020SR0839716</a>, 2020
-+ Hollow Software System for Sport Center Management, <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html">CN 2020SR0839709</a>, 2020
-+ Hollow Software for Jack Compiler, <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html">CN 2020SR0839702</a>, 2020
-+ Hollow Software for Picture & Video Information Hiding En-Decryption, <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html">CN 2020SR0079950</a>, 2020
-+ Face Recognition Access Control System, <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html">CN 2019SR1388115</a>, 2019
++ Hollow Software for Smartly Memorizing Words, <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html">CN 2020SR0839716</a>
++ Hollow Software System for Sport Center Management, <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html">CN 2020SR0839709</a>
++ Hollow Software for Jack Compiler, <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html">CN 2020SR0839702</a>
++ Hollow Software for Picture & Video Information Hiding En-Decryption, <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html">CN 2020SR0079950</a>
++ Face Recognition Access Control System, <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html">CN 2019SR1388115</a>
 
 
 ## <i class="fa fa-chevron-right"></i> Publications
