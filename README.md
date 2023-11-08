@@ -76,7 +76,7 @@ maintain serveral open source projects and contribute to many others.
 <p markdown="1" style='margin: 0'><strong>HPC Developer Intern</strong>, <em>CSC - IT Center for Science</em></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> Help develop the GPU monitoring service for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
-  <br> Develop the Documentation GPT chatbot service using llamaIndex, Langchain and Redis
+  <br> Develop the Documentation GPT chatbot service using llamaIndex, LangChain and Redis
   <br> LUMI ranked 3rd around the world and 1st in Europe at HPC supercomputer TOP500 list by 2023
   </p>
   </td>
@@ -305,9 +305,19 @@ maintain serveral open source projects and contribute to many others.
 </tr>
 <tr>
   <td>
+  <div style='float: right'>2020</div>
+  <div>
+        <a href="https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh" target="_blank">Star of Innovation Award</a> in <b>Alibaba T-head</b> OCC Developers IoT Innovation Competition
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
+</tr>
+<tr>
+  <td>
   <div style='float: right'>2019</div>
   <div>
         <b>China Scholarship Council</b> <a href="https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
+    <br><p style="color:grey;font-size:1.2rem">Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -349,7 +359,7 @@ maintain serveral open source projects and contribute to many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers,
-54.7k+ GitHub stars across all of the following selected repositories:
+55.5k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -357,8 +367,8 @@ maintain serveral open source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9k |
-    <em>Kubernetes security platform</em>
+    <i class="fa fas fa-star"></i> 9.1k |
+    <em>Kubernetes Security Platform</em>
     <!--  -->
     <!--     kubescape/kubescape  -->
     <!--  -->
@@ -369,8 +379,9 @@ maintain serveral open source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 629 |
+    <i class="fa fas fa-star"></i> 633 |
     <em>Immersive VR Browser</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
     <!--  -->
     <!--     Igalia/wolvic  -->
     <!--  -->
@@ -383,6 +394,7 @@ maintain serveral open source projects and contribute to many others.
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit">VowpalWabbit/vowpal_wabbit</a> |
     <i class="fa fas fa-star"></i> 8.3k |
     <em>Machine Learning System</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #77 among all contributors with 3 commits, 1611 lines of additions and 83 lines of deletions</p>
     <!--  -->
     <!--     VowpalWabbit/vowpal_wabbit  -->
     <!--  -->
@@ -393,8 +405,9 @@ maintain serveral open source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 135 |
+    <i class="fa fas fa-star"></i> 137 |
     <em>Bitcoin Packages for Debian</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
     <!--  -->
     <!--     debian-cryptoanarchy/cryptoanarchy-deb-repo-builder  -->
     <!--  -->
@@ -404,11 +417,12 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td>
     <span class='cvdate'>2022</span>
-    <a href="https://github.com/HollowMan6/mdbook-pdf">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 105 |
-    <em>MdBook backend for PDF Generation</em>
+    <a href="https://github.com/ThibaultJanBeyer/DragSelect">ThibaultJanBeyer/DragSelect</a> |
+    <i class="fa fas fa-star"></i> 606 |
+    <em>DragSelect JavaScript UI Library</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
     <!--  -->
-    <!--     HollowMan6/mdbook-pdf  -->
+    <!--     ThibaultJanBeyer/DragSelect  -->
     <!--  -->
   </td>
 </tr>
@@ -416,23 +430,25 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
   <td>
     <span class='cvdate'>2022</span>
-    <a href="https://github.com/mit-cml/workspace-multiselect">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 5 |
-    <em>Blockly Multi-Select Plugin</em>
+    <a href="https://github.com/HollowMan6/mdbook-pdf">HollowMan6/mdbook-pdf</a> |
+    <i class="fa fas fa-star"></i> 105 |
+    <em>MdBook backend for PDF Generation</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
     <!--  -->
-    <!--     mit-cml/workspace-multiselect  -->
+    <!--     HollowMan6/mdbook-pdf  -->
     <!--  -->
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
   <td>
-    <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/Customize-IBus">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 47 |
-    <em>Full customization of IBus UI</em>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/mit-cml/workspace-multiselect">mit-cml/workspace-multiselect</a> |
+    <i class="fa fas fa-star"></i> 5 |
+    <em>Blockly Multi-Select Plugin</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 18 commits, 11846 lines of additions and 20978 lines of deletions</p>
     <!--  -->
-    <!--     openSUSE/Customize-IBus  -->
+    <!--     mit-cml/workspace-multiselect  -->
     <!--  -->
   </td>
 </tr>
@@ -440,11 +456,12 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
   <td>
     <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Hub">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 19 |
-    <em>IBus Themes CSS</em>
+    <a href="https://github.com/openSUSE/Customize-IBus">openSUSE/Customize-IBus</a> |
+    <i class="fa fas fa-star"></i> 47 |
+    <em>Full Customization of IBus UI</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 354 commits, 42984 lines of additions and 30128 lines of deletions</p>
     <!--  -->
-    <!--     openSUSE/IBus-Theme-Hub  -->
+    <!--     openSUSE/Customize-IBus  -->
     <!--  -->
   </td>
 </tr>
@@ -452,23 +469,25 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
   <td>
     <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Tools">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 13 |
-    <em>IBus Theme Generator</em>
+    <a href="https://github.com/openSUSE/IBus-Theme-Hub">openSUSE/IBus-Theme-Hub</a> |
+    <i class="fa fas fa-star"></i> 19 |
+    <em>IBus Themes CSS</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
     <!--  -->
-    <!--     openSUSE/IBus-Theme-Tools  -->
+    <!--     openSUSE/IBus-Theme-Hub  -->
     <!--  -->
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
   <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/alibaba/arthas">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 33.6k |
-    <em>Java Diagnostic Tool</em>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/openSUSE/IBus-Theme-Tools">openSUSE/IBus-Theme-Tools</a> |
+    <i class="fa fas fa-star"></i> 13 |
+    <em>IBus Theme Generator</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
     <!--  -->
-    <!--     alibaba/arthas  -->
+    <!--     openSUSE/IBus-Theme-Tools  -->
     <!--  -->
   </td>
 </tr>
@@ -476,11 +495,12 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
   <td>
     <span class='cvdate'>2020</span>
-    <a href="https://github.com/emacs-eaf/emacs-application-framework">emacs-eaf/emacs-application-framework</a> |
-    <i class="fa fas fa-star"></i> 2.8k |
-    <em>Emacs Application Framework</em>
+    <a href="https://github.com/alibaba/arthas">alibaba/arthas</a> |
+    <i class="fa fas fa-star"></i> 33.7k |
+    <em>Java Diagnostic Tool</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
     <!--  -->
-    <!--     emacs-eaf/emacs-application-framework  -->
+    <!--     alibaba/arthas  -->
     <!--  -->
   </td>
 </tr>
@@ -488,9 +508,23 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
   <td>
     <span class='cvdate'>2020</span>
+    <a href="https://github.com/emacs-eaf/emacs-application-framework">emacs-eaf/emacs-application-framework</a> |
+    <i class="fa fas fa-star"></i> 2.8k |
+    <em>Emacs Application Framework</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
+    <!--  -->
+    <!--     emacs-eaf/emacs-application-framework  -->
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
+  <td>
+    <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 105 |
+    <i class="fa fas fa-star"></i> 106 |
     <em>TinyML Programs for ESP32</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
     <!--  -->
     <!--     HollowMan6/TinyML-ESP32  -->
     <!--  -->
