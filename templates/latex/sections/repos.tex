@@ -2,13 +2,19 @@
 
 ~< block body >~
 << followers >> GitHub followers,
-<< total_stars >> GitHub stars across all of the following selected repositories:
-\begin{longtable}[t]{p{.2in}@{\hspace{1mm}}p{6.2in}@{\hspace{1em}}r}
+<< total_stars >> GitHub stars across all of the following selected repositories: \\
+
+% \begin{longtable}[t]{p{.2in}@{\hspace{1mm}}p{6.2in}@{\hspace{1em}}r}
   ~< for item in items >~
-    \hfill << loop.index >>. &
+    << loop.index >>.
     \href{<< item.repo_url >>}{<< item.name >>} | $\bigstar$<< item.stars >> |
-    \emph{<< item.desc >>} &
-    << item.year>> \\
+    \emph{<< item.desc >>}
+    \hfill << item.year>>
+    ~< if item.rank >~
+    \\ {\scriptsize \color{gray}{Rank \#<< item.rank >> among all contributors with << item.commits >> commits, << item.additons >> lines of additions and << item.deletions >> lines of deletions} \par}
+    ~< else >~
+      \\[0.5mm]
+    ~< endif >~
   ~< endfor >~
-\end{longtable}
+% \end{longtable}
 ~< endblock body >~

@@ -13,6 +13,9 @@
     <a href="{{ item.repo_url }}">{{ item.name }}</a> |
     <i class="fa fas fa-star"></i> {{ item.stars }} |
     <em>{{ item.desc }}</em>
+    {% if item.rank %}
+    <br><p style="color:grey;font-size:1.2rem">Rank #{{ item.rank }} among all contributors with {{ item.commits }} commits, {{ item.additons }} lines of additions and {{ item.deletions }} lines of deletions</p>
+    {% endif %}
     <!-- {% if item.url %} -->
     <!--     <a href="{{ item.url }}">{{ item.name }}</a> {{ item.details }} -->
     <!-- {% else %} -->

@@ -76,7 +76,7 @@ positions:
     dates: May 2023 -- Aug 2023
     details:
       - "Help develop the GPU monitoring service for HPC clusters (NVIDIA and AMD GPUs, including LUMI)"
-      - "Develop the Documentation GPT chatbot service using llamaIndex, Langchain and Redis"
+      - "Develop the Documentation GPT chatbot service using llamaIndex, LangChain and Redis"
       - "LUMI ranked 3rd around the world and 1st in Europe at HPC supercomputer TOP500 list by 2023"
   - place: \href{https://github.com/kubescape}{Kubescape}
     title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{CNCF LFX Mentorship}
@@ -152,7 +152,10 @@ honors:
     year: 2020
   - title: Award in \href{https://github.com/HollowMan6/My-openEuler-University-Developer-Competition}{\textbf{openEuler} University Developer Competition}
     year: 2020
+  - title: \href{https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh}{Star of Innovation Award} in \textbf{Alibaba T-head} OCC Developers IoT Innovation Competition
+    year: 2020
   - title: \textbf{China Scholarship Council} \href{https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm}{Outstanding Undergraduate International Exchange Scholarship}
+    descr: "Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement"
     year: 2019
   - title: \textbf{Google} \href{https://www.zhihu.com/question/292397097}{InnoCamp Hangzhou BoostMakers} -- TensorFlow Boost
     year: 2019
@@ -178,13 +181,16 @@ all_publications:
 repos:
   - repo_url: https://github.com/kubescape/kubescape
     year: 2023
-    desc: Kubernetes security platform
+    desc: Kubernetes Security Platform
   - repo_url: https://github.com/Igalia/wolvic
     year: 2023
     desc: Immersive VR Browser
   - repo_url: https://github.com/VowpalWabbit/vowpal_wabbit
     year: 2022
     desc: Machine Learning System
+  - repo_url: https://github.com/ThibaultJanBeyer/DragSelect
+    year: 2022
+    desc: DragSelect JavaScript UI Library
   - repo_url: https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder
     year: 2022
     desc: Bitcoin Packages for Debian
@@ -196,7 +202,7 @@ repos:
     desc: Blockly Multi-Select Plugin
   - repo_url: https://github.com/openSUSE/Customize-IBus
     year: 2021
-    desc: Full customization of IBus UI
+    desc: Full Customization of IBus UI
   - repo_url: https://github.com/openSUSE/IBus-Theme-Hub
     year: 2021
     desc: IBus Themes CSS
