@@ -369,6 +369,7 @@ maintain serveral open source projects and contribute to many others.
     <a href="https://github.com/kubescape/kubescape">kubescape/kubescape</a> |
     <i class="fa fas fa-star"></i> 9.1k |
     <em>Kubernetes Security Platform</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
     <!--  -->
     <!--     kubescape/kubescape  -->
     <!--  -->
@@ -404,12 +405,12 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
   <td>
     <span class='cvdate'>2022</span>
-    <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 137 |
-    <em>Bitcoin Packages for Debian</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
+    <a href="https://github.com/ThibaultJanBeyer/DragSelect">ThibaultJanBeyer/DragSelect</a> |
+    <i class="fa fas fa-star"></i> 606 |
+    <em>DragSelect JavaScript UI Library</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
     <!--  -->
-    <!--     debian-cryptoanarchy/cryptoanarchy-deb-repo-builder  -->
+    <!--     ThibaultJanBeyer/DragSelect  -->
     <!--  -->
   </td>
 </tr>
@@ -417,12 +418,12 @@ maintain serveral open source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td>
     <span class='cvdate'>2022</span>
-    <a href="https://github.com/ThibaultJanBeyer/DragSelect">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 606 |
-    <em>DragSelect JavaScript UI Library</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
+    <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
+    <i class="fa fas fa-star"></i> 137 |
+    <em>Bitcoin Packages for Debian</em>
+    <br><p style="color:grey;font-size:1.2rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
     <!--  -->
-    <!--     ThibaultJanBeyer/DragSelect  -->
+    <!--     debian-cryptoanarchy/cryptoanarchy-deb-repo-builder  -->
     <!--  -->
   </td>
 </tr>
