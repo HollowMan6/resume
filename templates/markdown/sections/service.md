@@ -12,7 +12,7 @@
       {{item.name }}
   {% endif %}
   {% if item.details %}
-  <br><p style="color:grey;font-size:1.2rem">{{ item.details }}</p>
+  <br><p style="color:grey;font-size:0.8rem">{{ item.details }}</p>
   {% endif %}
   </td>
 </tr>

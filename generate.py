@@ -100,7 +100,7 @@ def get_pub_md(context, config):
         if 'abstract' in pub:
             links.append("""
 [<a href='javascript:;'
-    onclick=\'$(\"#abs_{}{}\").toggle()\'>abs</a>]""".format(pub['ID'], prefix))
+    onclick=\'$(\"#abs_{}{}\").toggle()\'>abstract</a>]""".format(pub['ID'], prefix))
             abstract = context.make_replacements(pub['abstract'])
         if 'link' in pub:
             img_str = "<a href=\'{}\' target='_blank'>{}</a> ".format(

@@ -97,6 +97,7 @@ positions:
       - "Add packaging support for various \\textbf{package managers} in \\textbf{Linux}, \\textbf{macOS}, and \\textbf{Windows}"
       - "Improve \\textbf{release CI} by adding \\textbf{ARM64} binaries building and testing support (by \\textbf{QEMU} and \\textbf{cross compiling}), and also support Kubescape auto version bumping for other Kubescape-related repositories"
       - "Enable Kubescape \\href{https://github.com/kubescape/github-action}{\\textbf{GitHub action}} to support \\textbf{code review} based on generated \\href{https://github.com/HollowMan6/sarif4reviewdog/pull/5}{\\textbf{SARIF report}}"
+      - "A \\href{https://www.cncf.io/blog/2023/06/09/congratulations-to-57-cncf-term-1-lfx-program-mentees/\\#:~:text=Songlin\\%20Jiang}{blog post} by \\textbf{Cloud Native Computing Foundation} (\\textbf{CNCF}) that introduces my work"
   - place: Tencent
     title: \href{https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program}{Rhino-Bird Open-Source Training Program}
     inline_detail: "Kona JDK"
@@ -158,6 +159,7 @@ positions:
     details:
       - "Write Chinese and English online tutorials for Arthas using \\textbf{Katacoda} and \\textbf{Vue.js}"
       - "\\textbf{Highlight}: Support directly searching Class Loader by name instead of Hash Code using Java"
+      - "A \\href{https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa}{Wechat post (in Chinese)} about my work posted by \\href{https://github.com/hengyunabc}{hengyunabc}"
 
 honors:
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
@@ -249,6 +251,9 @@ repos:
   - repo_url: https://github.com/openSUSE/Customize-IBus
     year: 2021
     desc: Full Customization of IBus UI
+  - repo_url: https://github.com/HollowMan6/Wechat-Timed-Message
+    year: 2021
+    desc: GitHub action for WeChat Message
   - repo_url: https://github.com/openSUSE/IBus-Theme-Hub
     year: 2021
     desc: IBus Themes CSS
@@ -264,6 +269,9 @@ repos:
   - repo_url: https://github.com/HollowMan6/TinyML-ESP32
     year: 2020
     desc: TinyML Programs for ESP32
+  - repo_url: https://github.com/HollowMan6/SRMD-Pytorch
+    year: 2020
+    desc: Super Resolution Model
 
 talks:
   - year: 06/2023

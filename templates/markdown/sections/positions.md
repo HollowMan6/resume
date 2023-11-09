@@ -16,7 +16,7 @@
 , {{ i.location }}
 {% endif %}
 {% if i.inline_detail %}
-<span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 ({{ i.inline_detail }})
 </span>
 {%- endif -%}

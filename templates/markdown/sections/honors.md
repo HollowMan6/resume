@@ -13,7 +13,7 @@
         {{ award.title }}
     {% endif %}
     {% if award.descr %}
-    <br><p style="color:grey;font-size:1.2rem">{{ award.descr }}</p>
+    <br><p style="color:grey;font-size:0.8rem">{{ award.descr }}</p>
     {% endif %}
   </div>
   </td>

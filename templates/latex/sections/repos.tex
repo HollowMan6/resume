@@ -4,17 +4,13 @@
 << followers >> GitHub followers.
 << total_stars >> GitHub stars across all of the following selected repositories: \\
 
-% \begin{longtable}[t]{p{.2in}@{\hspace{1mm}}p{6.2in}@{\hspace{1em}}r}
+\setlength\tabcolsep{0pt}
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}} llllr}
   ~< for item in items >~
-    << loop.index >>.
-    \href{<< item.repo_url >>}{<< item.name >>} | $\bigstar$<< item.stars >> |
-    \emph{<< item.desc >>}
-    \hfill << item.year>>
+    << loop.index >>. & \href{<< item.repo_url >>}{<< item.name >>} & $\bigstar$<< item.stars >> & \emph{<< item.desc >>} & << item.year>> \\
     ~< if item.rank >~
-    \\ {\scriptsize \color{gray}{Rank \#<< item.rank >> among all contributors with << item.commits >> commits, << item.additons >> lines of additions and << item.deletions >> lines of deletions} \par}
-    ~< else >~
-      \\[0.5mm]
+     & \multicolumn{4}{l}{\scriptsize \color{gray}{Rank \#<< item.rank >> among all contributors with << item.commits >> commits, << item.additons >> lines of additions and << item.deletions >> lines of deletions}} \\
     ~< endif >~
   ~< endfor >~
-% \end{longtable}
+\end{tabular*}
 ~< endblock body >~
