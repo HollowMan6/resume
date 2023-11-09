@@ -16,7 +16,7 @@
     \hfill << item.dates >> \par
     ~< if item.details >~
         ~< for detail in item.details ->~
-            <<detail>> \par
+            \cvlistitem{<<detail>>}
         ~< endfor >~
     ~< endif >~
     \vspace{3mm}

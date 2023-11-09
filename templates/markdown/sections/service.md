@@ -7,12 +7,12 @@
   <td style='padding-right:0;'>
   <span class='cvdate'>{{ item.year }}</span>
   {% if item.url %}
-     <a href="{{ item.url }}">{{ item.details }}</a>
+     <a href="{{ item.url }}">{{ item.name }}</a>
   {% else %}
-      {{item.details }}
+      {{item.name }}
   {% endif %}
-  {% if item.sub_details %}
-  <br><p style="color:grey;font-size:1.2rem">{{ item.sub_details }}</p>
+  {% if item.details %}
+  <br><p style="color:grey;font-size:1.2rem">{{ item.details }}</p>
   {% endif %}
   </td>
 </tr>

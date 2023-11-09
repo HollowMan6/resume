@@ -1,7 +1,7 @@
 {% extends "section.md" %}
 
 {% block body %}
-{{ followers }} GitHub followers,
+{{ followers }} GitHub followers.
 {{ total_stars }} GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
