@@ -77,7 +77,8 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> <b>VR Browser</b> Development, <b>Android</b> deprecated methods refactoring
-  <br> Address user issues, UI and <b>openXR</b> related feature implementation
+  <br> Address user issues, UI, browser, and <b>openXR</b> related feature implementation
+  <br> Contributed to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>, <a href="https://wolvic.com/blog/release_1.5/" target="_blank">v1.5</a>, and <a href="https://wolvic.com/blog/release_1.5.1/" target="_blank">v1.5.1</a>
   </p>
   </td>
 </tr>
@@ -191,7 +192,7 @@ maintain several open-source projects and contribute to many others.
   <td style='padding-right:0;'>
 <span class='cvdate'>07/2020&nbsp;-&nbsp;09/2020</span>
 <p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>Emacs Application Framework</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">EAF</a>, work with <a href="https://github.com/manateelazycat" target="_blank">Yong Wang</a>)
+(<a href="https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home" target="_blank">EAF</a>, work with <a href="https://github.com/manateelazycat" target="_blank">Yong Wang</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> Address issues using <b>Emacs Lisp</b>, <b>Python</b>, <b>JavaScript</b>, <b>SQLite</b> to add new features for Emacs Application
@@ -267,7 +268,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://opensource.tencent.com/contribution" target="_blank">Recognized</a> <b>Tencent</b> Open Source Contributor
-    <br><p style="color:grey;font-size:1.2rem">Only 30+ were issued globally by then</p>
+    <br><p style="color:grey;font-size:1.2rem">Only 30+ were issued globally by the end of 2022</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -352,7 +353,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
-    <br><p style="color:grey;font-size:1.2rem">Ranked 1st in final defense</p>
+    <br><p style="color:grey;font-size:1.2rem">(24/547 Teams) (I participate only by myself) Ranked 1st in final defense</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -651,7 +652,8 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
   <span class='cvdate'>2021&nbsp;-&nbsp;Present</span>
-      <a href="https://en.opensuse.org/openSUSE:Members" target="_blank">openSUSE Member</a>
+     <a href="https://en.opensuse.org/User:Hollowman">openSUSE Member</a>
+  <br><p style="color:grey;font-size:1.2rem">Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board</p>
   </td>
 </tr>
 </table>
