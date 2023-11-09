@@ -1,4 +1,14 @@
-> [Download PDF version](CV-Songlin-Jiang.pdf)
+# Songlin Jiang's CV
+
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+
+[Download PDF version](CV-Songlin-Jiang.pdf)
+
+> - Email: songlin.jiang@aalto.fi
+> - HomePage: [hollowman6.github.io](https://hollowman6.github.io)
+> - LinkedIn: [songlin-jiang](https://www.linkedin.com/in/songlin-jiang)
+> - Twitter: [HollowM186](https://twitter.com/HollowM186)
+> - GitHub: [HollowMan6](https://github.com/HollowMan6)
 
 My academic fervor converges with enhancing <b>computer systems</b>,
 <b>networks</b>, <b>databases</b>, and their corresponding
@@ -60,7 +70,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
-<p markdown="1" style='margin: 0'><strong>Developer Relations Engineer</strong>, <em>Enclaive</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong>Developer Relations Engineer</strong>, <em>Enclaive</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (confidential computing, with <a href="https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en" target="_blank">Prof. Sebastian Gajek</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -72,7 +82,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
-<p markdown="1" style='margin: 0'><strong>Coding Experience</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong>Coding Experience</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -97,20 +107,21 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>03/2023&nbsp;-&nbsp;05/2023</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-LFX-Mentorship" target="_blank">CNCF LFX Mentorship</a></strong>, <em><a href="https://github.com/kubescape" target="_blank">Kubescape</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-LFX-Mentorship" target="_blank">CNCF LFX Mentorship</a></strong>, <em><a href="https://github.com/kubescape" target="_blank">Kubescape</a></em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (Kubernetes security platform)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> Add packaging support for various <b>package managers</b> in <b>Linux</b>, <b>macOS</b>, and <b>Windows</b>
   <br> Improve <b>release CI</b> by adding <b>ARM64</b> binaries building and testing support (by <b>QEMU</b> and <b>cross compiling</b>), and also support Kubescape auto version bumping for other Kubescape-related repositories
   <br> Enable Kubescape <a href="https://github.com/kubescape/github-action" target="_blank"><b>GitHub action</b></a> to support <b>code review</b> based on generated <a href="https://github.com/HollowMan6/sarif4reviewdog/pull/5" target="_blank"><b>SARIF report</b></a>
+  <br> A <a href="https://www.cncf.io/blog/2023/06/09/congratulations-to-57-cncf-term-1-lfx-program-mentees/\#:~:text=Songlin%20Jiang" target="_blank">blog post</a> by <b>Cloud Native Computing Foundation</b> (<b>CNCF</b>) that introduces my work
   </p>
   </td>
 </tr>
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>07/2022&nbsp;-&nbsp;09/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program" target="_blank">Rhino-Bird Open-Source Training Program</a></strong>, <em>Tencent</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program" target="_blank">Rhino-Bird Open-Source Training Program</a></strong>, <em>Tencent</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (Kona JDK)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -121,7 +132,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>05/2022&nbsp;-&nbsp;09/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em><a href="https://www.csail.mit.edu/research/mit-app-inventor" target="_blank">MIT CSAIL</a> & Google</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em><a href="https://www.csail.mit.edu/research/mit-app-inventor" target="_blank">MIT CSAIL</a> & Google</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://github.com/google/blockly/releases/tag/blockly-v10.1.2" target="_blank">Blockly</a>, web-based visual program editor)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -134,7 +145,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>05/2022&nbsp;-&nbsp;08/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Summer-of-Bitcoin" target="_blank">Summer of Bitcoin</a></strong>, <em><a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">Cryptoanarchy Debian</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Summer-of-Bitcoin" target="_blank">Summer of Bitcoin</a></strong>, <em><a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">Cryptoanarchy Debian</a></em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (Bitcoin related Debian packages)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -146,7 +157,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>05/2022&nbsp;-&nbsp;08/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest" target="_blank">RL Open Source Fest</a></strong>, <em><a href="https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/" target="_blank">Microsoft Research NYC</a></em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest" target="_blank">RL Open Source Fest</a></strong>, <em><a href="https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/" target="_blank">Microsoft Research NYC</a></em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://github.com/VowpalWabbit/vowpal_wabbit/releases/tag/9.4.0" target="_blank">Vowpal Wabbit</a>, ML library)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -158,7 +169,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>01/2022&nbsp;-&nbsp;07/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Open Source Intern</a></strong>, <em>Institute of Software, CAS</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Open Source Intern</a></strong>, <em>Institute of Software, CAS</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://www.openeuler.org/zh/internship/" target="_blank">openEuler</a>, Linux distribution)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -170,7 +181,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>06/2021&nbsp;-&nbsp;08/2021</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em>openSUSE</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em>openSUSE</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://github.com/ibus/ibus/pull/2327" target="_blank">IBus</a>, input method framework)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -183,7 +194,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>07/2021&nbsp;-&nbsp;09/2021</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>openEuler</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>openEuler</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (Developed an ISO writer using QT and C++)
 </span></p>
   </td>
@@ -191,7 +202,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>07/2020&nbsp;-&nbsp;09/2020</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>Emacs Application Framework</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>Emacs Application Framework</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home" target="_blank">EAF</a>, work with <a href="https://github.com/manateelazycat" target="_blank">Yong Wang</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -203,12 +214,13 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>07/2020&nbsp;-&nbsp;08/2020</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Alibaba-Summer-of-Code" target="_blank">Summer of Code</a></strong>, <em>Alibaba</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Alibaba-Summer-of-Code" target="_blank">Summer of Code</a></strong>, <em>Alibaba</em><span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
 (<a href="https://github.com/alibaba/arthas" target="_blank">Arthas</a>, Java diagnostic tool)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> Write Chinese and English online tutorials for Arthas using <b>Katacoda</b> and <b>Vue.js</b>
   <br> <b>Highlight</b>: Support directly searching Class Loader by name instead of Hash Code using Java
+  <br> A <a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Wechat post (in Chinese)</a> about my work posted by <a href="https://github.com/hengyunabc" target="_blank">hengyunabc</a>
   </p>
   </td>
 </tr>
@@ -222,7 +234,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022&nbsp;-&nbsp;2024</div>
   <div>
         SECCLO <b>Erasmus Mundus</b> Scholarship
-    <br><p style="color:grey;font-size:1.2rem">(26/767) Full-ride scholarship, including tuition and living costs</p>
+    <br><p style="color:grey;font-size:0.8rem">(26/767) Full-ride scholarship, including tuition and living costs</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022&nbsp;-&nbsp;2024</td> -->
@@ -268,7 +280,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://opensource.tencent.com/contribution" target="_blank">Recognized</a> <b>Tencent</b> Open Source Contributor
-    <br><p style="color:grey;font-size:1.2rem">Only 30+ were issued globally by the end of 2022</p>
+    <br><p style="color:grey;font-size:0.8rem">Only 30+ were issued globally by the end of 2022</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -278,7 +290,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://mp.weixin.qq.com/s/E4dSpia0V9k5gtGl5T9cDg" target="_blank">Intern of Excellence</a> Award at <b>Tencent</b>
-    <br><p style="color:grey;font-size:1.2rem">2/4000+ to receive all the 3 kinds of intern awards</p>
+    <br><p style="color:grey;font-size:0.8rem">2/4000+ to receive all the 3 kinds of intern awards</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -288,7 +300,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         Intern of Excellence & Star of Open Source Award in <a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank"><b>openEuler</b> Open Source Internship</a>
-    <br><p style="color:grey;font-size:1.2rem">Only 3/150+ interns received both awards</p>
+    <br><p style="color:grey;font-size:0.8rem">Only 3/150+ interns received both awards</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -343,7 +355,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         <a href="https://tuanwei.lzu.edu.cn/upload/news/N20201125112445.pdf" target="_blank">Best Paper Award</a> in <b>Lanzhou University</b> Summer Social Practice Report
-    <br><p style="color:grey;font-size:1.2rem">Paper: Research on the Functionality and Optimization of Urban Communities in China During COVID-19 in 2020</p>
+    <br><p style="color:grey;font-size:0.8rem">Paper: Research on the Functionality and Optimization of Urban Communities in China During COVID-19 in 2020</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -353,7 +365,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
-    <br><p style="color:grey;font-size:1.2rem">(24/547 Teams) (I participate only by myself) <a href="https://my.oschina.net/u/4469669/blog/5035529" target="_blank">Ranked 1st</a> in final defense</p>
+    <br><p style="color:grey;font-size:0.8rem">(24/547 Teams) (I participate only by myself) <a href="https://my.oschina.net/u/4469669/blog/5035529" target="_blank">Ranked 1st</a> in final defense</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -363,7 +375,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         <a href="https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh" target="_blank">Star of Innovation Award</a> in <b>Alibaba T-head</b> OCC Developers IoT Innovation Competition
-    <br><p style="color:grey;font-size:1.2rem">My proposal <a href="https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032" target="_blank">ranked 1st</a> in voting (850 votes, 300 more than the 2nd one)</p>
+    <br><p style="color:grey;font-size:0.8rem">My proposal <a href="https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032" target="_blank">ranked 1st</a> in voting (850 votes, 300 more than the 2nd one)</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -373,7 +385,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <b>China Scholarship Council</b> <a href="https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
-    <br><p style="color:grey;font-size:1.2rem">(Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
+    <br><p style="color:grey;font-size:0.8rem">(Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -383,7 +395,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <b>Google</b> <a href="https://www.zhihu.com/question/292397097" target="_blank">InnoCamp Hangzhou BoostMakers</a>&nbsp;-&nbsp;TensorFlow Boost
-    <br><p style="color:grey;font-size:1.2rem">40+/2000+</p>
+    <br><p style="color:grey;font-size:0.8rem">40+/2000+</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -393,7 +405,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Excellent Project Award</a> in <b>Lanzhou University</b> Innovation and Entrepreneurship Plan
-    <br><p style="color:grey;font-size:1.2rem">Project: Renaissance&nbsp;-&nbsp;AI + Dunhuang Art, supervised by <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a></p>
+    <br><p style="color:grey;font-size:0.8rem">Project: Renaissance&nbsp;-&nbsp;AI + Dunhuang Art, supervised by <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a></p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -403,7 +415,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2018&nbsp;-&nbsp;2022</div>
   <div>
         Nine <b>Lanzhou University</b> undergraduate scholarships
-    <br><p style="color:grey;font-size:1.2rem">3 x scholarship for academic excellence,
+    <br><p style="color:grey;font-size:0.8rem">3 x scholarship for academic excellence,
 5 x scholarship for <a href="http://114.220.75.43:1003/Index/ItemDetail?id=e604020f-0929-4988-a23f-95a2c2e631ea&_pageIndex=106" target="_blank">innovation and entrepreneurship projects</a>,
 2020 scholarship for IELTS test fee
 </p>
@@ -416,7 +428,7 @@ maintain several open-source projects and contribute to many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-55.5k+ GitHub stars across all of the following selected repositories:
+55.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -426,7 +438,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/kubescape/kubescape">kubescape/kubescape</a> |
     <i class="fa fas fa-star"></i> 9.1k |
     <em>Kubernetes Security Platform</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
     <!--  -->
     <!--     kubescape/kubescape  -->
     <!--  -->
@@ -437,9 +449,9 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 633 |
+    <i class="fa fas fa-star"></i> 634 |
     <em>Immersive VR Browser</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
     <!--  -->
     <!--     Igalia/wolvic  -->
     <!--  -->
@@ -452,7 +464,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit">VowpalWabbit/vowpal_wabbit</a> |
     <i class="fa fas fa-star"></i> 8.3k |
     <em>Machine Learning System</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #77 among all contributors with 3 commits, 1611 lines of additions and 83 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #77 among all contributors with 3 commits, 1611 lines of additions and 83 lines of deletions</p>
     <!--  -->
     <!--     VowpalWabbit/vowpal_wabbit  -->
     <!--  -->
@@ -465,7 +477,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/ThibaultJanBeyer/DragSelect">ThibaultJanBeyer/DragSelect</a> |
     <i class="fa fas fa-star"></i> 606 |
     <em>DragSelect JavaScript UI Library</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
     <!--  -->
     <!--     ThibaultJanBeyer/DragSelect  -->
     <!--  -->
@@ -478,7 +490,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
     <i class="fa fas fa-star"></i> 137 |
     <em>Bitcoin Packages for Debian</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
     <!--  -->
     <!--     debian-cryptoanarchy/cryptoanarchy-deb-repo-builder  -->
     <!--  -->
@@ -491,7 +503,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/HollowMan6/mdbook-pdf">HollowMan6/mdbook-pdf</a> |
     <i class="fa fas fa-star"></i> 106 |
     <em>MdBook backend for PDF Generation</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
     <!--  -->
     <!--     HollowMan6/mdbook-pdf  -->
     <!--  -->
@@ -504,7 +516,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/mit-cml/workspace-multiselect">mit-cml/workspace-multiselect</a> |
     <i class="fa fas fa-star"></i> 5 |
     <em>Blockly Multi-Select Plugin</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 18 commits, 11846 lines of additions and 20978 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 18 commits, 11846 lines of additions and 20978 lines of deletions</p>
     <!--  -->
     <!--     mit-cml/workspace-multiselect  -->
     <!--  -->
@@ -517,7 +529,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/openSUSE/Customize-IBus">openSUSE/Customize-IBus</a> |
     <i class="fa fas fa-star"></i> 47 |
     <em>Full Customization of IBus UI</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 354 commits, 42984 lines of additions and 30128 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 354 commits, 42984 lines of additions and 30128 lines of deletions</p>
     <!--  -->
     <!--     openSUSE/Customize-IBus  -->
     <!--  -->
@@ -527,12 +539,12 @@ maintain several open-source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
   <td>
     <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Hub">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 19 |
-    <em>IBus Themes CSS</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
+    <a href="https://github.com/HollowMan6/Wechat-Timed-Message">HollowMan6/Wechat-Timed-Message</a> |
+    <i class="fa fas fa-star"></i> 22 |
+    <em>GitHub action for WeChat Message</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
     <!--  -->
-    <!--     openSUSE/IBus-Theme-Hub  -->
+    <!--     HollowMan6/Wechat-Timed-Message  -->
     <!--  -->
   </td>
 </tr>
@@ -540,25 +552,25 @@ maintain several open-source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
   <td>
     <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Tools">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 13 |
-    <em>IBus Theme Generator</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
+    <a href="https://github.com/openSUSE/IBus-Theme-Hub">openSUSE/IBus-Theme-Hub</a> |
+    <i class="fa fas fa-star"></i> 19 |
+    <em>IBus Themes CSS</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
     <!--  -->
-    <!--     openSUSE/IBus-Theme-Tools  -->
+    <!--     openSUSE/IBus-Theme-Hub  -->
     <!--  -->
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
   <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/alibaba/arthas">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 33.7k |
-    <em>Java Diagnostic Tool</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/openSUSE/IBus-Theme-Tools">openSUSE/IBus-Theme-Tools</a> |
+    <i class="fa fas fa-star"></i> 13 |
+    <em>IBus Theme Generator</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
     <!--  -->
-    <!--     alibaba/arthas  -->
+    <!--     openSUSE/IBus-Theme-Tools  -->
     <!--  -->
   </td>
 </tr>
@@ -566,12 +578,12 @@ maintain several open-source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
   <td>
     <span class='cvdate'>2020</span>
-    <a href="https://github.com/emacs-eaf/emacs-application-framework">emacs-eaf/emacs-application-framework</a> |
-    <i class="fa fas fa-star"></i> 2.8k |
-    <em>Emacs Application Framework</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
+    <a href="https://github.com/alibaba/arthas">alibaba/arthas</a> |
+    <i class="fa fas fa-star"></i> 33.7k |
+    <em>Java Diagnostic Tool</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
     <!--  -->
-    <!--     emacs-eaf/emacs-application-framework  -->
+    <!--     alibaba/arthas  -->
     <!--  -->
   </td>
 </tr>
@@ -579,12 +591,38 @@ maintain several open-source projects and contribute to many others.
   <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
   <td>
     <span class='cvdate'>2020</span>
+    <a href="https://github.com/emacs-eaf/emacs-application-framework">emacs-eaf/emacs-application-framework</a> |
+    <i class="fa fas fa-star"></i> 2.8k |
+    <em>Emacs Application Framework</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
+    <!--  -->
+    <!--     emacs-eaf/emacs-application-framework  -->
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
+  <td>
+    <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32">HollowMan6/TinyML-ESP32</a> |
     <i class="fa fas fa-star"></i> 106 |
     <em>TinyML Programs for ESP32</em>
-    <br><p style="color:grey;font-size:1.2rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
     <!--  -->
     <!--     HollowMan6/TinyML-ESP32  -->
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
+  <td>
+    <span class='cvdate'>2020</span>
+    <a href="https://github.com/HollowMan6/SRMD-Pytorch">HollowMan6/SRMD-Pytorch</a> |
+    <i class="fa fas fa-star"></i> 20 |
+    <em>Super Resolution Model</em>
+    <br><p style="color:grey;font-size:0.8rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
+    <!--  -->
+    <!--     HollowMan6/SRMD-Pytorch  -->
     <!--  -->
   </td>
 </tr>
@@ -653,7 +691,7 @@ maintain several open-source projects and contribute to many others.
   <td style='padding-right:0;'>
   <span class='cvdate'>2021&nbsp;-&nbsp;Present</span>
      <a href="https://en.opensuse.org/User:Hollowman">openSUSE Member</a>
-  <br><p style="color:grey;font-size:1.2rem">Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board</p>
+  <br><p style="color:grey;font-size:0.8rem">Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board</p>
   </td>
 </tr>
 </table>
@@ -691,7 +729,7 @@ maintain several open-source projects and contribute to many others.
 
 <em><a href="https://qikan.cqvip.com/Qikan/Article/Detail?id=7001708234" target="_blank">Voting System Based on Wechat Pay</a></em> 
 [<a href='javascript:;'
-    onclick='$("#abs_votingsystemwechatpay").toggle()'>abs</a>]<br>
+    onclick='$("#abs_votingsystemwechatpay").toggle()'>abstract</a>]<br>
 <a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a><br>
 Computer Engineering & Software 2019  <br>
 
@@ -720,13 +758,13 @@ vote and it also reduces the developing cost.
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Programming</td>
+  <td class='col-md-2'><b>Programming</b></td>
   <td>
 Go, Rust, Java, Kotlin, JavaScript, C++, C, Python, HTML, Shell, SQL ...
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <td class='col-md-2'><b>Frameworks</b></td>
   <td>
 GitHub Actions, Flutter, React, Viper, Selenium, TensorFlow, scikit-learn ...
   </td>
@@ -737,12 +775,12 @@ GitHub Actions, Flutter, React, Viper, Selenium, TensorFlow, scikit-learn ...
 ## <i class="fa fa-chevron-right"></i> Courses
 Some top-quality courses I've taken: <br>
 
-+ Program Analysis, DTU, Fall 2023
-+ Program Verification, DTU, Fall 2023
-+ Programming Parallel Computers, Aalto University, Spring 2023
-+ Platform Security, Aalto University, Spring 2023
-+ Cloud Software and Systems, Aalto University, Fall 2022
-+ Multimedia Services in Internet, Aalto University, Fall 2022
-+ Designing and Building Scalable Web Applications, Aalto University, Fall 2022
-+ Network Security, Aalto University, Fall 2022
-+ Formal Languages and Finite Automata, University of Leeds, Spring 2020
++ **Program Analysis**, *DTU*, Fall 2023
++ **Program Verification**, *DTU*, Fall 2023
++ **Programming Parallel Computers**, *Aalto University*, Spring 2023
++ **Platform Security**, *Aalto University*, Spring 2023
++ **Cloud Software and Systems**, *Aalto University*, Fall 2022
++ **Multimedia Services in Internet**, *Aalto University*, Fall 2022
++ **Designing and Building Scalable Web Applications**, *Aalto University*, Fall 2022
++ **Network Security**, *Aalto University*, Fall 2022
++ **Formal Languages and Finite Automata**, *University of Leeds*, Spring 2020
