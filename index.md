@@ -11,7 +11,7 @@ title: Songlin Jiang
 
 <h3 align="center">
   Copyleft 🄯 2018-2023
-  <img width="20px" src="favicon.ico">
+  <img width="20px" src="/favicon.ico">
   Hollow Man (<a href="https://github.com/HollowMan6">@HollowMan6</a>).
 </h3>
 
