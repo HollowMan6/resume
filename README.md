@@ -171,7 +171,7 @@ maintain several open-source projects and contribute to many others.
   <td style='padding-right:0;'>
 <span class='cvdate'>06/2021&nbsp;-&nbsp;08/2021</span>
 <p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-Google-Summer-of-Code" target="_blank">Google Summer of Code</a></strong>, <em>openSUSE</em><span markdown="1" style="color:grey;font-size:1.3rem;margin: 0">
-(<a href="https://github.com/ibus/ibus" target="_blank">IBus</a>, input method framework)
+(<a href="https://github.com/ibus/ibus/pull/2327" target="_blank">IBus</a>, input method framework)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> Add custom themes feature for IME framework IBus, improve IBus settings support in GNOME
@@ -353,7 +353,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
-    <br><p style="color:grey;font-size:1.2rem">(24/547 Teams) (I participate only by myself) Ranked 1st in final defense</p>
+    <br><p style="color:grey;font-size:1.2rem">(24/547 Teams) (I participate only by myself) <a href="https://my.oschina.net/u/4469669/blog/5035529" target="_blank">Ranked 1st</a> in final defense</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -363,7 +363,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         <a href="https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh" target="_blank">Star of Innovation Award</a> in <b>Alibaba T-head</b> OCC Developers IoT Innovation Competition
-    <br><p style="color:grey;font-size:1.2rem">My proposal ranked 1st in voting (850 votes, 300 more than the 2nd one)</p>
+    <br><p style="color:grey;font-size:1.2rem">My proposal <a href="https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032" target="_blank">ranked 1st</a> in voting (850 votes, 300 more than the 2nd one)</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
