@@ -1,0 +1,17 @@
+name: Songlin Jiang
+url: http://hollowman.github.io/resume/
+destination: ./_site
+twitter: HollowM186
+lsi: false
+port: 4000
+markdown: kramdown
+future: true
+kramdown:
+  parse_block_html: true
+  syntax_highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile

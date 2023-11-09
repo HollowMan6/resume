@@ -1,0 +1,11 @@
+_posts/ideas
+
+*.swp
+
+/_site/
+/images/latex/
+
+.jekyll-metadata
+.bundle
+vendor/bundle
+Gemfile.lock
