@@ -434,7 +434,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 633 |
+    <i class="fa fas fa-star"></i> 635 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
   </td>
@@ -464,7 +464,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 137 |
+    <i class="fa fas fa-star"></i> 138 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -474,7 +474,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 105 |
+    <i class="fa fas fa-star"></i> 106 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
   </td>
