@@ -1,7 +1,14 @@
 {% extends "section.md" %}
 
 {% block body %}
-{% for item in items %}
-+ {{ item.name }}, <a href="{{ item.url }}">{{ item.id }}</a>
-{% endfor %}
+<table class="table table-hover">
+    {% for item in items %}
+    <tr>
+        <td class='col-md-2'>{{ item.name }}</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="{{ item.url }}" target="_blank">{{ item.id }}</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 {% endblock body %}

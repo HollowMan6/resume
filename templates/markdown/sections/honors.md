@@ -8,12 +8,12 @@
   <div style='float: right'>{{ award.year }}</div>
   <div>
     {% if award.url %}
-        <a href="{{award.url}}">{{ award.title }}</a>
+        <a href="{{award.url}}" target="_blank">{{ award.title }}</a>
     {% else %}
         {{ award.title }}
     {% endif %}
     {% if award.descr %}
-    <br><p style="color:grey;font-size:0.8rem">{{ award.descr }}</p>
+    <br><p style="color:grey;font-size:1.4rem">{{ award.descr }}</p>
     {% endif %}
   </div>
   </td>

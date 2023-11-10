@@ -1,8 +1,8 @@
 {% extends "section.md" %}
 
 {% block body %}
-<!-- Slides for my major presentations are open-sourced with a CC-BY license at -->
-<!-- [bamos/presentations](https://github.com/bamos/presentations). -->
+
+Content, Link to the talk, and Date:
 
 <table class="table table-hover">
 {% for item in items %}
@@ -12,7 +12,7 @@
     <span class='cvdate'>{{ item.year }}</span>
      <em>{{ item.title }}</em>,
     {% if item.url %}
-        <a href="{{ item.url }}">{{ item.location }}</a>
+        <a href="{{ item.url }}" target="_blank">{{ item.location }}</a>
     {% else %}
         {{ item.location }}
     {% endif %}

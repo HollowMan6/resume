@@ -14,9 +14,9 @@
       <br>
       {% if school.details %}
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        {% for detail in school.details %}
-        <br> {{ detail }}
-        {% endfor %}
+            {% for detail in school.details %}
+            <br> • {{ detail }}
+            {% endfor %}
         </p>
       {% endif %}
     </td>

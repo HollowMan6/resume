@@ -5,8 +5,9 @@
 # Songlin Jiang <http://hollowman6.github.io>
 
 WEBSITE_DIR=gh-pages
-WEBSITE_PDF=CV-Songlin-Jiang.pdf
-WEBSITE_MD=README.md
+WEBSITE_PDF=data/CV-Songlin-Jiang.pdf
+WEBSITE_MD=_includes/cv.md
+WEBSITE_DATE=_includes/last-updated.txt
 
 TEMPLATES=$(shell find templates -type f)
 
@@ -51,13 +52,14 @@ viewpdf: $(PDF)
 stage: $(PDF) $(MD)
 	cp $(PDF) $(WEBSITE_DIR)/$(WEBSITE_PDF)
 	cp $(MD) $(WEBSITE_DIR)/$(WEBSITE_MD)
+	date +%Y-%m-%d > $(WEBSITE_DIR)/$(WEBSITE_DATE)
 
 jekyll: stage
 	cd $(WEBSITE_DIR) && bundle exec jekyll server
 
 push: stage
 	cd $(WEBSITE_DIR); \
-	git add $(WEBSITE_PDF) $(WEBSITE_MD); \
+	git add $(WEBSITE_PDF) $(WEBSITE_MD) $(WEBSITE_DATE); \
 	git commit -m "Update CV"; \
 	git push -f origin $(WEBSITE_DIR)
 

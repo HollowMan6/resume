@@ -85,7 +85,7 @@ def get_pub_md(context, config):
         #    title += ","
         # title = '"{}"'.format(title)
         # if 'link' in pub:
-        #     title = "<a href=\'{}\'>{}</a>".format(
+        #     title = "<a href=\'{}\' target='_blank'>{}</a>".format(
         #         pub['link'], title)
         title = title.replace("\n", " ")
 
@@ -93,8 +93,7 @@ def get_pub_md(context, config):
         year_venue = "{} {}".format(pub['_venue'], pub['year'])
 
         highlight = 'selected' in pub and pub['selected'].lower() == 'true'
-        img_str = ''
-        # img_str = f'<img src="images/publications/{pub["ID"]}.png" onerror="this.style.display=\'none\'" class="publicationImg" />'
+        img_str = f'<img src="images/publications/{pub["ID"]}.png" onerror="this.style.display=\'none\'" class="publicationImg" />'
         links = []
         abstract = ''
         if 'abstract' in pub:
@@ -286,7 +285,7 @@ def get_pub_latex(context, config):
         #    title += ","
         # title = '"{}"'.format(title)
         # if 'link' in pub:
-        #     title = "<a href=\'{}\'>{}</a>".format(
+        #     title = "<a href=\'{}\' target='_blank'>{}</a>".format(
         #         pub['link'], title)
         title = title.replace("\n", " ")
         if 'link' in pub:
@@ -688,6 +687,7 @@ MARKDOWN_CONTEXT = RenderContext(
         (r'\\href{([^}]*)}{([^}]*)}', r'<a href="\1" target="_blank">\2</a>'),  # urls
         (r'\{([^}]*)\}', r'\1'),  # Brackets.
         (r'\$\\varheart\$', r'<i class="fa fas fa-heart"></i>'),  # Heart.
+        (r'\\', ''),  # drop the new line
     ]
 )
 

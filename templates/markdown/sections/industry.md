@@ -13,9 +13,11 @@
 {% endif %}
 {{ i.location }}
 {% if i.details %}
+<ul>
 {% for detail in i.details %}
-{{ detail }}
+<li>{{ detail }}</li>
 {% endfor %}
+</ul>
 {% endif %}
 </p>
   </td>

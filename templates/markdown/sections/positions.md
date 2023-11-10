@@ -16,7 +16,7 @@
 , {{ i.location }}
 {% endif %}
 {% if i.inline_detail %}
-<span markdown="1" style="color:grey;font-size:0.8rem;margin: 0">
+<span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 ({{ i.inline_detail }})
 </span>
 {%- endif -%}
@@ -24,7 +24,7 @@
 {% if i.details %}
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   {% for detail in i.details %}
-  <br> {{ detail }}
+  <br> • {{ detail }}
   {% endfor %}
   </p>
 {% endif %}

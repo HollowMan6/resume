@@ -8,7 +8,7 @@
   <td>
 {{ item.details }}
 {% if item.sub_details %}
-<br><p style="color:grey;font-size:0.8rem">{{ item.sub_details }}</p>
+<br><p style="color:grey;font-size:1.4rem">{{ item.sub_details }}</p>
 {% endif %}
   </td>
 </tr>
