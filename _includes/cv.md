@@ -18,6 +18,8 @@ maintain several open-source projects and contribute to many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Security and Cloud Computing</b>
+            <br> • Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters
+            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
   </tr>
@@ -28,6 +30,8 @@ maintain several open-source projects and contribute to many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Reliable Distributed Systems</b>
+            <br> • Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters
+            <br> • Supervisor: <a href="https://orbit.dtu.dk/en/persons/bernd-dammann" target="_blank">Prof. Bernd Dammann</a>
         </p>
     </td>
   </tr>
@@ -57,13 +61,25 @@ maintain several open-source projects and contribute to many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
+<span class='cvdate'>01/2024&nbsp;-&nbsp;07/2024</span>
+<p markdown="1" style='margin: 0'><strong>HPC Develop Thesis Worker</strong>, <em>CSC - IT Center for Science</em></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Work on my master's thesis for SECCLO Erasmus Mundus program
+  <br> • Implement the <b>real-time GPU usage alert service</b> for HPC clusters
+  <br> • Investigate the <b>continuous aggregates</b> feature of TimescaleDB
+  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 2023
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
 <span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
 <p markdown="1" style='margin: 0'><strong>Developer Relations Engineer</strong>, <em>Enclaive</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (confidential computing, with <a href="https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en" target="_blank">Prof. Sebastian Gajek</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Technical <b>documentation</b>, tutorials and content creation
-  <br> • Channel management to <b>interact</b> with the community and grow the base
+  <br> • Create technical <b>documentation</b>, tutorials and content
+  <br> • Manage channel to <b>interact</b> with the community and grow the customer base
   </p>
   </td>
 </tr>
@@ -74,9 +90,9 @@ maintain several open-source projects and contribute to many others.
 (<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • <b>VR Browser</b> Development, <b>Android</b> deprecated methods refactoring
-  <br> • Address user issues, UI, browser, and <b>openXR</b> related feature implementation
-  <br> • Contributed to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>, <a href="https://wolvic.com/blog/release_1.5/" target="_blank">v1.5</a>, and <a href="https://wolvic.com/blog/release_1.5.1/" target="_blank">v1.5.1</a>
+  <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
+  <br> • Address user issues. Implement UI, browser, and <b>openXR</b> related features
+  <br> • Contribute to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>, <a href="https://wolvic.com/blog/release_1.5/" target="_blank">v1.5</a>, and <a href="https://wolvic.com/blog/release_1.5.1/" target="_blank">v1.5.1</a>
   </p>
   </td>
 </tr>
@@ -87,8 +103,7 @@ maintain several open-source projects and contribute to many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Develop the <b>GPU monitoring service</b> for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
   <br> • Develop the Documentation GPT chatbot service using <a href="https://twitter.com/llama_index/status/1671537854802202624" target="_blank"><b>llamaIndex</b></a>, <b>LangChain</b> and <b>Redis</b>
-  <br> • Make <a href="https://github.com/OSC/ondemand/pull/2958" target="_blank">improvements</a> to the HPC web operating interface project <i>Open OnDemand</i> in <b>Ruby on Rails</b>
-  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 2023
+  <br> • Make <a href="https://github.com/OSC/ondemand/pull/2958" target="_blank">improvements</a> to the HPC web operating interface project <i>Open OnDemand</i> using <b>Ruby on Rails</b>
   </p>
   </td>
 </tr>
@@ -100,7 +115,8 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Add packaging support for various <b>package managers</b> in <b>Linux</b>, <b>macOS</b>, and <b>Windows</b>
-  <br> • Improve <b>release CI</b> by adding <b>ARM64</b> binaries building and testing support (by <b>QEMU</b> and <b>cross compiling</b>), and also support Kubescape auto version bumping for other Kubescape-related repositories
+  <br> • Improve <b>release CI</b> by adding <b>ARM64</b> binaries building and testing support (<b>QEMU</b> and <b>cross compiling</b>)
+  <br> • Add support for Kubescape auto version bumping in other Kubescape-related repositories
   <br> • Enable Kubescape <a href="https://github.com/kubescape/github-action" target="_blank"><b>GitHub action</b></a> to support <b>code review</b> based on generated <a href="https://github.com/HollowMan6/sarif4reviewdog/pull/5" target="_blank"><b>SARIF report</b></a>
   <br> • A <a href="https://www.cncf.io/blog/2023/06/09/congratulations-to-57-cncf-term-1-lfx-program-mentees/#:~:text=Songlin%20Jiang" target="_blank">blog post</a> by <b>Cloud Native Computing Foundation</b> (<b>CNCF</b>) that introduces my work
   </p>
@@ -113,7 +129,7 @@ maintain several open-source projects and contribute to many others.
 (Kona JDK)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Generate keypairs for <a href="https://www.cryptopp.com/wiki/SM2" target="_blank"><b>SM2</b></a> by various algorithms with <a href="https://github.com/HollowMan6/tencent_RbOSTP_jdk/tree/sm2" target="_blank"><b>JDK</b> library</a>, compare <b>performance</b> and <b>security</b>
+  <br> • Investigate keypairs generation for <a href="https://www.cryptopp.com/wiki/SM2" target="_blank"><b>SM2</b></a> with <a href="https://github.com/HollowMan6/tencent_RbOSTP_jdk/tree/sm2" target="_blank"><b>JDK</b></a>, compare <b>performance</b> and <b>security</b> of algorithms
   </p>
   </td>
 </tr>
@@ -124,7 +140,7 @@ maintain several open-source projects and contribute to many others.
 (<a href="https://github.com/google/blockly/releases/tag/blockly-v10.1.2" target="_blank">Blockly</a>, web-based visual program editor)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Allow selecting, dragging and manipulating multiple blocks for Google Blockly by <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">creating a <b>plugin</b></a>
+  <br> • <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">Create a plugin</a> to allow selecting, dragging and manipulating <b>multiple blocks at once</b> for Google Blockly
   <br> • Resolve the <a href="https://github.com/google/blockly-samples/issues/267#issuecomment-255582938" target="_blank">issue</a> that had troubled the <b>Google Engineers</b> for <b>a decade</b> (since the Blockly project started)
   <br> • <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has average <b>50+</b> downloads per week
   </p>
@@ -138,7 +154,7 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Add Continuous Integration (CI) by investigating <b>systemd</b> support inside Docker with GitHub Actions
-  <br> • <a href="https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/" target="_blank">Chances</a> to get into this internship in 2022: <b>83/20317</b>
+  <br> • The <a href="https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/" target="_blank">chance</a> to get into this internship in 2022: <b>83/20317</b>
   </p>
   </td>
 </tr>
@@ -150,7 +166,7 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Add native CSV parser support for the Vowpal Wabbit project in C++, <b>100%</b> Test & Code Coverage
-  <br> • Finally managed to make <b>10x performance improvement</b> and is comparable to VW text format
+  <br> • Manage to make <b>10x performance improvement</b> and is comparable to speed of original VW text format
   </p>
   </td>
 </tr>
@@ -162,7 +178,7 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • <b>First</b> to obtain 150 intern credits. Help solve 6 issues, related technologies include <b>D-Bus</b>, <b>Glib</b>, building Cloud Native <b>Container</b> images, <b>Rust</b> programming, <b>Chrome DevTools Protocol</b>, test case, <b>RPM</b> packaging
-  <br> • One of the achievement <a href="https://crates.io/crates/mdbook-pdf" target="_blank">mdbook-pdf</a> now has average <b>100+</b> downloads per week
+  <br> • One of the achievements <a href="https://crates.io/crates/mdbook-pdf" target="_blank">mdbook-pdf</a> now has average <b>100+</b> downloads per week
   </p>
   </td>
 </tr>
@@ -173,7 +189,7 @@ maintain several open-source projects and contribute to many others.
 (<a href="https://github.com/ibus/ibus/pull/2327" target="_blank">IBus</a>, input method framework)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Add custom themes feature for IME framework IBus, improve IBus settings support in GNOME
+  <br> • Add customizing themes feature for IBus in desktop environments, improve IBus settings support in GNOME
   <br> • A <a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">blog post</a> at <b>openSUSE News</b> that introduces my work
   <br> • <b>GNOME extension</b> <a href="https://extensions.gnome.org/extension/4112/customize-ibus/" target="_blank">Customize IBus</a> now has average <b>100+</b> downloads per week
   </p>
@@ -194,7 +210,7 @@ maintain several open-source projects and contribute to many others.
 (<a href="https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home" target="_blank">EAF</a>, work with <a href="https://github.com/manateelazycat" target="_blank">Yong Wang</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Address issues using <b>Emacs Lisp</b>, <b>Python</b>, <b>JavaScript</b>, <b>SQLite</b> to add new features for Emacs Application
+  <br> • Add new features and address all kinds of issues using <b>Emacs Lisp</b>, <b>Python</b>, <b>JavaScript</b>, <b>SQLite</b>
   <br> • A <a href="https://manateelazycat.github.io/2020/07/22/eaf-support-caret-browse/" target="_blank">blog post (in Chinese)</a> about my work posted by Yong Wang (ManateeLazyCat)
   </p>
   </td>
@@ -206,8 +222,8 @@ maintain several open-source projects and contribute to many others.
 (<a href="https://github.com/alibaba/arthas" target="_blank">Arthas</a>, Java diagnostic tool)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Write Chinese and English online tutorials for Arthas using <b>Katacoda</b> and <b>Vue.js</b>
-  <br> • <b>Highlight</b>: Support directly searching Class Loader by name instead of Hash Code using Java
+  <br> • Create Chinese and English interactive online tutorials for Arthas using <b>Katacoda</b> and <b>Vue.js</b>
+  <br> • <b>Coding part highlight</b>: Support directly searching Class Loader by name instead of Hash Code in Java
   <br> • A <a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Wechat post (in Chinese)</a> about my work posted by <a href="https://github.com/hengyunabc" target="_blank">hengyunabc</a>
   </p>
   </td>
@@ -222,7 +238,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022&nbsp;-&nbsp;2024</div>
   <div>
         SECCLO <b>Erasmus Mundus</b> Scholarship
-    <br><p style="color:grey;font-size:1.4rem">(26/767) Full-ride scholarship, including tuition and living costs</p>
+    <br><p style="color:grey;font-size:1.4rem">(26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022&nbsp;-&nbsp;2024</td> -->
@@ -278,7 +294,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2022</div>
   <div>
         <a href="https://mp.weixin.qq.com/s/E4dSpia0V9k5gtGl5T9cDg" target="_blank">Intern of Excellence</a> Award at <b>Tencent</b>
-    <br><p style="color:grey;font-size:1.4rem">2/4000+ to receive all the 3 kinds of intern awards</p>
+    <br><p style="color:grey;font-size:1.4rem">Only 2/4000+ received all the 3 kinds of intern awards</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
@@ -353,7 +369,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2020</div>
   <div>
         Award in <a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank"><b>openEuler</b> University Developer Competition</a>
-    <br><p style="color:grey;font-size:1.4rem">(24/547 Teams) (I participate only by myself) <a href="https://my.oschina.net/u/4469669/blog/5035529" target="_blank">Ranked 1st</a> in final defense</p>
+    <br><p style="color:grey;font-size:1.4rem">(24/547 Teams) I participated alone, <a href="https://my.oschina.net/u/4469669/blog/5035529" target="_blank">ranked 1st</a> in final defense</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -383,7 +399,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <b>Google</b> <a href="https://www.zhihu.com/question/292397097" target="_blank">InnoCamp Hangzhou BoostMakers</a>&nbsp;-&nbsp;TensorFlow Boost
-    <br><p style="color:grey;font-size:1.4rem">40+/2000+</p>
+    <br><p style="color:grey;font-size:1.4rem">Only 40+/2000+ got this certificate</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -434,7 +450,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 635 |
+    <i class="fa fas fa-star"></i> 636 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
   </td>
@@ -454,8 +470,8 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 606 |
-    <em>DragSelect JavaScript UI Library</em>
+    <i class="fa fas fa-star"></i> 607 |
+    <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
 </tr>
@@ -515,7 +531,7 @@ maintain several open-source projects and contribute to many others.
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
     <i class="fa fas fa-star"></i> 19 |
-    <em>IBus Themes CSS</em>
+    <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
 </tr>
@@ -639,9 +655,12 @@ Content, Link to the talk, and Date:
 </tr>
 </table>
 
-<!-- ### Reviewing -->
-<!-- <table class="table table-hover"> -->
-<!-- </table> -->
+### Reviewing
+<table class="table table-hover">
+<tr>
+  <td style='padding-right:0;'>SIGMOD 2023 Reproducibility Evaluation Reviewer</td>
+</tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i> Software Copyright
@@ -728,15 +747,21 @@ vote and it also reduces the developing cost.
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'><b>Programming</b></td>
+  <td class='col-md-2'><b><a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other" target="_blank">Programming</a></b></td>
   <td>
-Go, Rust, Java, Kotlin, JavaScript, C++, C, Python, HTML, Shell, SQL ...
+C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby ...
   </td>
 </tr>
 <tr>
   <td class='col-md-2'><b>Frameworks</b></td>
   <td>
-GitHub Actions, Flutter, React, Viper, Selenium, TensorFlow, scikit-learn ...
+<a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, PyTorch, Pandas, Numpy, GitHub Actions, Flutter, React, QT ...
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'><b>DataBases</b></td>
+  <td>
+PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
   </td>
 </tr>
 </table>
@@ -747,15 +772,15 @@ Some top-quality courses I've taken: <br>
 
 <table class="table table-hover">
     <tr>
-        <td class='col-md-2'><b>Program Analysis</b>, <i>DTU</i></td>
+        <td class='col-md-2'><b><a href="https://kurser.dtu.dk/course/02242" target="_blank">Program Analysis</a></b>, <i>DTU</i></td>
         <td class='col-md-2' style='text-align:right;'>Fall 2023</td>
     </tr>
     <tr>
-        <td class='col-md-2'><b>Program Verification</b>, <i>DTU</i></td>
+        <td class='col-md-2'><b><a href="https://pv.cmath.eu/" target="_blank">Program Verification</a></b>, <i>DTU</i></td>
         <td class='col-md-2' style='text-align:right;'>Fall 2023</td>
     </tr>
     <tr>
-        <td class='col-md-2'><b>Programming Parallel Computers</b>, <i>Aalto University</i></td>
+        <td class='col-md-2'><b><a href="https://ppc.cs.aalto.fi/" target="_blank">Programming Parallel Computers</a></b>, <i>Aalto University</i></td>
         <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
     </tr>
     <tr>
@@ -771,7 +796,7 @@ Some top-quality courses I've taken: <br>
         <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
     </tr>
     <tr>
-        <td class='col-md-2'><b>Designing and Building Scalable Web Applications</b>, <i>Aalto University</i></td>
+        <td class='col-md-2'><b><a href="https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/" target="_blank">Designing and Building Scalable Web Applications</a></b>, <i>Aalto University</i></td>
         <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
     </tr>
     <tr>
@@ -779,7 +804,7 @@ Some top-quality courses I've taken: <br>
         <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
     </tr>
     <tr>
-        <td class='col-md-2'><b>Formal Languages and Finite Automata</b>, <i>University of Leeds</i></td>
+        <td class='col-md-2'><b><a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321" target="_blank">Formal Languages and Finite Automata</a></b>, <i>University of Leeds</i></td>
         <td class='col-md-2' style='text-align:right;'>Spring 2020</td>
     </tr>
 </table>
