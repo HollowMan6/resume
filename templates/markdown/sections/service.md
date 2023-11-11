@@ -19,12 +19,12 @@
 {% endfor %}
 </table>
 
-<!-- ### Reviewing -->
-<!-- <table class="table table-hover"> -->
-{% for item in items.reviewing %} -->
-<!-- <tr> -->
-<!--   <td style='padding-right:0;'>{{ item }}</td> -->
-<!-- </tr> -->
+### Reviewing
+<table class="table table-hover">
+{% for item in items.reviewing %}
+<tr>
+  <td style='padding-right:0;'>{{ item }}</td>
+</tr>
 {% endfor %}
-<!-- </table> -->
+</table>
 {% endblock body %}

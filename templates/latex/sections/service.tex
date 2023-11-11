@@ -1,22 +1,24 @@
 ~< extends "section.tex" >~
 
 ~< block body >~
-  ~< for item in items.main >~
-    ~< if item.url >~
-      \href{<< item.url >>}{<< item.name>>}
-    ~< else >~
-      << item.name >>
-    ~< endif >~
-    \hfill << item.year >>
-    ~< if item.details >~
-      \\ {\scriptsize \color{gray}{<< item.details >>} \par}
-    ~< else >~
-      \\[3mm]
-    ~< endif >~
-  ~< endfor >~
-
-% \subsection{Reviewing}
-~< for item in items.reviewing >~
-<< item >> \\
+\subsection{Main}
+~< for item in items.main >~
+  ~< if item.url >~
+    \href{<< item.url >>}{<< item.name>>}
+  ~< else >~
+    << item.name >>
+  ~< endif >~
+  \hfill << item.year >>
+  ~< if item.details >~
+    \\ {\scriptsize \color{gray}{<< item.details >>}}
+  ~< else >~
+    \\[4.5mm]
+  ~< endif >~
 ~< endfor >~
+
+\subsection{Reviewing}
+~< for item in items.reviewing >~
+\cvlistitem{<< item >>}
+~< endfor >~
+\vspace{1em}
 ~< endblock body >~

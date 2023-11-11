@@ -46,12 +46,16 @@ education:
     overallGPA: 4.93/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
+      - "Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Technical University of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 2023 -- 2024
     overallGPA:
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
+      - "Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters"
+      - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: University of Leeds
     degree: Exchange
     dates: Spring 2020
@@ -66,51 +70,59 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: CSC - IT Center for Science
+    title: HPC Develop Thesis Worker
+    dates: 01/2024 -- 07/2024
+    details:
+      - "Work on my master's thesis for SECCLO Erasmus Mundus program"
+      - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
+      - "Investigate the \\textbf{continuous aggregates} feature of TimescaleDB"
+      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 2023"
   - place: Enclaive
     title: Developer Relations Engineer
     inline_detail: "confidential computing, with \\href{https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en}{Prof. Sebastian Gajek}"
     dates: 06/2023 -- Present
     details:
-      - "Technical \\textbf{documentation}, tutorials and content creation"
-      - "Channel management to \\textbf{interact} with the community and grow the base"
+      - "Create technical \\textbf{documentation}, tutorials and content"
+      - "Manage channel to \\textbf{interact} with the community and grow the customer base"
   - place: Igalia
     title: Coding Experience
     inline_detail: "\\href{https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/}{Wolvic}, ex. Mozilla Firefox Reality"
     dates: 06/2023 -- Present
     details:
-      - "\\textbf{VR Browser} Development, \\textbf{Android} deprecated methods refactoring"
-      - "Address user issues, UI, browser, and \\textbf{openXR} related feature implementation"
-      - "Contributed to the majority of the features available from \\href{https://wolvic.com/blog/release_1.4.2/}{v1.4.2}, \\href{https://wolvic.com/blog/release_1.5/}{v1.5}, and \\href{https://wolvic.com/blog/release_1.5.1/}{v1.5.1}"
+      - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
+      - "Address user issues. Implement UI, browser, and \\textbf{openXR} related features"
+      - "Contribute to the majority of the features available from \\href{https://wolvic.com/blog/release_1.4.2/}{v1.4.2}, \\href{https://wolvic.com/blog/release_1.5/}{v1.5}, and \\href{https://wolvic.com/blog/release_1.5.1/}{v1.5.1}"
   - place: CSC - IT Center for Science
     title: HPC Developer Internship
     dates: 05/2023 -- 08/2023
     details:
       - "Develop the \\textbf{GPU monitoring service} for HPC clusters (NVIDIA and AMD GPUs, including LUMI)"
       - "Develop the Documentation GPT chatbot service using \\href{https://twitter.com/llama_index/status/1671537854802202624}{\\textbf{llamaIndex}}, \\textbf{LangChain} and \\textbf{Redis}"
-      - "Make \\href{https://github.com/OSC/ondemand/pull/2958}{improvements} to the HPC web operating interface project \\textit{Open OnDemand} in \\textbf{Ruby on Rails}"
-      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 2023"
+      - "Make \\href{https://github.com/OSC/ondemand/pull/2958}{improvements} to the HPC web operating interface project \\textit{Open OnDemand} using \\textbf{Ruby on Rails}"
   - place: \href{https://github.com/kubescape}{Kubescape}
     title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{CNCF LFX Mentorship}
     inline_detail: "Kubernetes security platform"
     dates: 03/2023 -- 05/2023
     details:
       - "Add packaging support for various \\textbf{package managers} in \\textbf{Linux}, \\textbf{macOS}, and \\textbf{Windows}"
-      - "Improve \\textbf{release CI} by adding \\textbf{ARM64} binaries building and testing support (by \\textbf{QEMU} and \\textbf{cross compiling}), and also support Kubescape auto version bumping for other Kubescape-related repositories"
+      - "Improve \\textbf{release CI} by adding \\textbf{ARM64} binaries building and testing support (\\textbf{QEMU} and \\textbf{cross compiling})"
+      - "Add support for Kubescape auto version bumping in other Kubescape-related repositories"
       - "Enable Kubescape \\href{https://github.com/kubescape/github-action}{\\textbf{GitHub action}} to support \\textbf{code review} based on generated \\href{https://github.com/HollowMan6/sarif4reviewdog/pull/5}{\\textbf{SARIF report}}"
       - "A \\href{https://www.cncf.io/blog/2023/06/09/congratulations-to-57-cncf-term-1-lfx-program-mentees/\\#:~:text=Songlin\\%20Jiang}{blog post} by \\textbf{Cloud Native Computing Foundation} (\\textbf{CNCF}) that introduces my work"
   - place: Tencent
     title: \href{https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program}{Rhino-Bird Open-Source Training Program}
     inline_detail: "Kona JDK"
     details:
-      - "Generate keypairs for \\href{https://www.cryptopp.com/wiki/SM2}{\\textbf{SM2}} by various algorithms with \\href{https://github.com/HollowMan6/tencent_RbOSTP_jdk/tree/sm2}{\\textbf{JDK} library}, compare \\textbf{performance} and \\textbf{security}"
+      - "Investigate keypairs generation for \\href{https://www.cryptopp.com/wiki/SM2}{\\textbf{SM2}} with \\href{https://github.com/HollowMan6/tencent_RbOSTP_jdk/tree/sm2}{\\textbf{JDK}}, compare \\textbf{performance} and \\textbf{security} of algorithms"
     dates: 07/2022 -- 09/2022
   - place: \href{https://www.csail.mit.edu/research/mit-app-inventor}{MIT CSAIL} \& Google
     title: \href{https://github.com/HollowMan6/My-Google-Summer-of-Code}{Google Summer of Code}
     inline_detail: "\\href{https://github.com/google/blockly/releases/tag/blockly-v10.1.2}{Blockly}, web-based visual program editor"
     details:
-      - "Allow selecting, dragging and manipulating multiple blocks for Google Blockly by \\href{https://github.com/mit-cml/workspace-multiselect}{creating a \\textbf{plugin}}"
+      - "\\href{https://github.com/mit-cml/workspace-multiselect}{Create a plugin} to allow selecting, dragging and manipulating \\textbf{multiple blocks at once} for Google Blockly"
       - "Resolve the \\href{https://github.com/google/blockly-samples/issues/267\\#issuecomment-255582938}{issue} that had troubled the \\textbf{Google Engineers} for \\textbf{a decade} (since the Blockly project started)"
-      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has average \\textbf{50+} downloads per week"
+      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has an average of \\textbf{50+} downloads per week"
     dates: 05/2022 -- 09/2022
   - place: \href{https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder}{Cryptoanarchy Debian}
     title: \href{https://github.com/HollowMan6/My-Summer-of-Bitcoin}{Summer of Bitcoin}
@@ -118,29 +130,29 @@ positions:
     dates: 05/2022 -- 08/2022
     details:
       - "Add Continuous Integration (CI) by investigating \\textbf{systemd} support inside Docker with GitHub Actions"
-      - "\\href{https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/}{Chances} to get into this internship in 2022: \\textbf{83/20317}"
+      - "The \\href{https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/}{chance} to get into this internship in 2022: \\textbf{83/20317}"
   - place: \href{https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/}{Microsoft Research NYC}
     title: \href{https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest}{RL Open Source Fest}
     inline_detail: "\\href{https://github.com/VowpalWabbit/vowpal_wabbit/releases/tag/9.4.0}{Vowpal Wabbit}, ML library"
     dates: 05/2022 -- 08/2022
     details:
       - "Add native CSV parser support for the Vowpal Wabbit project in C++, \\textbf{100\\%} Test \\& Code Coverage"
-      - "Finally managed to make \\textbf{10x performance improvement} and is comparable to VW text format"
+      - "Manage to make \\textbf{10x performance improvement} and is comparable to speed of original VW text format"
   - place: Institute of Software, CAS
     title: \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{Open Source Intern}
     inline_detail: "\\href{https://www.openeuler.org/zh/internship/}{openEuler}, Linux distribution"
     dates: 01/2022 -- 07/2022
     details:
       - "\\textbf{First} to obtain 150 intern credits. Help solve 6 issues, related technologies include \\textbf{D-Bus}, \\textbf{Glib}, building Cloud Native \\textbf{Container} images, \\textbf{Rust} programming, \\textbf{Chrome DevTools Protocol}, test case, \\textbf{RPM} packaging"
-      - "One of the achievement \\href{https://crates.io/crates/mdbook-pdf}{mdbook-pdf} now has average \\textbf{100+} downloads per week"
+      - "One of the achievements \\href{https://crates.io/crates/mdbook-pdf}{mdbook-pdf} now has an average of \\textbf{100+} downloads per week"
   - place: openSUSE
     title: \href{https://github.com/HollowMan6/My-Google-Summer-of-Code}{Google Summer of Code}
     inline_detail: "\\href{https://github.com/ibus/ibus/pull/2327}{IBus}, input method framework"
     dates: 06/2021 -- 08/2021
     details:
-      - "Add custom themes feature for IME framework IBus, improve IBus settings support in GNOME"
+      - "Add customizing themes feature for IBus in desktop environments, improve IBus settings support in GNOME"
       - "A \\href{https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/}{blog post} at \\textbf{openSUSE News} that introduces my work"
-      - "\\textbf{GNOME extension} \\href{https://extensions.gnome.org/extension/4112/customize-ibus/}{Customize IBus} now has average \\textbf{100+} downloads per week"
+      - "\\textbf{GNOME extension} \\href{https://extensions.gnome.org/extension/4112/customize-ibus/}{Customize IBus} now has an average of \\textbf{100+} downloads per week"
   - place: openEuler
     title: \href{https://github.com/HollowMan6/My-OSPP-Summer}{OSPP Summer}
     inline_detail: "Developed an ISO writer using QT and C++"
@@ -150,20 +162,20 @@ positions:
     inline_detail: "\\href{https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home}{EAF}, work with \\href{https://github.com/manateelazycat}{Yong Wang}"
     dates: 07/2020 -- 09/2020
     details:
-      - "Address issues using \\textbf{Emacs Lisp}, \\textbf{Python}, \\textbf{JavaScript}, \\textbf{SQLite} to add new features for Emacs Application"
+      - "Add new features and address all kinds of issues using \\textbf{Emacs Lisp}, \\textbf{Python}, \\textbf{JavaScript}, \\textbf{SQLite}"
       - "A \\href{https://manateelazycat.github.io/2020/07/22/eaf-support-caret-browse/}{blog post (in Chinese)} about my work posted by Yong Wang (ManateeLazyCat)"
   - place: Alibaba
     title: \href{https://github.com/HollowMan6/My-Alibaba-Summer-of-Code}{Summer of Code}
     inline_detail: "\\href{https://github.com/alibaba/arthas}{Arthas}, Java diagnostic tool"
     dates: 07/2020 -- 08/2020
     details:
-      - "Write Chinese and English online tutorials for Arthas using \\textbf{Katacoda} and \\textbf{Vue.js}"
-      - "\\textbf{Highlight}: Support directly searching Class Loader by name instead of Hash Code using Java"
+      - "Create Chinese and English interactive online tutorials for Arthas using \\textbf{Katacoda} and \\textbf{Vue.js}"
+      - "\\textbf{Coding part highlight}: Support directly searching Class Loader by name instead of Hash Code in Java"
       - "A \\href{https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa}{Wechat post (in Chinese)} about my work posted by \\href{https://github.com/hengyunabc}{hengyunabc}"
 
 honors:
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
-    descr: (26/767) Full-ride scholarship, including tuition and living costs
+    descr: (26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses
     year: 2022 -- 2024
   - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
     year: 2023
@@ -177,7 +189,7 @@ honors:
     descr: Only 30+ were issued globally by the end of 2022
     year: 2022
   - title: \href{https://mp.weixin.qq.com/s/E4dSpia0V9k5gtGl5T9cDg}{Intern of Excellence} Award at \textbf{Tencent}
-    descr: 2/4000+ to receive all the 3 kinds of intern awards
+    descr: Only 2/4000+ received all the 3 kinds of intern awards
     year: 2022
   - title: Intern of Excellence \& Star of Open Source Award in \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{\textbf{openEuler} Open Source Internship}
     descr: Only 3/150+ interns received both awards
@@ -196,7 +208,7 @@ honors:
     descr: "Paper: Research on the Functionality and Optimization of Urban Communities in China During COVID-19 in 2020"
     year: 2020
   - title: Award in \href{https://github.com/HollowMan6/My-openEuler-University-Developer-Competition}{\textbf{openEuler} University Developer Competition}
-    descr: (24/547 Teams) (I participate only by myself) \href{https://my.oschina.net/u/4469669/blog/5035529}{Ranked 1st} in final defense
+    descr: (24/547 Teams) I participated alone, \href{https://my.oschina.net/u/4469669/blog/5035529}{ranked 1st} in final defense
     year: 2020
   - title: \href{https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh}{Star of Innovation Award} in \textbf{Alibaba T-head} OCC Developers IoT Innovation Competition
     descr: My proposal \href{https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032}{ranked 1st} in voting (850 votes, 300 more than the 2nd one)
@@ -205,7 +217,7 @@ honors:
     descr: (Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement
     year: 2019
   - title: \textbf{Google} \href{https://www.zhihu.com/question/292397097}{InnoCamp Hangzhou BoostMakers} -- TensorFlow Boost
-    descr: 40+/2000+
+    descr: Only 40+/2000+ got this certificate
     year: 2019
   - title: \href{https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf}{Excellent Project Award} in \textbf{Lanzhou University} Innovation and Entrepreneurship Plan
     descr: "Project: Renaissance -- AI + Dunhuang Art, supervised by \\href{https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ}{Prof. Qingguo Zhou}"
@@ -238,7 +250,7 @@ repos:
     desc: Machine Learning System
   - repo_url: https://github.com/ThibaultJanBeyer/DragSelect
     year: 2022
-    desc: DragSelect JavaScript UI Library
+    desc: Multi-Select UI Library
   - repo_url: https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder
     year: 2022
     desc: Bitcoin Packages for Debian
@@ -256,7 +268,7 @@ repos:
     desc: GitHub action for WeChat Message
   - repo_url: https://github.com/openSUSE/IBus-Theme-Hub
     year: 2021
-    desc: IBus Themes CSS
+    desc: IBus Themes CSS Hub
   - repo_url: https://github.com/openSUSE/IBus-Theme-Tools
     year: 2021
     desc: IBus Theme Generator
@@ -305,12 +317,16 @@ service:
       url: https://en.opensuse.org/User:Hollowman
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
+  reviewing:
+    - "SIGMOD 2023 Reproducibility Evaluation Reviewer"
 
 skills:
-  - title: Programming
-    details: Go, Rust, Java, Kotlin, JavaScript, C++, C, Python, HTML, Shell, SQL ...
+  - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
+    details: C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby ...
   - title: Frameworks
-    details: GitHub Actions, Flutter, React, Viper, Selenium, TensorFlow, scikit-learn ...
+    details: \href{https://github.com/moby/moby/issues/44450}{Docker}, \href{https://github.com/tensorflow/tensorflow/pull/43570}{TensorFlow}, PyTorch, Pandas, Numpy, GitHub Actions, Flutter, React, QT ...
+  - title: DataBases
+    details: PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
 
 patents:
   - name: Hollow Software for Smartly Memorizing Words
@@ -330,13 +346,13 @@ patents:
     id: CN 2019SR1388115
 
 coursework:
-  - name: Program Analysis
+  - name: \href{https://kurser.dtu.dk/course/02242}{Program Analysis}
     school: DTU
     semester: Fall 2023
-  - name: Program Verification
+  - name: \href{https://pv.cmath.eu/}{Program Verification}
     school: DTU
     semester: Fall 2023
-  - name: Programming Parallel Computers
+  - name: \href{https://ppc.cs.aalto.fi/}{Programming Parallel Computers}
     school: Aalto University
     semester: Spring 2023
   - name: Platform Security
@@ -348,12 +364,12 @@ coursework:
   - name: Multimedia Services in Internet
     school: Aalto University
     semester: Fall 2022
-  - name: Designing and Building Scalable Web Applications
+  - name: \href{https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/}{Designing and Building Scalable Web Applications}
     school: Aalto University
     semester: Fall 2022
   - name: Network Security
     school: Aalto University
     semester: Fall 2022
-  - name: Formal Languages and Finite Automata
+  - name: \href{https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321}{Formal Languages and Finite Automata}
     school: University of Leeds
     semester: Spring 2020

@@ -2,15 +2,15 @@
 
 ~< block body >~
 << followers >> GitHub followers.
-<< total_stars >> GitHub stars across all of the following selected repositories: \\
-
+<< total_stars >> GitHub stars across all of the following selected repositories:
 \setlength\tabcolsep{0pt}
-\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}} llllr}
+\begin{longtable}{@{\extracolsep{\fill}} llllr}
   ~< for item in items >~
     << loop.index >>. & \href{<< item.repo_url >>}{<< item.name >>} & $\bigstar$<< item.stars >> & \emph{<< item.desc >>} & << item.year>> \\
     ~< if item.rank >~
      & \multicolumn{4}{l}{\scriptsize \color{gray}{Rank \#<< item.rank >> among all contributors with << item.commits >> commits, << item.additons >> lines of additions and << item.deletions >> lines of deletions}} \\
     ~< endif >~
   ~< endfor >~
-\end{tabular*}
+\end{longtable}
+\vspace{0em}
 ~< endblock body >~
