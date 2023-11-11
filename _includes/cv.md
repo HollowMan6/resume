@@ -142,7 +142,7 @@ maintain several open-source projects and contribute to many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">Create a plugin</a> to allow selecting, dragging and manipulating <b>multiple blocks at once</b> for Google Blockly
   <br> • Resolve the <a href="https://github.com/google/blockly-samples/issues/267#issuecomment-255582938" target="_blank">issue</a> that had troubled the <b>Google Engineers</b> for <b>a decade</b> (since the Blockly project started)
-  <br> • <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has average <b>50+</b> downloads per week
+  <br> • <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has an average of <b>50+</b> downloads per week
   </p>
   </td>
 </tr>
@@ -178,7 +178,7 @@ maintain several open-source projects and contribute to many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • <b>First</b> to obtain 150 intern credits. Help solve 6 issues, related technologies include <b>D-Bus</b>, <b>Glib</b>, building Cloud Native <b>Container</b> images, <b>Rust</b> programming, <b>Chrome DevTools Protocol</b>, test case, <b>RPM</b> packaging
-  <br> • One of the achievements <a href="https://crates.io/crates/mdbook-pdf" target="_blank">mdbook-pdf</a> now has average <b>100+</b> downloads per week
+  <br> • One of the achievements <a href="https://crates.io/crates/mdbook-pdf" target="_blank">mdbook-pdf</a> now has an average of <b>100+</b> downloads per week
   </p>
   </td>
 </tr>
@@ -191,7 +191,7 @@ maintain several open-source projects and contribute to many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Add customizing themes feature for IBus in desktop environments, improve IBus settings support in GNOME
   <br> • A <a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">blog post</a> at <b>openSUSE News</b> that introduces my work
-  <br> • <b>GNOME extension</b> <a href="https://extensions.gnome.org/extension/4112/customize-ibus/" target="_blank">Customize IBus</a> now has average <b>100+</b> downloads per week
+  <br> • <b>GNOME extension</b> <a href="https://extensions.gnome.org/extension/4112/customize-ibus/" target="_blank">Customize IBus</a> now has an average of <b>100+</b> downloads per week
   </p>
   </td>
 </tr>
