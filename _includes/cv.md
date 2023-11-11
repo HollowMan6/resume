@@ -409,7 +409,7 @@ maintain several open-source projects and contribute to many others.
   <div style='float: right'>2019</div>
   <div>
         <a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Excellent Project Award</a> in <b>Lanzhou University</b> Innovation and Entrepreneurship Plan
-    <br><p style="color:grey;font-size:1.4rem">Project: Renaissance&nbsp;-&nbsp;AI + Dunhuang Art, supervised by <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a></p>
+    <br><p style="color:grey;font-size:1.4rem">Only 122/1268 got this award</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -420,7 +420,7 @@ maintain several open-source projects and contribute to many others.
   <div>
         Nine <b>Lanzhou University</b> undergraduate scholarships
     <br><p style="color:grey;font-size:1.4rem">3 x scholarship for academic excellence,
-5 x scholarship for <a href="http://114.220.75.43:1003/Index/ItemDetail?id=e604020f-0929-4988-a23f-95a2c2e631ea&_pageIndex=106" target="_blank">innovation and entrepreneurship projects</a>,
+5 x scholarship for innovation and entrepreneurship projects,
 2020 scholarship for IELTS test fee
 </p>
   </div>
@@ -658,12 +658,53 @@ Content, Link to the talk, and Date:
 ### Reviewing
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0;'>SIGMOD 2023 Reproducibility Evaluation Reviewer</td>
+  <td style='padding-right:0;'>ACM SIGMOD 2023 Availability & Reproducibility</td>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Software Copyright
+## <i class="fa fa-chevron-right"></i> Research Projects
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>2023</td>
+  <td>
+    <strong><a href="https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf" target="_blank">Virtual Network Systems among Containers</a></strong> <br> <a href="https://scholar.google.com/citations?user=izj4P5gAAAAJ" target="_blank">Prof. Tuomas Aura</a>, <i>Aalto University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2021</td>
+  <td>
+    <strong><a href="https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx" target="_blank">Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network</a></strong> <br> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67" target="_blank">Dr. Weiwei Liu</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2020</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf" target="_blank">Renaissance&nbsp;-&nbsp;Use AI to Repair Old Photos</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2020</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html" target="_blank">Skin Cancer detection Method Based on CNN</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html" target="_blank">Dr. Xin Lv</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2019</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Renaissance&nbsp;-&nbsp;AI + Dunhuang Art</a></strong> <br> <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2019</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html" target="_blank">Self-balancing Bike</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html" target="_blank">Prof. Hongxin Li</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Software Copyrights
 <table class="table table-hover">
     <tr>
         <td class='col-md-2'>Hollow Software for Smartly Memorizing Words</td>
