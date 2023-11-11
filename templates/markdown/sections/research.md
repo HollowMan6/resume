@@ -6,8 +6,7 @@
 <tr>
   <td class='col-md-3'>{{ r.dates }}</td>
   <td>
-    <strong>{{ r.place }}</strong>, {{ r.advisor }} <br>
-    {{ r.area }}
+    <strong>{{ r.name }}</strong> <br> {{ r.advisor }}, <i>{{ r.place }}</i>
   </td>
 </tr>
 {% endfor %}

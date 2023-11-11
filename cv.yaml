@@ -24,7 +24,8 @@ order:
   - [repos, Open Source Repositories]
   - [talks, Invited Talks]
   - [service, Professional Activities]
-  - [patents, Software Copyright]
+  - [research, Research Projects]
+  - [patents, Software Copyrights]
   - [all_publications, Publications]
   - [skills, Skills]
   - [coursework, Courses]
@@ -220,12 +221,12 @@ honors:
     descr: Only 40+/2000+ got this certificate
     year: 2019
   - title: \href{https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf}{Excellent Project Award} in \textbf{Lanzhou University} Innovation and Entrepreneurship Plan
-    descr: "Project: Renaissance -- AI + Dunhuang Art, supervised by \\href{https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ}{Prof. Qingguo Zhou}"
+    descr: "Only 122/1268 got this award"
     year: 2019
   - title: Nine \textbf{Lanzhou University} undergraduate scholarships
     descr: |
       3 x scholarship for academic excellence,
-      5 x scholarship for \href{http://114.220.75.43:1003/Index/ItemDetail?id=e604020f-0929-4988-a23f-95a2c2e631ea&_pageIndex=106}{innovation and entrepreneurship projects},
+      5 x scholarship for innovation and entrepreneurship projects,
       2020 scholarship for IELTS test fee
     year: 2018 -- 2022
 
@@ -318,7 +319,7 @@ service:
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
-    - "SIGMOD 2023 Reproducibility Evaluation Reviewer"
+    - "ACM SIGMOD 2023 Availability \\& Reproducibility"
 
 skills:
   - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
@@ -327,6 +328,32 @@ skills:
     details: \href{https://github.com/moby/moby/issues/44450}{Docker}, \href{https://github.com/tensorflow/tensorflow/pull/43570}{TensorFlow}, PyTorch, Pandas, Numpy, GitHub Actions, Flutter, React, QT ...
   - title: DataBases
     details: PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
+
+research:
+  - name: \href{https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf}{Virtual Network Systems among Containers}
+    advisor: \href{https://scholar.google.com/citations?user=izj4P5gAAAAJ}{Prof. Tuomas Aura}
+    place: Aalto University
+    dates: 2023
+  - name: \href{https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx}{Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network}
+    advisor: \href{http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67}{Dr. Weiwei Liu}
+    place: Lanzhou University
+    dates: 2021
+  - name: \href{https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf}{Renaissance -- Use AI to Repair Old Photos}
+    advisor: \href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}
+    place: Lanzhou University
+    dates: 2020
+  - name: \href{https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html}{Skin Cancer detection Method Based on CNN}
+    advisor: \href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html}{Dr. Xin Lv}
+    place: Lanzhou University
+    dates: 2020
+  - name: \href{https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf}{Renaissance -- AI + Dunhuang Art}
+    advisor: \href{https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ}{Prof. Qingguo Zhou}
+    place: Lanzhou University
+    dates: 2019
+  - name: \href{https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html}{Self-balancing Bike}
+    advisor: \href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html}{Prof. Hongxin Li}
+    place: Lanzhou University
+    dates: 2019
 
 patents:
   - name: Hollow Software for Smartly Memorizing Words

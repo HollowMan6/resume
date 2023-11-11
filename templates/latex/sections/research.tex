@@ -3,10 +3,7 @@
 ~< block body >~
     ~< for item in items >~
         \cvlistitem{
-          << item.place >>, << item.advisor >> \hfill << item.dates >>
-          \begin{itemize}
-          \item << item.area >>
-          \end{itemize}
+          \textbf{<< item.name >>} \hfill << item.dates >>\\ << item.advisor >>, \textit{<< item.place >>}
         }
     ~< endfor >~
 ~< endblock body >~
