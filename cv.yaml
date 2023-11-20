@@ -47,7 +47,7 @@ education:
     overallGPA: 4.93/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
-      - "Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters"
+      - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Technical University of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
@@ -55,7 +55,7 @@ education:
     overallGPA:
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
-      - "Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters"
+      - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: University of Leeds
     degree: Exchange
@@ -71,6 +71,14 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: Igalia
+    title: Open Source Software Engineer
+    inline_detail: "\\href{https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/}{Wolvic}, ex. Mozilla Firefox Reality"
+    dates: 06/2023 -- Present
+    details:
+      - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
+      - "Address user issues. Implement UI, browser, and \\textbf{openXR} related features"
+      - "Contribute to the majority of the features available from \\href{https://wolvic.com/blog/release_1.4.2/}{v1.4.2}, \\href{https://wolvic.com/blog/release_1.5/}{v1.5}, and \\href{https://wolvic.com/blog/release_1.5.1/}{v1.5.1}"
   - place: CSC - IT Center for Science
     title: HPC Develop Thesis Worker
     dates: 01/2024 -- 07/2024
@@ -82,18 +90,10 @@ positions:
   - place: Enclaive
     title: Developer Relations Engineer
     inline_detail: "confidential computing, with \\href{https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en}{Prof. Sebastian Gajek}"
-    dates: 06/2023 -- Present
+    dates: 06/2023 -- 05/2024
     details:
       - "Create technical \\textbf{documentation}, tutorials and content"
       - "Manage channel to \\textbf{interact} with the community and grow the customer base"
-  - place: Igalia
-    title: Coding Experience
-    inline_detail: "\\href{https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/}{Wolvic}, ex. Mozilla Firefox Reality"
-    dates: 06/2023 -- Present
-    details:
-      - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
-      - "Address user issues. Implement UI, browser, and \\textbf{openXR} related features"
-      - "Contribute to the majority of the features available from \\href{https://wolvic.com/blog/release_1.4.2/}{v1.4.2}, \\href{https://wolvic.com/blog/release_1.5/}{v1.5}, and \\href{https://wolvic.com/blog/release_1.5.1/}{v1.5.1}"
   - place: CSC - IT Center for Science
     title: HPC Developer Internship
     dates: 05/2023 -- 08/2023
@@ -140,7 +140,7 @@ positions:
       - "Add native CSV parser support for the Vowpal Wabbit project in C++, \\textbf{100\\%} Test \\& Code Coverage"
       - "Manage to make \\textbf{10x performance improvement} and is comparable to speed of original VW text format"
   - place: Institute of Software, CAS
-    title: \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{Open Source Intern}
+    title: \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{Open Source Internship}
     inline_detail: "\\href{https://www.openeuler.org/zh/internship/}{openEuler}, Linux distribution"
     dates: 01/2022 -- 07/2022
     details:
@@ -178,6 +178,8 @@ honors:
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
     descr: (26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses
     year: 2022 -- 2024
+  - title: \textbf{Black Hat} Europe 2023 Student Scholarship
+    year: 2023
   - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
     year: 2023
   - title: Cloud Captains in \textbf{Linux Foundation} Training \href{https://training.linuxfoundation.cn/news/338}{(LiFT) Scholarship (China)}
