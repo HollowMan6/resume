@@ -499,7 +499,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 108 |
+    <i class="fa fas fa-star"></i> 109 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
   </td>
@@ -805,7 +805,7 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 <tr>
   <td class='col-md-2'><b>Frameworks</b></td>
   <td>
-<a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, PyTorch, Pandas, Numpy, GitHub Actions, Flutter, React, QT ...
+<a href="https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767" target="_blank">Kubernetes</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, <a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, PyTorch, Pandas, GitHub Actions, Flutter, React, QT ...
   </td>
 </tr>
 <tr>
