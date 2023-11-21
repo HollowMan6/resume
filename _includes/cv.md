@@ -18,7 +18,7 @@ maintain several open-source projects and contribute to many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Security and Cloud Computing</b>
-            <br> • Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters
+            <br> • Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
@@ -30,7 +30,7 @@ maintain several open-source projects and contribute to many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Reliable Distributed Systems</b>
-            <br> • Thesis: Real-time GPU Usage Alert Service for Jobs on Pre-exascale HPC Clusters
+            <br> • Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters
             <br> • Supervisor: <a href="https://orbit.dtu.dk/en/persons/bernd-dammann" target="_blank">Prof. Bernd Dammann</a>
         </p>
     </td>
@@ -61,6 +61,19 @@ maintain several open-source projects and contribute to many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
+<p markdown="1" style='margin: 0'><strong>Open Source Software Engineer</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
+</span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
+  <br> • Address user issues. Implement UI, browser, and <b>openXR</b> related features
+  <br> • Contribute to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>, <a href="https://wolvic.com/blog/release_1.5/" target="_blank">v1.5</a>, and <a href="https://wolvic.com/blog/release_1.5.1/" target="_blank">v1.5.1</a>
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
 <span class='cvdate'>01/2024&nbsp;-&nbsp;07/2024</span>
 <p markdown="1" style='margin: 0'><strong>HPC Develop Thesis Worker</strong>, <em>CSC - IT Center for Science</em></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -73,26 +86,13 @@ maintain several open-source projects and contribute to many others.
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;05/2024</span>
 <p markdown="1" style='margin: 0'><strong>Developer Relations Engineer</strong>, <em>Enclaive</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (confidential computing, with <a href="https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en" target="_blank">Prof. Sebastian Gajek</a>)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Create technical <b>documentation</b>, tutorials and content
   <br> • Manage channel to <b>interact</b> with the community and grow the customer base
-  </p>
-  </td>
-</tr>
-<tr>
-  <td style='padding-right:0;'>
-<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
-<p markdown="1" style='margin: 0'><strong>Coding Experience</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
-(<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
-</span></p>
-  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
-  <br> • Address user issues. Implement UI, browser, and <b>openXR</b> related features
-  <br> • Contribute to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>, <a href="https://wolvic.com/blog/release_1.5/" target="_blank">v1.5</a>, and <a href="https://wolvic.com/blog/release_1.5.1/" target="_blank">v1.5.1</a>
   </p>
   </td>
 </tr>
@@ -173,7 +173,7 @@ maintain several open-source projects and contribute to many others.
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>01/2022&nbsp;-&nbsp;07/2022</span>
-<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Open Source Intern</a></strong>, <em>Institute of Software, CAS</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Open Source Internship</a></strong>, <em>Institute of Software, CAS</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (<a href="https://www.openeuler.org/zh/internship/" target="_blank">openEuler</a>, Linux distribution)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -242,6 +242,15 @@ maintain several open-source projects and contribute to many others.
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2022&nbsp;-&nbsp;2024</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2023</div>
+  <div>
+        <b>Black Hat</b> Europe 2023 Student Scholarship
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
 </tr>
 <tr>
   <td>
@@ -432,7 +441,7 @@ maintain several open-source projects and contribute to many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-55.6k+ GitHub stars across all of the following selected repositories:
+55.8k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -440,7 +449,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.1k |
+    <i class="fa fas fa-star"></i> 9.2k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -450,7 +459,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 636 |
+    <i class="fa fas fa-star"></i> 641 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 117 commits, 8008 lines of additions and 3712 lines of deletions</p>
   </td>
@@ -470,7 +479,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 607 |
+    <i class="fa fas fa-star"></i> 611 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -490,7 +499,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 106 |
+    <i class="fa fas fa-star"></i> 108 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 35 commits, 3152 lines of additions and 527 lines of deletions</p>
   </td>
@@ -500,7 +509,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 5 |
+    <i class="fa fas fa-star"></i> 6 |
     <em>Blockly Multi-Select Plugin</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 18 commits, 11846 lines of additions and 20978 lines of deletions</p>
   </td>
@@ -510,7 +519,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 47 |
+    <i class="fa fas fa-star"></i> 48 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 354 commits, 42984 lines of additions and 30128 lines of deletions</p>
   </td>
@@ -550,7 +559,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 33.7k |
+    <i class="fa fas fa-star"></i> 33.8k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -570,7 +579,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 106 |
+    <i class="fa fas fa-star"></i> 108 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
