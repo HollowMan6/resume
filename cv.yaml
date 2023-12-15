@@ -42,8 +42,15 @@ about: |
 
 education:
   - school: Aalto University
+    degree: Ph.D. in Computer Science
+    dates: 08/2024 -- 08/2028
+    details:
+      - "Improve Large Language Models (LLMs) training efficiency on HPC clusters"
+      - "Reinforcement Learning from Human Feedback (RLHF)"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+  - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
-    dates: 2022 -- 2024
+    dates: 08/2022 -- 07/2024
     overallGPA: 4.93/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
@@ -51,7 +58,7 @@ education:
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Technical University of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
-    dates: 2023 -- 2024
+    dates: 08/2023 -- 07/2024
     overallGPA:
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
@@ -59,12 +66,12 @@ education:
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: University of Leeds
     degree: Exchange
-    dates: Spring 2020
+    dates: 01/2020 -- 06/2020
     overallGPA:
     details:
   - school: Lanzhou University
     degree: B.Eng. in Computer Science \& Technology (Honors)
-    dates: 2018 -- 2022
+    dates: 09/2018 -- 06/2022
     overallGPA: 91/100
     details:
       - "Thesis: \\href{https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf}{\\textit{A Short-Term Wind Speed Multistep-Ahead Hybrid\\\\ Prediction Model based on ICEEMDAN and Prophet-GRU-NN}}"
@@ -77,16 +84,16 @@ positions:
     dates: 06/2023 -- Present
     details:
       - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
-      - "Address user issues. Implement UI, browser, and \\textbf{openXR} related features"
-      - "Contribute to the majority of the features available from \\href{https://wolvic.com/blog/release_1.4.2/}{v1.4.2}, \\href{https://wolvic.com/blog/release_1.5/}{v1.5}, and \\href{https://wolvic.com/blog/release_1.5.1/}{v1.5.1}"
+      - "Address user issues. Implement UI, graphics, browser, and \\textbf{openXR} related features"
+      - "Contribute to the majority of the features available from v1.4.2+"
   - place: CSC - IT Center for Science
-    title: HPC Develop Thesis Worker
+    title: Junior Application Specialist (Thesis Worker)
     dates: 01/2024 -- 07/2024
     details:
-      - "Work on my master's thesis for SECCLO Erasmus Mundus program"
+      - "Work on the master's thesis for SECCLO Erasmus Mundus program"
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
       - "Investigate the \\textbf{continuous aggregates} feature of TimescaleDB"
-      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 2023"
+      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: Enclaive
     title: Developer Relations Engineer
     inline_detail: "confidential computing, with \\href{https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en}{Prof. Sebastian Gajek}"
@@ -167,7 +174,7 @@ positions:
       - "A \\href{https://manateelazycat.github.io/2020/07/22/eaf-support-caret-browse/}{blog post (in Chinese)} about my work posted by Yong Wang (ManateeLazyCat)"
   - place: Alibaba
     title: \href{https://github.com/HollowMan6/My-Alibaba-Summer-of-Code}{Summer of Code}
-    inline_detail: "\\href{https://github.com/alibaba/arthas}{Arthas}, Java diagnostic tool"
+    inline_detail: "\\href{https://github.com/alibaba/arthas}{Arthas}, Alibaba's \\href{https://github.com/alibaba?q=&type=all&language=&sort=stargazers}{most starred} project on GitHub, Java diagnostic tool"
     dates: 07/2020 -- 08/2020
     details:
       - "Create Chinese and English interactive online tutorials for Arthas using \\textbf{Katacoda} and \\textbf{Vue.js}"
@@ -251,6 +258,9 @@ repos:
   - repo_url: https://github.com/VowpalWabbit/vowpal_wabbit
     year: 2022
     desc: Machine Learning System
+  - repo_url: https://github.com/rust-headless-chrome/rust-headless-chrome
+    year: 2022
+    desc: Chrome DevTools Protocol in Rust
   - repo_url: https://github.com/ThibaultJanBeyer/DragSelect
     year: 2022
     desc: Multi-Select UI Library
@@ -376,9 +386,6 @@ patents:
 
 coursework:
   - name: \href{https://kurser.dtu.dk/course/02242}{Program Analysis}
-    school: DTU
-    semester: Fall 2023
-  - name: \href{https://pv.cmath.eu/}{Program Verification}
     school: DTU
     semester: Fall 2023
   - name: \href{https://ppc.cs.aalto.fi/}{Programming Parallel Computers}
