@@ -23,7 +23,9 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: make deps
+        run: |
+          sudo apt update
+          make deps
 
       - name: Build CV
         run: make

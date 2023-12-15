@@ -43,7 +43,7 @@ about: |
 education:
   - school: Aalto University
     degree: Ph.D. in Computer Science
-    dates: 08/2024 -- 08/2028
+    dates: 08/2024 -- 07/2028
     details:
       - "Improve Large Language Models (LLMs) training efficiency on HPC clusters"
       - "Reinforcement Learning from Human Feedback (RLHF)"
