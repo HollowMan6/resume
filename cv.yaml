@@ -1,7 +1,7 @@
 name:
   first: Songlin
   last: Jiang
-email: songlin.jiang@aalto.fi
+email: hollowman@opensuse.org
 pdf: /data/cv.pdf
 src: https://github.com/HollowMan6/resume
 url: "hollowman6.github.io"
@@ -32,22 +32,25 @@ order:
   # - [NEWPAGE, NONE]
 
 about: |
-  My academic fervor converges with enhancing \textbf{computer systems},
+  I find immense joy in pushing my boundaries by tackling complex issues
+  that have the potential to positively impact the public. My fervor
+  converges with enhancing \textbf{computer systems},
   \textbf{networks}, \textbf{databases}, and their corresponding
-  \textbf{security} aspects, which allows my research to have impacts
+  \textbf{security} aspects, which allows me to have impacts
   on computing for both the environment (\textbf{greener while efficient})
-  and people (\textbf{faster while reliable}). Additionally, I am a
-  passionate \textbf{free software advocate}. During my leisure time, I
-  maintain several open-source projects and contribute to many others.
+  and people (\textbf{faster while reliable}). 
+  Additionally, I am a passionate \textbf{free software advocate}. During my
+  leisure time, I maintain several open-source projects and contribute to
+  many others.
 
 education:
-  - school: Aalto University
-    degree: Ph.D. in Computer Science
-    dates: 08/2024 -- 07/2028
-    details:
-      - "Improve Large Language Models (LLMs) training efficiency on HPC clusters"
-      - "Reinforcement Learning from Human Feedback (RLHF)"
-      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+  # - school: Aalto University
+  #   degree: Ph.D. in Computer Science
+  #   dates: 08/2024 -- 07/2028
+  #   details:
+  #     - "Improve Large Language Models (LLMs) training efficiency on HPC clusters"
+  #     - "Reinforcement Learning from Human Feedback (RLHF)"
+  #     - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
@@ -59,7 +62,6 @@ education:
   - school: Technical University of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2023 -- 07/2024
-    overallGPA:
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
       - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
@@ -67,7 +69,6 @@ education:
   - school: University of Leeds
     degree: Exchange
     dates: 01/2020 -- 06/2020
-    overallGPA:
     details:
   - school: Lanzhou University
     degree: B.Eng. in Computer Science \& Technology (Honors)
@@ -78,21 +79,12 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
-  - place: Igalia
-    title: Open Source Software Engineer
-    inline_detail: "\\href{https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/}{Wolvic}, ex. Mozilla Firefox Reality"
-    dates: 06/2023 -- Present
-    details:
-      - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
-      - "Address user issues. Implement UI, graphics, browser, and \\textbf{openXR} related features"
-      - "Contribute to the majority of the features available from v1.4.2+"
   - place: CSC - IT Center for Science
     title: Junior Application Specialist (Thesis Worker)
     dates: 01/2024 -- 07/2024
     details:
       - "Work on the master's thesis for SECCLO Erasmus Mundus program"
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
-      - "Investigate the \\textbf{continuous aggregates} feature of TimescaleDB"
       - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: Enclaive
     title: Developer Relations Engineer
@@ -101,6 +93,14 @@ positions:
     details:
       - "Create technical \\textbf{documentation}, tutorials and content"
       - "Manage channel to \\textbf{interact} with the community and grow the customer base"
+  - place: Igalia
+    title: Coding Experience 2023 I \& II
+    inline_detail: "\\href{https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/}{Wolvic}, ex. Mozilla Firefox Reality"
+    dates: 06/2023 -- 12/2023
+    details:
+      - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
+      - "Address user issues. Implement UI, graphics, browser, and \\textbf{openXR} related features"
+      - "Contribute to the majority of the features available from v1.4.2 -- 1.5.2"
   - place: CSC - IT Center for Science
     title: HPC Developer Internship
     dates: 05/2023 -- 08/2023
@@ -223,7 +223,7 @@ honors:
   - title: \href{https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh}{Star of Innovation Award} in \textbf{Alibaba T-head} OCC Developers IoT Innovation Competition
     descr: My proposal \href{https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032}{ranked 1st} in voting (850 votes, 300 more than the 2nd one)
     year: 2020
-  - title: \textbf{China Scholarship Council} \href{https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm}{Outstanding Undergraduate International Exchange Scholarship}
+  - title: \textbf{China Scholarship Council} \href{https://www.csc.edu.cn/chuguo/s/1673}{Outstanding Undergraduate International Exchange Scholarship}
     descr: (Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement
     year: 2019
   - title: \textbf{Google} \href{https://www.zhihu.com/question/292397097}{InnoCamp Hangzhou BoostMakers} -- TensorFlow Boost
