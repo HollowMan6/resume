@@ -1,27 +1,18 @@
-My academic fervor converges with enhancing <b>computer systems</b>,
+I find immense joy in pushing my boundaries by tackling complex issues
+that have the potential to positively impact the public. My fervor
+converges with enhancing <b>computer systems</b>,
 <b>networks</b>, <b>databases</b>, and their corresponding
-<b>security</b> aspects, which allows my research to have impacts
+<b>security</b> aspects, which allows me to have impacts
 on computing for both the environment (<b>greener while efficient</b>)
-and people (<b>faster while reliable</b>). Additionally, I am a
-passionate <b>free software advocate</b>. During my leisure time, I
-maintain several open-source projects and contribute to many others.
+and people (<b>faster while reliable</b>). 
+Additionally, I am a passionate <b>free software advocate</b>. During my
+leisure time, I maintain several open-source projects and contribute to
+many others.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
-  <tr>
-    <td>
-      <span class='cvdate'>08/2024&nbsp;-&nbsp;07/2028</span>
-      <strong>Ph.D. in Computer Science</strong>, <em>Aalto University</em>
-      <br>
-        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-            <br> • Improve Large Language Models (LLMs) training efficiency on HPC clusters
-            <br> • Reinforcement Learning from Human Feedback (RLHF)
-            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
-        </p>
-    </td>
-  </tr>
   <tr>
     <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
@@ -73,25 +64,11 @@ maintain several open-source projects and contribute to many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
-<p markdown="1" style='margin: 0'><strong>Open Source Software Engineer</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
-(<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
-</span></p>
-  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
-  <br> • Address user issues. Implement UI, graphics, browser, and <b>openXR</b> related features
-  <br> • Contribute to the majority of the features available from v1.4.2+
-  </p>
-  </td>
-</tr>
-<tr>
-  <td style='padding-right:0;'>
 <span class='cvdate'>01/2024&nbsp;-&nbsp;07/2024</span>
 <p markdown="1" style='margin: 0'><strong>Junior Application Specialist (Thesis Worker)</strong>, <em>CSC - IT Center for Science</em></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Work on the master's thesis for SECCLO Erasmus Mundus program
   <br> • Implement the <b>real-time GPU usage alert service</b> for HPC clusters
-  <br> • Investigate the <b>continuous aggregates</b> feature of TimescaleDB
   <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 06/2023
   </p>
   </td>
@@ -105,6 +82,19 @@ maintain several open-source projects and contribute to many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Create technical <b>documentation</b>, tutorials and content
   <br> • Manage channel to <b>interact</b> with the community and grow the customer base
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;12/2023</span>
+<p markdown="1" style='margin: 0'><strong>Coding Experience 2023 I & II</strong>, <em>Igalia</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(<a href="https://blog.mozilla.org/en/mozilla/update-on-firefox-reality/" target="_blank">Wolvic</a>, ex. Mozilla Firefox Reality)
+</span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
+  <br> • Address user issues. Implement UI, graphics, browser, and <b>openXR</b> related features
+  <br> • Contribute to the majority of the features available from v1.4.2&nbsp;-&nbsp;1.5.2
   </p>
   </td>
 </tr>
@@ -409,7 +399,7 @@ maintain several open-source projects and contribute to many others.
   <td>
   <div style='float: right'>2019</div>
   <div>
-        <b>China Scholarship Council</b> <a href="https://faoffice.lzu.edu.cn/col_xsjlxm/201909/7C7DD3A62695A9710B84980AC48DEB01.htm" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
+        <b>China Scholarship Council</b> <a href="https://www.csc.edu.cn/chuguo/s/1673" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
     <br><p style="color:grey;font-size:1.4rem">(Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
   </div>
   </td>
@@ -453,7 +443,7 @@ maintain several open-source projects and contribute to many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-58k+ GitHub stars across all of the following selected repositories:
+58.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -461,7 +451,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.3k |
+    <i class="fa fas fa-star"></i> 9.4k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -471,9 +461,9 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 648 |
+    <i class="fa fas fa-star"></i> 675 |
     <em>Immersive VR Browser</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 128 commits, 9086 lines of additions and 3929 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 134 commits, 9674 lines of additions and 4061 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -481,9 +471,9 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
-    <i class="fa fas fa-star"></i> 8.3k |
+    <i class="fa fas fa-star"></i> 8.4k |
     <em>Machine Learning System</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #77 among all contributors with 3 commits, 1611 lines of additions and 83 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #60 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -493,7 +483,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
     <i class="fa fas fa-star"></i> 1.9k |
     <em>Chrome DevTools Protocol in Rust</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #15 among all contributors with 5 commits, 58 lines of additions and 9 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -501,7 +491,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 619 |
+    <i class="fa fas fa-star"></i> 627 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -511,7 +501,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 140 |
+    <i class="fa fas fa-star"></i> 138 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -521,7 +511,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 112 |
+    <i class="fa fas fa-star"></i> 118 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 38 commits, 3181 lines of additions and 562 lines of deletions</p>
   </td>
@@ -533,7 +523,7 @@ maintain several open-source projects and contribute to many others.
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
     <i class="fa fas fa-star"></i> 7 |
     <em>Blockly Multi-Select Plugin</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 20 commits, 12310 lines of additions and 21325 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 25 commits, 12498 lines of additions and 21511 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -581,7 +571,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 33.9k |
+    <i class="fa fas fa-star"></i> 34.2k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -601,7 +591,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 114 |
+    <i class="fa fas fa-star"></i> 119 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -611,7 +601,7 @@ maintain several open-source projects and contribute to many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 20 |
+    <i class="fa fas fa-star"></i> 22 |
     <em>Super Resolution Model</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
