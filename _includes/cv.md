@@ -17,7 +17,7 @@ many others.
     <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
       <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
-        (4.93/5)
+        (5/5)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Security and Cloud Computing</b>
@@ -29,7 +29,8 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>08/2023&nbsp;-&nbsp;07/2024</span>
-      <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Technical University of Denmark (DTU)</em>
+      <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Technical Uni. of Denmark (DTU)</em>
+        (10.6/12)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Reliable Distributed Systems</b>
@@ -41,8 +42,12 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>01/2020&nbsp;-&nbsp;06/2020</span>
-      <strong>Exchange</strong>, <em>University of Leeds</em>
+      <strong>No Degree (Exchange Abroad)</strong>, <em>University of Leeds</em>
+        (Pass, no grade due to COVID-19)
       <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+            <br> • Specialization: <b>Computer Science</b>
+        </p>
     </td>
   </tr>
   <tr>
@@ -443,7 +448,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-58.6k+ GitHub stars across all of the following selected repositories:
+58.8k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -451,7 +456,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.4k |
+    <i class="fa fas fa-star"></i> 9.5k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -461,9 +466,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 675 |
+    <i class="fa fas fa-star"></i> 677 |
     <em>Immersive VR Browser</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 134 commits, 9674 lines of additions and 4061 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 140 commits, 9859 lines of additions and 4153 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -473,7 +478,7 @@ many others.
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
     <i class="fa fas fa-star"></i> 8.4k |
     <em>Machine Learning System</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #60 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #58 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -481,7 +486,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
-    <i class="fa fas fa-star"></i> 1.9k |
+    <i class="fa fas fa-star"></i> 2k |
     <em>Chrome DevTools Protocol in Rust</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
   </td>
@@ -491,7 +496,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 627 |
+    <i class="fa fas fa-star"></i> 629 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -501,7 +506,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 138 |
+    <i class="fa fas fa-star"></i> 139 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -591,7 +596,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 119 |
+    <i class="fa fas fa-star"></i> 120 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
