@@ -54,22 +54,25 @@ education:
   - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
-    overallGPA: 4.93/5
+    overallGPA: 5/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
       - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
-  - school: Technical University of Denmark (DTU)
+  - school: Technical Uni. of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2023 -- 07/2024
+    overallGPA: 10.6/12
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
       - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: University of Leeds
-    degree: Exchange
+    degree: No Degree (Exchange Abroad)
     dates: 01/2020 -- 06/2020
+    overallGPA: Pass, no grade due to COVID-19
     details:
+      - "Specialization: \\textbf{Computer Science}"
   - school: Lanzhou University
     degree: B.Eng. in Computer Science \& Technology (Honors)
     dates: 09/2018 -- 06/2022
