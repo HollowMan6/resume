@@ -44,13 +44,12 @@ about: |
   many others.
 
 education:
-  # - school: Aalto University
-  #   degree: Ph.D. in Computer Science
-  #   dates: 08/2024 -- 07/2028
-  #   details:
-  #     - "Improve Large Language Models (LLMs) training efficiency on HPC clusters"
-  #     - "Reinforcement Learning from Human Feedback (RLHF)"
-  #     - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+  - school: Aalto University
+    degree: Ph.D. in Computer Science
+    dates: 08/2024 -- 07/2028
+    details:
+      - "Improve Reinforcement Learning \\& Large Language Models (LLMs) efficiency on HPC clusters \\& IoT devices"
+      - "Supervisor: \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco} \\& \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
