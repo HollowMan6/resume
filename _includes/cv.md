@@ -15,6 +15,17 @@ many others.
 <table class="table table-hover">
   <tr>
     <td>
+      <span class='cvdate'>08/2024&nbsp;-&nbsp;07/2028</span>
+      <strong>Ph.D. in Computer Science</strong>, <em>Aalto University</em>
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+            <br> • Improve Reinforcement Learning & Large Language Models (LLMs) efficiency on HPC clusters & IoT devices
+            <br> • Supervisor: <a href="https://www.aalto.fi/fi/ihmiset/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a> & <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
       <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
         (5/5)
@@ -448,7 +459,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-58.8k+ GitHub stars across all of the following selected repositories:
+58.9k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -466,9 +477,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 677 |
+    <i class="fa fas fa-star"></i> 686 |
     <em>Immersive VR Browser</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 140 commits, 9859 lines of additions and 4153 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 143 commits, 9898 lines of additions and 4181 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -496,7 +507,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 629 |
+    <i class="fa fas fa-star"></i> 632 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -506,7 +517,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 139 |
+    <i class="fa fas fa-star"></i> 140 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -516,9 +527,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 118 |
+    <i class="fa fas fa-star"></i> 120 |
     <em>MdBook backend for PDF Generation</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 38 commits, 3181 lines of additions and 562 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 39 commits, 3189 lines of additions and 567 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -536,7 +547,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 51 |
+    <i class="fa fas fa-star"></i> 52 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 354 commits, 42984 lines of additions and 30128 lines of deletions</p>
   </td>
@@ -576,7 +587,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 34.2k |
+    <i class="fa fas fa-star"></i> 34.3k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -606,7 +617,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 22 |
+    <i class="fa fas fa-star"></i> 23 |
     <em>Super Resolution Model</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
