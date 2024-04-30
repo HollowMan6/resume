@@ -45,11 +45,11 @@ about: |
 
 education:
   - school: Aalto University
-    degree: Ph.D. in Computer Science
+    degree: Ph.D. in Machine Learning Systems \& Databases
     dates: 08/2024 -- 07/2028
     details:
       - "Improve Reinforcement Learning \\& Large Language Models (LLMs) efficiency on HPC clusters \\& IoT devices"
-      - "Supervisor: \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco} \\& \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao} \\& \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco}"
   - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
@@ -81,13 +81,19 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: \href{https://www.csail.mit.edu/research/mit-app-inventor}{MIT CSAIL} \& OpenSUSE
+    title: Mentor for Google Summer of Code 2024
+    inline_detail: "simultaneously"
+    dates: 05/2024 -- 09/2024
+    details:
+      - Mentor Chang Min Bark for "Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins"
+      - Mentor Jiamin Wang for "Refactor Customize IBus with Modern Interface and Extensibility"
   - place: CSC - IT Center for Science
-    title: Junior Application Specialist (Thesis Worker)
+    title: Junior Application Specialist
+    inline_detail: "master's thesis"
     dates: 01/2024 -- 07/2024
     details:
-      - "Work on the master's thesis for SECCLO Erasmus Mundus program"
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
-      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: Enclaive
     title: Developer Relations Engineer
     inline_detail: "confidential computing, with \\href{https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en}{Prof. Sebastian Gajek}"
@@ -102,14 +108,15 @@ positions:
     details:
       - "Develop \\textbf{VR Browser}, refactor \\textbf{Android} deprecated methods"
       - "Address user issues. Implement UI, graphics, browser, and \\textbf{openXR} related features"
-      - "Contribute to the majority of the features available from v1.4.2 -- 1.5.2"
+      - "Contribute to the majority of the features available from v1.4.2 -- 1.6"
   - place: CSC - IT Center for Science
     title: HPC Developer Internship
     dates: 05/2023 -- 08/2023
     details:
       - "Develop the \\textbf{GPU monitoring service} for HPC clusters (NVIDIA and AMD GPUs, including LUMI)"
-      - "Develop the Documentation GPT chatbot service using \\href{https://twitter.com/llama_index/status/1671537854802202624}{\\textbf{llamaIndex}}, \\textbf{LangChain} and \\textbf{Redis}"
+      - "Develop the Documentation GPT chatbot service using \\href{https://twitter.com/llama_index/status/1671537854802202624}{\\textbf{llamaIndex}}, \\textbf{LangChain} and \\textbf{Redis}/\\textbf{Qdrant}"
       - "Make \\href{https://github.com/OSC/ondemand/pull/2958}{improvements} to the HPC web operating interface project \\textit{Open OnDemand} using \\textbf{Ruby on Rails}"
+      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: \href{https://github.com/kubescape}{Kubescape}
     title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{CNCF LFX Mentorship}
     inline_detail: "Kubernetes security platform"
@@ -187,6 +194,10 @@ honors:
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
     descr: (26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses
     year: 2022 -- 2024
+  - title: Travel Funding for \textbf{Google} Blockly Summit 2024
+    year: 2024
+  - title: \href{https://rsvp.withgoogle.com/events/blockly-summit-2024/speaker-guidelines#:~:text=Watch%20these%20great%20presentations%20below%20to%20get%20inspired!}{Recommended Talk} for \textbf{Google} Blockly Summit 2023
+    year: 2024
   - title: \textbf{Black Hat} Europe 2023 Student Scholarship
     year: 2023
   - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
@@ -251,6 +262,9 @@ all_publications:
     'Songlin Jiang': 'https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ'
 
 repos:
+  - repo_url: https://github.com/run-llama/llama_index
+    year: 2023
+    desc: RAG Framework
   - repo_url: https://github.com/kubescape/kubescape
     year: 2023
     desc: Kubernetes Security Platform
