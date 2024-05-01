@@ -86,8 +86,8 @@ positions:
     inline_detail: "simultaneously"
     dates: 05/2024 -- 09/2024
     details:
-      - Mentor Chang Min Bark for "Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins"
-      - Mentor Jiamin Wang for "Refactor Customize IBus with Modern Interface and Extensibility"
+      - Mentor Chang Min Bark for \href{https://summerofcode.withgoogle.com/archive/2024/projects/9916Xzin}{Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins}
+      - Mentor Jiamin Wang for \href{https://summerofcode.withgoogle.com/archive/2024/projects/RMyweIgx}{Refactor Customize IBus with Modern Interface and Extensibility}
   - place: CSC - IT Center for Science
     title: Junior Application Specialist
     inline_detail: "master's thesis"
