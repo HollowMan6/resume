@@ -85,8 +85,8 @@ many others.
 (simultaneously)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-  <br> • Mentor Chang Min Bark for "Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins"
-  <br> • Mentor Jiamin Wang for "Refactor Customize IBus with Modern Interface and Extensibility"
+  <br> • Mentor Chang Min Bark for <a href="https://summerofcode.withgoogle.com/archive/2024/projects/9916Xzin" target="_blank">Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins</a>
+  <br> • Mentor Jiamin Wang for <a href="https://summerofcode.withgoogle.com/archive/2024/projects/RMyweIgx" target="_blank">Refactor Customize IBus with Modern Interface and Extensibility</a>
   </p>
   </td>
 </tr>
