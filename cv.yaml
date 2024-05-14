@@ -45,12 +45,6 @@ about: |
 
 education:
   - school: Aalto University
-    degree: Ph.D. in Machine Learning Systems \& Databases
-    dates: 08/2024 -- 07/2028
-    details:
-      - "Improve Reinforcement Learning \\& Large Language Models (LLMs) efficiency on HPC clusters \\& IoT devices"
-      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao} \\& \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco}"
-  - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
     overallGPA: 5/5
