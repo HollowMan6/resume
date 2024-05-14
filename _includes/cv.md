@@ -15,17 +15,6 @@ many others.
 <table class="table table-hover">
   <tr>
     <td>
-      <span class='cvdate'>08/2024&nbsp;-&nbsp;07/2028</span>
-      <strong>Ph.D. in Machine Learning Systems & Databases</strong>, <em>Aalto University</em>
-      <br>
-        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-            <br> • Improve Reinforcement Learning & Large Language Models (LLMs) efficiency on HPC clusters & IoT devices
-            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a> & <a href="https://www.aalto.fi/fi/ihmiset/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>
-        </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
       <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
         (5/5)
@@ -490,7 +479,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-91k+ GitHub stars across all of the following selected repositories:
+91.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -498,9 +487,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 31.2k |
+    <i class="fa fas fa-star"></i> 31.6k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #64 among all contributors with 4 commits, 417 lines of additions and 17 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #69 among all contributors with 4 commits, 417 lines of additions and 17 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -508,7 +497,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.7k |
+    <i class="fa fas fa-star"></i> 9.8k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -518,7 +507,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 736 |
+    <i class="fa fas fa-star"></i> 744 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -548,7 +537,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 658 |
+    <i class="fa fas fa-star"></i> 662 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -568,7 +557,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 134 |
+    <i class="fa fas fa-star"></i> 138 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 42 commits, 3272 lines of additions and 594 lines of deletions</p>
   </td>
@@ -588,7 +577,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 57 |
+    <i class="fa fas fa-star"></i> 58 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 355 commits, 43424 lines of additions and 30918 lines of deletions</p>
   </td>
@@ -628,7 +617,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 34.7k |
+    <i class="fa fas fa-star"></i> 34.8k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -648,7 +637,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 132 |
+    <i class="fa fas fa-star"></i> 133 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
