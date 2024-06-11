@@ -87,7 +87,16 @@ many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Implement the <b>real-time GPU usage alert service</b> for HPC clusters
+  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 06/2023
   </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
+<span class='cvdate'>06/2024&nbsp;-&nbsp;Present</span>
+<p markdown="1" style='margin: 0'><strong>Founder</strong>, <em>Hollow Software</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(company registered and established in Finland, business ID: 3369577-7)
+</span></p>
   </td>
 </tr>
 <tr>
@@ -123,7 +132,6 @@ many others.
   <br> • Develop the <b>GPU monitoring service</b> for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
   <br> • Develop the Documentation GPT chatbot service using <a href="https://twitter.com/llama_index/status/1671537854802202624" target="_blank"><b>llamaIndex</b></a>, <b>LangChain</b> and <b>Redis</b>/<b>Qdrant</b>
   <br> • Make <a href="https://github.com/OSC/ondemand/pull/2958" target="_blank">improvements</a> to the HPC web operating interface project <i>Open OnDemand</i> using <b>Ruby on Rails</b>
-  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 06/2023
   </p>
   </td>
 </tr>
@@ -479,7 +487,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-91.6k+ GitHub stars across all of the following selected repositories:
+92.8k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -487,9 +495,8 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 31.6k |
+    <i class="fa fas fa-star"></i> 32.6k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #69 among all contributors with 4 commits, 417 lines of additions and 17 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -497,7 +504,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.8k |
+    <i class="fa fas fa-star"></i> 9.9k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -507,7 +514,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 744 |
+    <i class="fa fas fa-star"></i> 747 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -537,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 662 |
+    <i class="fa fas fa-star"></i> 668 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -557,7 +564,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 138 |
+    <i class="fa fas fa-star"></i> 141 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 42 commits, 3272 lines of additions and 594 lines of deletions</p>
   </td>
@@ -567,9 +574,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 8 |
+    <i class="fa fas fa-star"></i> 9 |
     <em>Blockly Multi-Select Plugin</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 34 commits, 13072 lines of additions and 21697 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 35 commits, 13404 lines of additions and 22110 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -597,7 +604,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 20 |
+    <i class="fa fas fa-star"></i> 21 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -617,7 +624,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 34.8k |
+    <i class="fa fas fa-star"></i> 34.9k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -637,7 +644,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 133 |
+    <i class="fa fas fa-star"></i> 136 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
