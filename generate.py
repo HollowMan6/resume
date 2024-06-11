@@ -469,6 +469,7 @@ def add_repo_data(context, config, in_tex):
         if 'desc' not in item:
             item['desc'] = soup.find('p', class_='f4 mt-3').text.strip()
 
+        # index = []
         index = [i for i, d in enumerate(contributors_stats) if GITHUB_ACCOUNT in d['author']['login']]
         if index:
             contribute_data = contributors_stats[index[0]]["weeks"]

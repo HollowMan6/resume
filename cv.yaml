@@ -88,6 +88,11 @@ positions:
     dates: 01/2024 -- 07/2024
     details:
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
+      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
+  - place: Hollow Software
+    title: Founder
+    inline_detail: "company registered and established in Finland, business ID: 3369577-7"
+    dates: 06/2024 -- Present
   - place: Enclaive
     title: Developer Relations Engineer
     inline_detail: "confidential computing, with \\href{https://scholar.google.de/citations?user=j2vU9lgAAAAJ&hl=en}{Prof. Sebastian Gajek}"
@@ -110,7 +115,6 @@ positions:
       - "Develop the \\textbf{GPU monitoring service} for HPC clusters (NVIDIA and AMD GPUs, including LUMI)"
       - "Develop the Documentation GPT chatbot service using \\href{https://twitter.com/llama_index/status/1671537854802202624}{\\textbf{llamaIndex}}, \\textbf{LangChain} and \\textbf{Redis}/\\textbf{Qdrant}"
       - "Make \\href{https://github.com/OSC/ondemand/pull/2958}{improvements} to the HPC web operating interface project \\textit{Open OnDemand} using \\textbf{Ruby on Rails}"
-      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: \href{https://github.com/kubescape}{Kubescape}
     title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{CNCF LFX Mentorship}
     inline_detail: "Kubernetes security platform"
