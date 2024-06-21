@@ -75,6 +75,11 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: OceanBase
+    title: \href{https://github.com/HollowMan6/My-OSPP-Summer}{OSPP Summer}
+    inline_detail: "add support for the IVFPQ vector index algorithm"
+    dates: 06/2024 -- 10/2024
+    details:
   - place: \href{https://www.csail.mit.edu/research/mit-app-inventor}{MIT CSAIL} \& OpenSUSE
     title: Mentor for Google Summer of Code 2024
     inline_detail: "simultaneously"
