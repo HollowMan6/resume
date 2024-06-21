@@ -275,6 +275,15 @@ many others.
   <td>
   <div style='float: right'>2024</div>
   <div>
+        Certified Kubernetes Security Specialist (<a href="https://www.cncf.io/training/certification/cks/" target="_blank">CKS</a>), <b>CNCF</b>
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2024</div>
+  <div>
         Travel Funding for <b>Google</b> Blockly Summit 2024
   </div>
   </td>
@@ -487,7 +496,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-92.8k+ GitHub stars across all of the following selected repositories:
+93.2k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -495,8 +504,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 32.6k |
+    <i class="fa fas fa-star"></i> 32.9k |
     <em>RAG Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #85 among all contributors with 4 commits, 417 lines of additions and 17 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -514,7 +524,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 747 |
+    <i class="fa fas fa-star"></i> 753 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -544,7 +554,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 668 |
+    <i class="fa fas fa-star"></i> 671 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -564,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 141 |
+    <i class="fa fas fa-star"></i> 142 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 42 commits, 3272 lines of additions and 594 lines of deletions</p>
   </td>
@@ -576,7 +586,7 @@ many others.
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
     <i class="fa fas fa-star"></i> 9 |
     <em>Blockly Multi-Select Plugin</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 35 commits, 13404 lines of additions and 22110 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 37 commits, 13541 lines of additions and 22238 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -584,7 +594,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 58 |
+    <i class="fa fas fa-star"></i> 59 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 355 commits, 43424 lines of additions and 30918 lines of deletions</p>
   </td>
@@ -604,7 +614,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 21 |
+    <i class="fa fas fa-star"></i> 20 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -624,7 +634,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 34.9k |
+    <i class="fa fas fa-star"></i> 35k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
