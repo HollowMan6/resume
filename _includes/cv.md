@@ -69,6 +69,14 @@ many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
+<span class='cvdate'>06/2024&nbsp;-&nbsp;10/2024</span>
+<p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>OceanBase</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(add support for the IVFPQ vector index algorithm)
+</span></p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
 <span class='cvdate'>05/2024&nbsp;-&nbsp;09/2024</span>
 <p markdown="1" style='margin: 0'><strong>Mentor for Google Summer of Code 2024</strong>, <em><a href="https://www.csail.mit.edu/research/mit-app-inventor" target="_blank">MIT CSAIL</a> & OpenSUSE</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (simultaneously)
