@@ -45,20 +45,26 @@ about: |
 
 education:
   - school: Aalto University
+    degree: Ph.D. in Machine Learning Systems \& Databases
+    dates: 08/2024 -- 07/2028
+    details:
+      - "Improve Reinforcement Learning \\& Large Language Models (LLMs) efficiency on HPC clusters \\& IoT devices"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao} \\& \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco}"
+  - school: Aalto University
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
     overallGPA: 5/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
-      - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
+      - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Technical Uni. of Denmark (DTU)
     degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
-    dates: 08/2023 -- 07/2024
-    overallGPA: 10.6/12
+    dates: 08/2023 -- 06/2024
+    overallGPA: 11.36/12
     details:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
-      - "Thesis: Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters"
+      - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/DTU_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: University of Leeds
     degree: No Degree (Exchange Abroad)
@@ -93,7 +99,7 @@ positions:
     dates: 01/2024 -- 07/2024
     details:
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
-      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
+      - "Deploy \\textbf{Large Language Models (LLM) inference} service in HPC environment with vLLM"
   - place: Hollow Software
     title: Founder
     inline_detail: "company registered and established in Finland, business ID: 3369577-7"
@@ -120,6 +126,7 @@ positions:
       - "Develop the \\textbf{GPU monitoring service} for HPC clusters (NVIDIA and AMD GPUs, including LUMI)"
       - "Develop the Documentation GPT chatbot service using \\href{https://twitter.com/llama_index/status/1671537854802202624}{\\textbf{llamaIndex}}, \\textbf{LangChain} and \\textbf{Redis}/\\textbf{Qdrant}"
       - "Make \\href{https://github.com/OSC/ondemand/pull/2958}{improvements} to the HPC web operating interface project \\textit{Open OnDemand} using \\textbf{Ruby on Rails}"
+      - "LUMI ranked \\textbf{3rd} around the world and \\textbf{1st in Europe} at HPC supercomputer TOP500 list by 06/2023"
   - place: \href{https://github.com/kubescape}{Kubescape}
     title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{CNCF LFX Mentorship}
     inline_detail: "Kubernetes security platform"
@@ -142,7 +149,7 @@ positions:
     details:
       - "\\href{https://github.com/mit-cml/workspace-multiselect}{Create a plugin} to allow selecting, dragging and manipulating \\textbf{multiple blocks at once} for Google Blockly"
       - "Resolve the \\href{https://github.com/google/blockly-samples/issues/267\\#issuecomment-255582938}{issue} that had troubled the \\textbf{Google Engineers} for \\textbf{a decade} (since the Blockly project started)"
-      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has an average of \\textbf{50+} downloads per week"
+      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has an average of \\textbf{390+} downloads per week"
     dates: 05/2022 -- 09/2022
   - place: \href{https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder}{Cryptoanarchy Debian}
     title: \href{https://github.com/HollowMan6/My-Summer-of-Bitcoin}{Summer of Bitcoin}
@@ -164,7 +171,7 @@ positions:
     dates: 01/2022 -- 07/2022
     details:
       - "\\textbf{First} to obtain 150 intern credits. Help solve 6 issues, related technologies include \\textbf{D-Bus}, \\textbf{Glib}, building Cloud Native \\textbf{Container} images, \\textbf{Rust} programming, \\textbf{Chrome DevTools Protocol}, test case, \\textbf{RPM} packaging"
-      - "One of the achievements \\href{https://crates.io/crates/mdbook-pdf}{mdbook-pdf} now has an average of \\textbf{100+} downloads per week"
+      - "One of the achievements \\href{https://crates.io/crates/mdbook-pdf}{mdbook-pdf} now has an average of \\textbf{500+} downloads per week"
   - place: openSUSE
     title: \href{https://github.com/HollowMan6/My-Google-Summer-of-Code}{Google Summer of Code}
     inline_detail: "\\href{https://github.com/ibus/ibus/pull/2327}{IBus}, input method framework"
@@ -172,7 +179,7 @@ positions:
     details:
       - "Add customizing themes feature for IBus in desktop environments, improve IBus settings support in GNOME"
       - "A \\href{https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/}{blog post} at \\textbf{openSUSE News} that introduces my work"
-      - "\\textbf{GNOME extension} \\href{https://extensions.gnome.org/extension/4112/customize-ibus/}{Customize IBus} now has an average of \\textbf{100+} downloads per week"
+      - "\\textbf{GNOME extension} \\href{https://extensions.gnome.org/extension/4112/customize-ibus/}{Customize IBus} now has an average of \\textbf{300+} downloads per week"
   - place: openEuler
     title: \href{https://github.com/HollowMan6/My-OSPP-Summer}{OSPP Summer}
     inline_detail: "Developed an ISO writer using QT and C++"
@@ -226,8 +233,6 @@ honors:
     year: 2021
   - title: Software Design Engineer, \href{https://commons.wikimedia.org/wiki/File:China_Qualification_of_Computer_and_Software_Professional_Certificate.jpg}{China \textbf{Qualification of Computer and Software Professional}}
     year: 2021
-  - title: Excellent Student Award in \textbf{Baidu} \href{https://mp.weixin.qq.com/s/gYnXfcIGG9Ej0LrJpPM-6w}{Software Engineering Training Camp}
-    year: 2021
   - title: Academic Aces in \textbf{Linux Foundation} Training \href{https://training.linuxfoundation.cn/news/159}{(LiFT) Scholarship (China)}
     year: 2020
   - title: \href{https://www.catticenter.com/wzjs/452}{\textbf{CATTI}} Level 3 (English \& Chinese) Translator
@@ -238,9 +243,9 @@ honors:
   - title: Award in \href{https://github.com/HollowMan6/My-openEuler-University-Developer-Competition}{\textbf{openEuler} University Developer Competition}
     descr: (24/547 Teams) I participated alone, \href{https://my.oschina.net/u/4469669/blog/5035529}{ranked 1st} in final defense
     year: 2020
-  - title: \href{https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh}{Star of Innovation Award} in \textbf{Alibaba T-head} OCC Developers IoT Innovation Competition
-    descr: My proposal \href{https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032}{ranked 1st} in voting (850 votes, 300 more than the 2nd one)
-    year: 2020
+  # - title: \href{https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh}{Star of Innovation Award} in \textbf{Alibaba T-head} OCC Developers IoT Innovation Competition
+  #   descr: My proposal \href{https://xuantie.t-head.cn/community/post/detail?id=3829621780361388032}{ranked 1st} in voting (850 votes, 300 more than the 2nd one)
+  #   year: 2020
   - title: \textbf{China Scholarship Council} \href{https://www.csc.edu.cn/chuguo/s/1673}{Outstanding Undergraduate International Exchange Scholarship}
     descr: (Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement
     year: 2019
