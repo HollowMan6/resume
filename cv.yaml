@@ -204,6 +204,8 @@ honors:
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
     descr: (26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses
     year: 2022 -- 2024
+  - title: Delegate of OpenSUSE Project for \href{https://sites.google.com/view/2024mentorsummit/home}{\textbf{Google} Summer of Code 2024 Mentor Summit}
+    year: 2024
   - title: Certified Kubernetes Security Specialist (\href{https://www.cncf.io/training/certification/cks/}{CKS}), \textbf{CNCF}
     year: 2024
   - title: Travel Funding for \textbf{Google} Blockly Summit 2024
@@ -357,7 +359,7 @@ service:
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
-    - "ACM SIGMOD 2023 Availability \\& Reproducibility"
+    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM SIGMOD 2023 Availability \\& Reproducibility}"
 
 skills:
   - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}

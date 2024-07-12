@@ -441,19 +441,19 @@ def add_repo_data(context, config, in_tex):
             r = requests.get(item['repo_url'])
             repo_htmls[short_name] = r.content
 
-        if short_name + '&contributors_stats' not in repo_htmls:
-            sleep_time = 1
-            while True:
-                r = requests.get('https://api.github.com/repos/' + short_name + '/stats/contributors')
-                if r.status_code == 200 or r.status_code == 202 and r.json():
-                    repo_htmls[short_name + '&contributors_stats'] = r.json()
-                    break
-                else:
-                    time.sleep(sleep_time)
-                    sleep_time *= 2
-                    print(r.status_code, r.text, 'retrying after', sleep_time, 'seconds')
+        # if short_name + '&contributors_stats' not in repo_htmls:
+        #     sleep_time = 1
+        #     while True:
+        #         r = requests.get('https://api.github.com/repos/' + short_name + '/stats/contributors')
+        #         if r.status_code == 200 or r.status_code == 202 and r.json():
+        #             repo_htmls[short_name + '&contributors_stats'] = r.json()
+        #             break
+        #         else:
+        #             time.sleep(sleep_time)
+        #             sleep_time *= 2
+        #             print(r.status_code, r.text, 'retrying after', sleep_time, 'seconds')
 
-        contributors_stats = repo_htmls[short_name + '&contributors_stats'] 
+        # contributors_stats = repo_htmls[short_name + '&contributors_stats'] 
         
         soup = BeautifulSoup(repo_htmls[short_name], 'html.parser')
 
@@ -469,28 +469,28 @@ def add_repo_data(context, config, in_tex):
         if 'desc' not in item:
             item['desc'] = soup.find('p', class_='f4 mt-3').text.strip()
 
-        # index = []
-        index = [i for i, d in enumerate(contributors_stats) if GITHUB_ACCOUNT in d['author']['login']]
-        if index:
-            contribute_data = contributors_stats[index[0]]["weeks"]
-            commits = 0
-            additons = 0
-            deletions = 0
-            for data in contribute_data:
-                commits += data['c']
-                additons += data['a']
-                deletions += data['d']
-            item['commits'] = commits
-            item['additons'] = additons
-            item['deletions'] = deletions
-            rank_data = []
-            for contributor in contributors_stats:
-                contributor_commit = 0
-                for week in contributor['weeks']:
-                    contributor_commit += week['c']
-                rank_data.append(contributor_commit)
-            item['rank'] = sorted(rank_data, reverse=True).index(commits) + 1
-        print(short_name, "done!")
+        index = []
+        # index = [i for i, d in enumerate(contributors_stats) if GITHUB_ACCOUNT in d['author']['login']]
+        # if index:
+        #     contribute_data = contributors_stats[index[0]]["weeks"]
+        #     commits = 0
+        #     additons = 0
+        #     deletions = 0
+        #     for data in contribute_data:
+        #         commits += data['c']
+        #         additons += data['a']
+        #         deletions += data['d']
+        #     item['commits'] = commits
+        #     item['additons'] = additons
+        #     item['deletions'] = deletions
+        #     rank_data = []
+        #     for contributor in contributors_stats:
+        #         contributor_commit = 0
+        #         for week in contributor['weeks']:
+        #             contributor_commit += week['c']
+        #         rank_data.append(contributor_commit)
+        #     item['rank'] = sorted(rank_data, reverse=True).index(commits) + 1
+        # print(short_name, "done!")
 
     return truncate_to_k(total_stars), truncate_to_k(followers)
 
