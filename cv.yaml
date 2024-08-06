@@ -206,6 +206,9 @@ honors:
     year: 2022 -- 2024
   - title: Delegate of OpenSUSE Project for \href{https://sites.google.com/view/2024mentorsummit/home}{\textbf{Google} Summer of Code 2024 Mentor Summit}
     year: 2024
+  - title: Travel Fund for \textbf{The Linux Foundation} Open Source Summit Europe 2024
+    descr: To speak at the LFX Mentorship Showcase
+    year: 2024
   - title: Certified Kubernetes Security Specialist (\href{https://www.cncf.io/training/certification/cks/}{CKS}), \textbf{CNCF}
     year: 2024
   - title: Travel Funding for \textbf{Google} Blockly Summit 2024
@@ -327,6 +330,10 @@ repos:
     desc: Super Resolution Model
 
 talks:
+  - year: 09/2024
+    location: Open Source Summit Europe
+    url: https://events.linuxfoundation.org/open-source-summit-europe/
+    title: To be announced
   - year: 06/2023
     location: Aalto University Secure Systems Demo Day
     url: https://ssg.aalto.fi/events/secure-systems-demo-day-2023/
