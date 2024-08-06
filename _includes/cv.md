@@ -304,6 +304,16 @@ many others.
   <td>
   <div style='float: right'>2024</div>
   <div>
+        Travel Fund for <b>The Linux Foundation</b> Open Source Summit Europe 2024
+    <br><p style="color:grey;font-size:1.4rem">To speak at the LFX Mentorship Showcase</p>
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
+</tr>
+<tr>
+  <td>
+  <div style='float: right'>2024</div>
+  <div>
         Certified Kubernetes Security Specialist (<a href="https://www.cncf.io/training/certification/cks/" target="_blank">CKS</a>), <b>CNCF</b>
   </div>
   </td>
@@ -506,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-94.1k+ GitHub stars across all of the following selected repositories:
+95k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -514,7 +524,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 33.5k |
+    <i class="fa fas fa-star"></i> 34.2k |
     <em>RAG Framework</em>
   </td>
 </tr>
@@ -523,8 +533,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 9.9k |
+    <i class="fa fas fa-star"></i> 10k |
     <em>Kubernetes Security Platform</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -532,8 +543,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 764 |
+    <i class="fa fas fa-star"></i> 772 |
     <em>Immersive VR Browser</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -543,6 +555,7 @@ many others.
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
     <i class="fa fas fa-star"></i> 8.4k |
     <em>Machine Learning System</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #60 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -552,6 +565,7 @@ many others.
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
     <i class="fa fas fa-star"></i> 2.2k |
     <em>Chrome DevTools Protocol in Rust</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -559,8 +573,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 674 |
+    <i class="fa fas fa-star"></i> 689 |
     <em>Multi-Select UI Library</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -568,8 +583,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 142 |
+    <i class="fa fas fa-star"></i> 143 |
     <em>Bitcoin Packages for Debian</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -577,8 +593,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 146 |
+    <i class="fa fas fa-star"></i> 150 |
     <em>MdBook backend for PDF Generation</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -588,6 +605,7 @@ many others.
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
     <i class="fa fas fa-star"></i> 9 |
     <em>Blockly Multi-Select Plugin</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 43 commits, 13683 lines of additions and 22311 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -595,8 +613,9 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 60 |
+    <i class="fa fas fa-star"></i> 62 |
     <em>Full Customization of IBus UI</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 361 commits, 44016 lines of additions and 31419 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -606,6 +625,7 @@ many others.
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
     <i class="fa fas fa-star"></i> 23 |
     <em>GitHub action for WeChat Message</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -613,8 +633,9 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 20 |
+    <i class="fa fas fa-star"></i> 21 |
     <em>IBus Themes CSS Hub</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -624,6 +645,7 @@ many others.
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
     <i class="fa fas fa-star"></i> 16 |
     <em>IBus Theme Generator</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -631,8 +653,9 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.1k |
+    <i class="fa fas fa-star"></i> 35.2k |
     <em>Java Diagnostic Tool</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -642,6 +665,7 @@ many others.
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
     <i class="fa fas fa-star"></i> 3k |
     <em>Emacs Application Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -649,8 +673,9 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 138 |
+    <i class="fa fas fa-star"></i> 140 |
     <em>TinyML Programs for ESP32</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -660,6 +685,7 @@ many others.
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
     <i class="fa fas fa-star"></i> 23 |
     <em>Super Resolution Model</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
 </tr>
 </table>
@@ -673,13 +699,21 @@ Content, Link to the talk, and Date:
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
+    <span class='cvdate'>09/2024</span>
+     <em>To be announced</em>,
+        <a href="https://events.linuxfoundation.org/open-source-summit-europe/" target="_blank">Open Source Summit Europe</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td style='padding-right:0;'>
     <span class='cvdate'>06/2023</span>
      <em><a href="https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf" target="_blank">Virtual Network Systems among Containers</a></em>,
         <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/" target="_blank">Aalto University Secure Systems Demo Day</a>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>06/2023</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Multi-Select Plugin</a></em>,
@@ -687,7 +721,7 @@ Content, Link to the talk, and Date:
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2022</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Native CSV Parser</a></em>,
@@ -695,7 +729,7 @@ Content, Link to the talk, and Date:
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2022</span>
      <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship</a></em>,
@@ -703,7 +737,7 @@ Content, Link to the talk, and Date:
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>05/2021</span>
      <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
@@ -711,7 +745,7 @@ Content, Link to the talk, and Date:
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2020</span>
      <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas</a></em>,
