@@ -516,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-95k+ GitHub stars across all of the following selected repositories:
+95.3k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,8 +524,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 34.2k |
+    <i class="fa fas fa-star"></i> 34.5k |
     <em>RAG Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #81 among all contributors with 5 commits, 418 lines of additions and 18 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -535,7 +536,7 @@ many others.
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
     <i class="fa fas fa-star"></i> 10k |
     <em>Kubernetes Security Platform</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -543,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 772 |
+    <i class="fa fas fa-star"></i> 776 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -573,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 689 |
+    <i class="fa fas fa-star"></i> 694 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -603,9 +604,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 9 |
+    <i class="fa fas fa-star"></i> 11 |
     <em>Blockly Multi-Select Plugin</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 43 commits, 13683 lines of additions and 22311 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 45 commits, 16981 lines of additions and 23637 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -633,7 +634,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 21 |
+    <i class="fa fas fa-star"></i> 22 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -673,7 +674,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 140 |
+    <i class="fa fas fa-star"></i> 141 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
