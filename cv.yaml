@@ -45,21 +45,21 @@ about: |
 
 education:
   - school: Aalto University
-    degree: Ph.D. in Machine Learning Systems \& Databases
+    degree: Ph.D. in Computer Science and Technology
     dates: 08/2024 -- 07/2028
     details:
-      - "Improve Reinforcement Learning \\& Large Language Models (LLMs) efficiency on HPC clusters \\& IoT devices"
+      - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao} \\& \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco}"
   - school: Aalto University
-    degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
+    degree: M.Sc. (Tech.) (Honors) in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
     overallGPA: 5/5
     details:
       - "Specialization: \\textbf{Security and Cloud Computing}"
       - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
-  - school: Technical Uni. of Denmark (DTU)
-    degree: M.Sc. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
+  - school: Tech. Uni. of Denmark (DTU)
+    degree: M.Sc. Eng. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2023 -- 06/2024
     overallGPA: 11.36/12
     details:
@@ -149,7 +149,7 @@ positions:
     details:
       - "\\href{https://github.com/mit-cml/workspace-multiselect}{Create a plugin} to allow selecting, dragging and manipulating \\textbf{multiple blocks at once} for Google Blockly"
       - "Resolve the \\href{https://github.com/google/blockly-samples/issues/267\\#issuecomment-255582938}{issue} that had troubled the \\textbf{Google Engineers} for \\textbf{a decade} (since the Blockly project started)"
-      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has an average of \\textbf{390+} downloads per week"
+      - "\\href{https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect}{@mit-app-inventor/blockly-plugin-workspace-multiselect} now has an average of \\textbf{250+} downloads per week"
     dates: 05/2022 -- 09/2022
   - place: \href{https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder}{Cryptoanarchy Debian}
     title: \href{https://github.com/HollowMan6/My-Summer-of-Bitcoin}{Summer of Bitcoin}
@@ -201,6 +201,8 @@ positions:
       - "A \\href{https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa}{Wechat post (in Chinese)} about my work posted by \\href{https://github.com/hengyunabc}{hengyunabc}"
 
 honors:
+  - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
+    year: 2023 -- 2024
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
     descr: (26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses
     year: 2022 -- 2024
@@ -216,8 +218,6 @@ honors:
   - title: \href{https://rsvp.withgoogle.com/events/blockly-summit-2024/speaker-guidelines#:~:text=Watch%20these%20great%20presentations%20below%20to%20get%20inspired!}{Recommended Talk} for \textbf{Google} Blockly Summit 2023
     year: 2024
   - title: \textbf{Black Hat} Europe 2023 Student Scholarship
-    year: 2023
-  - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
     year: 2023
   - title: Cloud Captains in \textbf{Linux Foundation} Training \href{https://training.linuxfoundation.cn/news/338}{(LiFT) Scholarship (China)}
     year: 2022
@@ -333,7 +333,7 @@ talks:
   - year: 09/2024
     location: Open Source Summit Europe
     url: https://events.linuxfoundation.org/open-source-summit-europe/
-    title: To be announced
+    title: Fully Automated Release and Code Review with CI/CD
   - year: 06/2023
     location: Aalto University Secure Systems Demo Day
     url: https://ssg.aalto.fi/events/secure-systems-demo-day-2023/
