@@ -16,10 +16,10 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>08/2024&nbsp;-&nbsp;07/2028</span>
-      <strong>Ph.D. in Machine Learning Systems & Databases</strong>, <em>Aalto University</em>
+      <strong>Ph.D. in Computer Science and Technology</strong>, <em>Aalto University</em>
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-            <br> • Improve Reinforcement Learning & Large Language Models (LLMs) efficiency on HPC clusters & IoT devices
+            <br> • Specialization: <b>Machine Learning Systems & Databases</b>
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a> & <a href="https://www.aalto.fi/fi/ihmiset/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>
         </p>
     </td>
@@ -27,7 +27,7 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
-      <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
+      <strong>M.Sc. (Tech.) (Honors) in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
         (5/5)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -40,7 +40,7 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>08/2023&nbsp;-&nbsp;06/2024</span>
-      <strong>M.Sc. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Technical Uni. of Denmark (DTU)</em>
+      <strong>M.Sc. Eng. in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Tech. Uni. of Denmark (DTU)</em>
         (11.36/12)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -190,7 +190,7 @@ many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">Create a plugin</a> to allow selecting, dragging and manipulating <b>multiple blocks at once</b> for Google Blockly
   <br> • Resolve the <a href="https://github.com/google/blockly-samples/issues/267#issuecomment-255582938" target="_blank">issue</a> that had troubled the <b>Google Engineers</b> for <b>a decade</b> (since the Blockly project started)
-  <br> • <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has an average of <b>390+</b> downloads per week
+  <br> • <a href="https://www.npmjs.com/package/@mit-app-inventor/blockly-plugin-workspace-multiselect" target="_blank">@mit-app-inventor/blockly-plugin-workspace-multiselect</a> now has an average of <b>250+</b> downloads per week
   </p>
   </td>
 </tr>
@@ -283,6 +283,15 @@ many others.
 <table class="table table-hover">
 <tr>
   <td>
+  <div style='float: right'>2023&nbsp;-&nbsp;2024</div>
+  <div>
+        <b>Aalto University School of Science</b> Dean's Incentive Scholarship
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2023&nbsp;-&nbsp;2024</td> -->
+</tr>
+<tr>
+  <td>
   <div style='float: right'>2022&nbsp;-&nbsp;2024</div>
   <div>
         SECCLO <b>Erasmus Mundus</b> Scholarship
@@ -342,15 +351,6 @@ many others.
   <div style='float: right'>2023</div>
   <div>
         <b>Black Hat</b> Europe 2023 Student Scholarship
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2023</div>
-  <div>
-        <b>Aalto University School of Science</b> Dean's Incentive Scholarship
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
@@ -516,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-95.3k+ GitHub stars across all of the following selected repositories:
+96.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,9 +524,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 34.5k |
+    <i class="fa fas fa-star"></i> 35.3k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #81 among all contributors with 5 commits, 418 lines of additions and 18 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #66 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 10k |
+    <i class="fa fas fa-star"></i> 10.1k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -544,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 776 |
+    <i class="fa fas fa-star"></i> 789 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -554,9 +554,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
-    <i class="fa fas fa-star"></i> 8.4k |
+    <i class="fa fas fa-star"></i> 8.5k |
     <em>Machine Learning System</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #60 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #59 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
-    <i class="fa fas fa-star"></i> 2.2k |
+    <i class="fa fas fa-star"></i> 2.3k |
     <em>Chrome DevTools Protocol in Rust</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
   </td>
@@ -574,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 694 |
+    <i class="fa fas fa-star"></i> 697 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -616,7 +616,7 @@ many others.
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
     <i class="fa fas fa-star"></i> 62 |
     <em>Full Customization of IBus UI</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 361 commits, 44016 lines of additions and 31419 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 366 commits, 51709 lines of additions and 38654 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
-    <i class="fa fas fa-star"></i> 23 |
+    <i class="fa fas fa-star"></i> 22 |
     <em>GitHub action for WeChat Message</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
   </td>
@@ -654,7 +654,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.2k |
+    <i class="fa fas fa-star"></i> 35.4k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -674,7 +674,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 141 |
+    <i class="fa fas fa-star"></i> 144 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -701,7 +701,7 @@ Content, Link to the talk, and Date:
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
-     <em>To be announced</em>,
+     <em>Fully Automated Release and Code Review with CI/CD</em>,
         <a href="https://events.linuxfoundation.org/open-source-summit-europe/" target="_blank">Open Source Summit Europe</a>
   </td>
 </tr>
