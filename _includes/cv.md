@@ -5,7 +5,7 @@ converges with enhancing <b>computer systems</b>,
 <b>security</b> aspects, which allows me to have impacts
 on computing for both the environment (<b>greener while efficient</b>)
 and people (<b>faster while reliable</b>). 
-Additionally, I am a passionate <b>free software advocate</b>. During my
+Additionally, I am a passionate <b>free software developer</b>. During my
 leisure time, I maintain several open-source projects and contribute to
 many others.
 
@@ -20,20 +20,7 @@ many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Machine Learning Systems & Databases</b>
-            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a> & <a href="https://www.aalto.fi/fi/ihmiset/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>
-        </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
-      <strong>M.Sc. (Tech.) (Honors) in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
-        (5/5)
-      <br>
-        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-            <br> • Specialization: <b>Security and Cloud Computing</b>
-            <br> • Thesis: <a href="https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
-            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
+            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>, Thesis Advisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
   </tr>
@@ -47,6 +34,19 @@ many others.
             <br> • Specialization: <b>Reliable Distributed Systems</b>
             <br> • Thesis: <a href="https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/DTU_Songlin_Jiang_Msc_Thesis.pdf" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
             <br> • Supervisor: <a href="https://orbit.dtu.dk/en/persons/bernd-dammann" target="_blank">Prof. Bernd Dammann</a>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
+      <strong>M.Sc. (Tech.) (Honors) in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
+        (5/5)
+      <br>
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+            <br> • Specialization: <b>Security and Cloud Computing</b>
+            <br> • Thesis: <a href="https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
+            <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
   </tr>
@@ -106,7 +106,7 @@ many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Implement the <b>real-time GPU usage alert service</b> for HPC clusters
-  <br> • Deploy <b>Large Language Models (LLM) inference</b> service in HPC environment with vLLM
+  <br> • Deploy <b>Large Language Models (LLM) inference</b> service in HPC environment with <a href="https://github.com/vllm-project/vllm/pull/7855" target="_blank">vLLM</a>
   </p>
   </td>
 </tr>
@@ -516,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-96.6k+ GitHub stars across all of the following selected repositories:
+96.9k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,9 +524,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 35.3k |
+    <i class="fa fas fa-star"></i> 35.5k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #66 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #69 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -544,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 789 |
+    <i class="fa fas fa-star"></i> 793 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -574,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 697 |
+    <i class="fa fas fa-star"></i> 699 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -664,7 +664,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
-    <i class="fa fas fa-star"></i> 3k |
+    <i class="fa fas fa-star"></i> 3.1k |
     <em>Emacs Application Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
   </td>
@@ -701,8 +701,8 @@ Content, Link to the talk, and Date:
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
-     <em>Fully Automated Release and Code Review with CI/CD</em>,
-        <a href="https://events.linuxfoundation.org/open-source-summit-europe/" target="_blank">Open Source Summit Europe</a>
+     <em><a href="https://github.com/HollowMan6/My-LFX-Mentorship" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
+        <a href="https://osseu2024.sched.com/event/1ex5i/lfx-mentorship-showcase-open-to-all-attendees-no-additional-fee-or-registration-required" target="_blank">Open Source Summit Europe</a>
   </td>
 </tr>
 <tr>
