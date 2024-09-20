@@ -39,7 +39,7 @@ about: |
   \textbf{security} aspects, which allows me to have impacts
   on computing for both the environment (\textbf{greener while efficient})
   and people (\textbf{faster while reliable}). 
-  Additionally, I am a passionate \textbf{free software advocate}. During my
+  Additionally, I am a passionate \textbf{free software developer}. During my
   leisure time, I maintain several open-source projects and contribute to
   many others.
 
@@ -49,15 +49,7 @@ education:
     dates: 08/2024 -- 07/2028
     details:
       - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
-      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao} \\& \\href{https://www.aalto.fi/fi/ihmiset/mario-di-francesco}{Prof. Mario Di Francesco}"
-  - school: Aalto University
-    degree: M.Sc. (Tech.) (Honors) in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
-    dates: 08/2022 -- 07/2024
-    overallGPA: 5/5
-    details:
-      - "Specialization: \\textbf{Security and Cloud Computing}"
-      - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
-      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/mario-di-francesco}{Prof. Mario Di Francesco}, Thesis Advisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Tech. Uni. of Denmark (DTU)
     degree: M.Sc. Eng. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2023 -- 06/2024
@@ -66,6 +58,14 @@ education:
       - "Specialization: \\textbf{Reliable Distributed Systems}"
       - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/DTU_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
+  - school: Aalto University
+    degree: M.Sc. (Tech.) (Honors) in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
+    dates: 08/2022 -- 07/2024
+    overallGPA: 5/5
+    details:
+      - "Specialization: \\textbf{Security and Cloud Computing}"
+      - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
+      - "Supervisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: University of Leeds
     degree: No Degree (Exchange Abroad)
     dates: 01/2020 -- 06/2020
@@ -99,7 +99,7 @@ positions:
     dates: 01/2024 -- 07/2024
     details:
       - "Implement the \\textbf{real-time GPU usage alert service} for HPC clusters"
-      - "Deploy \\textbf{Large Language Models (LLM) inference} service in HPC environment with vLLM"
+      - "Deploy \\textbf{Large Language Models (LLM) inference} service in HPC environment with \\href{https://github.com/vllm-project/vllm/pull/7855}{vLLM}"
   - place: Hollow Software
     title: Founder
     inline_detail: "company registered and established in Finland, business ID: 3369577-7"
