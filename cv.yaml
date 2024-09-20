@@ -332,8 +332,8 @@ repos:
 talks:
   - year: 09/2024
     location: Open Source Summit Europe
-    url: https://events.linuxfoundation.org/open-source-summit-europe/
-    title: Fully Automated Release and Code Review with CI/CD
+    url: https://osseu2024.sched.com/event/1ex5i/lfx-mentorship-showcase-open-to-all-attendees-no-additional-fee-or-registration-required
+    title: \href{https://github.com/HollowMan6/My-LFX-Mentorship}{Fully Automated Release and Code Review with CI/CD}
   - year: 06/2023
     location: Aalto University Secure Systems Demo Day
     url: https://ssg.aalto.fi/events/secure-systems-demo-day-2023/
