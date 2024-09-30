@@ -516,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-96.9k+ GitHub stars across all of the following selected repositories:
+97.4k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,9 +524,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 35.5k |
+    <i class="fa fas fa-star"></i> 35.8k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #69 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #71 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 10.1k |
+    <i class="fa fas fa-star"></i> 10.2k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -544,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 793 |
+    <i class="fa fas fa-star"></i> 796 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -574,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 699 |
+    <i class="fa fas fa-star"></i> 704 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -584,7 +584,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 143 |
+    <i class="fa fas fa-star"></i> 144 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -594,7 +594,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 150 |
+    <i class="fa fas fa-star"></i> 151 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -654,7 +654,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.4k |
+    <i class="fa fas fa-star"></i> 35.5k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -770,7 +770,10 @@ Content, Link to the talk, and Date:
 ### Reviewing
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM SIGMOD 2023 Availability & Reproducibility</a></td>
+  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACMSpecial Interest Group on Management of Data (SIGMOD) 2023 Availability & Reproducibility</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">The International Conference on Learning Representations (ICLR) 2025 Reviewer</a></td>
 </tr>
 </table>
 
@@ -917,4 +920,43 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
   </td>
 </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Courses
+Some top-quality courses I've taken: <br>
+
+<table class="table table-hover">
+    <tr>
+        <td class='col-md-2'><b><a href="https://kurser.dtu.dk/course/02242" target="_blank">Program Analysis</a></b>, <i>DTU</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://ppc.cs.aalto.fi/" target="_blank">Programming Parallel Computers</a></b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Platform Security</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Cloud Software and Systems</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Multimedia Services in Internet</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/" target="_blank">Designing and Building Scalable Web Applications</a></b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Network Security</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321" target="_blank">Formal Languages and Finite Automata</a></b>, <i>University of Leeds</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2020</td>
+    </tr>
 </table>
