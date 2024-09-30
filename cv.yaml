@@ -28,7 +28,7 @@ order:
   - [patents, Software Copyrights]
   - [all_publications, Publications]
   - [skills, Skills]
-  # - [coursework, Courses]
+  - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
@@ -366,7 +366,8 @@ service:
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
-    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM SIGMOD 2023 Availability \\& Reproducibility}"
+    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACMSpecial Interest Group on Management of Data (SIGMOD) 2023 Availability \\& Reproducibility}"
+    - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{The International Conference on Learning Representations (ICLR) 2025 Reviewer}"
 
 skills:
   - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
@@ -419,28 +420,28 @@ patents:
     url: https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html
     id: CN 2019SR1388115
 
-# coursework:
-#   - name: \href{https://kurser.dtu.dk/course/02242}{Program Analysis}
-#     school: DTU
-#     semester: Fall 2023
-#   - name: \href{https://ppc.cs.aalto.fi/}{Programming Parallel Computers}
-#     school: Aalto University
-#     semester: Spring 2023
-#   - name: Platform Security
-#     school: Aalto University
-#     semester: Spring 2023
-#   - name: Cloud Software and Systems
-#     school: Aalto University
-#     semester: Fall 2022
-#   - name: Multimedia Services in Internet
-#     school: Aalto University
-#     semester: Fall 2022
-#   - name: \href{https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/}{Designing and Building Scalable Web Applications}
-#     school: Aalto University
-#     semester: Fall 2022
-#   - name: Network Security
-#     school: Aalto University
-#     semester: Fall 2022
-#   - name: \href{https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321}{Formal Languages and Finite Automata}
-#     school: University of Leeds
-#     semester: Spring 2020
+coursework:
+  - name: \href{https://kurser.dtu.dk/course/02242}{Program Analysis}
+    school: DTU
+    semester: Fall 2023
+  - name: \href{https://ppc.cs.aalto.fi/}{Programming Parallel Computers}
+    school: Aalto University
+    semester: Spring 2023
+  - name: Platform Security
+    school: Aalto University
+    semester: Spring 2023
+  - name: Cloud Software and Systems
+    school: Aalto University
+    semester: Fall 2022
+  - name: Multimedia Services in Internet
+    school: Aalto University
+    semester: Fall 2022
+  - name: \href{https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/}{Designing and Building Scalable Web Applications}
+    school: Aalto University
+    semester: Fall 2022
+  - name: Network Security
+    school: Aalto University
+    semester: Fall 2022
+  - name: \href{https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321}{Formal Languages and Finite Automata}
+    school: University of Leeds
+    semester: Spring 2020
