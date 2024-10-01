@@ -366,8 +366,9 @@ service:
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
-    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACMSpecial Interest Group on Management of Data (SIGMOD) 2023 Availability \\& Reproducibility}"
-    - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{The International Conference on Learning Representations (ICLR) 2025 Reviewer}"
+    - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (ICLR) 2025}"
+    - "\\href{https://neurips.cc/Conferences/2024/ProgramCommittee}{Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024}"
+    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability \\& Reproducibility}"
 
 skills:
   - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
