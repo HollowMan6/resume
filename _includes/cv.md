@@ -574,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 704 |
+    <i class="fa fas fa-star"></i> 705 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -770,10 +770,13 @@ Content, Link to the talk, and Date:
 ### Reviewing
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACMSpecial Interest Group on Management of Data (SIGMOD) 2023 Availability & Reproducibility</a></td>
+  <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (ICLR) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">The International Conference on Learning Representations (ICLR) 2025 Reviewer</a></td>
+  <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2024/ProgramCommittee" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability & Reproducibility</a></td>
 </tr>
 </table>
 
