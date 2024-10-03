@@ -544,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 796 |
+    <i class="fa fas fa-star"></i> 797 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -771,6 +771,9 @@ Content, Link to the talk, and Date:
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (ICLR) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (MIDL) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2024/ProgramCommittee" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024</a></td>
