@@ -368,7 +368,10 @@ service:
   reviewing:
     - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (ICLR) 2025}"
     - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (MIDL) 2025}"
-    - "\\href{https://neurips.cc/Conferences/2024/ProgramCommittee}{Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024}"
+    - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024}"
+    - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at Compression Workshop at NeurIPS 2024}"
+    - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
+    - "\\href{https://www.latinxinai.org/neurips-2023}{Latinx in AI Workshop at Compression Workshop at NeurIPS 2024}"
     - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability \\& Reproducibility}"
 
 skills:
