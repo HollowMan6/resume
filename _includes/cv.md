@@ -516,7 +516,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-97.4k+ GitHub stars across all of the following selected repositories:
+97.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,7 +524,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 35.8k |
+    <i class="fa fas fa-star"></i> 35.9k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #71 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -544,7 +544,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 797 |
+    <i class="fa fas fa-star"></i> 800 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -574,7 +574,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 705 |
+    <i class="fa fas fa-star"></i> 708 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -584,7 +584,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 144 |
+    <i class="fa fas fa-star"></i> 145 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -614,7 +614,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 62 |
+    <i class="fa fas fa-star"></i> 64 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 366 commits, 51709 lines of additions and 38654 lines of deletions</p>
   </td>
@@ -634,7 +634,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 22 |
+    <i class="fa fas fa-star"></i> 23 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -644,7 +644,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 16 |
+    <i class="fa fas fa-star"></i> 17 |
     <em>IBus Theme Generator</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
@@ -776,7 +776,16 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (MIDL) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2024/ProgramCommittee" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024</a></td>
+  <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://safegenaiworkshop.github.io/" target="_blank">Safe Generative AI Workshop at Compression Workshop at NeurIPS 2024</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://gp-seminar-series.github.io/neurips-2024/" target="_blank">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://www.latinxinai.org/neurips-2023" target="_blank">Latinx in AI Workshop at Compression Workshop at NeurIPS 2024</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability & Reproducibility</a></td>
