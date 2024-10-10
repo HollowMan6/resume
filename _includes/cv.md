@@ -305,6 +305,7 @@ many others.
   <div style='float: right'>2024</div>
   <div>
         Delegate of OpenSUSE Project for <a href="https://sites.google.com/view/2024mentorsummit/home" target="_blank"><b>Google</b> Summer of Code 2024 Mentor Summit</a>
+    <br><p style="color:grey;font-size:1.4rem">Joint funded by Google and openSUSE Travel Support Program</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
@@ -516,7 +517,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-97.6k+ GitHub stars across all of the following selected repositories:
+97.7k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -524,7 +525,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 35.9k |
+    <i class="fa fas fa-star"></i> 36k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #71 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -701,7 +702,7 @@ Content, Link to the talk, and Date:
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
-     <em><a href="https://github.com/HollowMan6/My-LFX-Mentorship" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
+     <em><a href="https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
         <a href="https://osseu2024.sched.com/event/1ex5i/lfx-mentorship-showcase-open-to-all-attendees-no-additional-fee-or-registration-required" target="_blank">Open Source Summit Europe</a>
   </td>
 </tr>
