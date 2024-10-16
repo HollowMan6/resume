@@ -517,7 +517,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-97.7k+ GitHub stars across all of the following selected repositories:
+97.8k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -525,7 +525,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 36k |
+    <i class="fa fas fa-star"></i> 36.1k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #71 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -545,7 +545,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 800 |
+    <i class="fa fas fa-star"></i> 802 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -575,7 +575,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 708 |
+    <i class="fa fas fa-star"></i> 710 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -595,7 +595,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 151 |
+    <i class="fa fas fa-star"></i> 152 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -615,7 +615,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 64 |
+    <i class="fa fas fa-star"></i> 66 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 366 commits, 51709 lines of additions and 38654 lines of deletions</p>
   </td>
@@ -635,7 +635,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 23 |
+    <i class="fa fas fa-star"></i> 24 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -645,7 +645,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 17 |
+    <i class="fa fas fa-star"></i> 18 |
     <em>IBus Theme Generator</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
@@ -703,7 +703,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
      <em><a href="https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
-        <a href="https://osseu2024.sched.com/event/1ex5i/lfx-mentorship-showcase-open-to-all-attendees-no-additional-fee-or-registration-required" target="_blank">Open Source Summit Europe</a>
+        <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank">Open Source Summit Europe</a>
   </td>
 </tr>
 <tr>
