@@ -333,7 +333,7 @@ repos:
 talks:
   - year: 09/2024
     location: Open Source Summit Europe
-    url: https://osseu2024.sched.com/event/1ex5i/lfx-mentorship-showcase-open-to-all-attendees-no-additional-fee-or-registration-required
+    url: https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7
     title: \href{https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s}{Fully Automated Release and Code Review with CI/CD}
   - year: 06/2023
     location: Aalto University Secure Systems Demo Day
