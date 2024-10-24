@@ -202,7 +202,7 @@ many others.
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Add Continuous Integration (CI) by investigating <b>systemd</b> support inside Docker with GitHub Actions
-  <br> • The <a href="https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/" target="_blank">chance</a> to get into this internship in 2022: <b>83/20317</b>
+  <br> • The <a href="https://summerofbitcoin.substack.com/p/summer-of-bitcoin-2022" target="_blank">chance</a> to get into this internship in 2022: <b>83/20317</b>
   </p>
   </td>
 </tr>
@@ -517,7 +517,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-97.8k+ GitHub stars across all of the following selected repositories:
+98.1k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -525,9 +525,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 36.1k |
+    <i class="fa fas fa-star"></i> 36.3k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #71 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #73 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 802 |
+    <i class="fa fas fa-star"></i> 808 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -575,7 +575,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 710 |
+    <i class="fa fas fa-star"></i> 714 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -655,7 +655,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.5k |
+    <i class="fa fas fa-star"></i> 35.6k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
