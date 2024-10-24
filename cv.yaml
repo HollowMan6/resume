@@ -157,7 +157,7 @@ positions:
     dates: 05/2022 -- 08/2022
     details:
       - "Add Continuous Integration (CI) by investigating \\textbf{systemd} support inside Docker with GitHub Actions"
-      - "The \\href{https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/}{chance} to get into this internship in 2022: \\textbf{83/20317}"
+      - "The \\href{https://summerofbitcoin.substack.com/p/summer-of-bitcoin-2022}{chance} to get into this internship in 2022: \\textbf{83/20317}"
   - place: \href{https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/}{Microsoft Research NYC}
     title: \href{https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest}{RL Open Source Fest}
     inline_detail: "\\href{https://github.com/VowpalWabbit/vowpal_wabbit/releases/tag/9.4.0}{Vowpal Wabbit}, ML library"
