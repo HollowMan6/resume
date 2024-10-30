@@ -49,6 +49,7 @@ education:
     dates: 08/2024 -- 07/2028
     details:
       - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
+      - "Funding: \\href{https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain}{Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCode)}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/mario-di-francesco}{Prof. Mario Di Francesco}, Thesis Advisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Tech. Uni. of Denmark (DTU)
     degree: M.Sc. Eng. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
@@ -71,12 +72,13 @@ education:
     dates: 01/2020 -- 06/2020
     overallGPA: Pass, no grade due to COVID-19
     details:
-      - "Specialization: \\textbf{Computer Science}"
+      - "Host: \\textbf{School of Computer Science}"
   - school: Lanzhou University
     degree: B.Eng. in Computer Science \& Technology (Honors)
     dates: 09/2018 -- 06/2022
     overallGPA: 91/100
     details:
+      - "Specialization: \\textbf{Specialized Class for Fundamentals and Theories of Computer Science}"
       - "Thesis: \\href{https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf}{\\textit{A Short-Term Wind Speed Multistep-Ahead Hybrid\\\\ Prediction Model based on ICEEMDAN and Prophet-GRU-NN}}"
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
@@ -86,6 +88,8 @@ positions:
     inline_detail: "add support for the IVFPQ vector index algorithm"
     dates: 06/2024 -- 10/2024
     details:
+      - "Enable more vector indexing capabilities for OceanBase -- a multi-cloud \\textbf{distributed SQL database}"
+      - "OceanBase is developed by Ant Group (Alibaba), supports the peak traffic in Double 11 Shopping Festivals"
   - place: \href{https://www.csail.mit.edu/research/mit-app-inventor}{MIT CSAIL} \& OpenSUSE
     title: Mentor for Google Summer of Code 2024
     inline_detail: "simultaneously"
@@ -269,7 +273,7 @@ honors:
     year: 2018 -- 2022
 
 all_publications:
-  name: "Amos"
+  name: "Songlin"
   file: all.bib
   sort_bib: True
   include_image: True
@@ -278,6 +282,9 @@ all_publications:
     'Songlin Jiang': 'https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ'
 
 repos:
+  - repo_url: https://github.com/OpenRLHF/OpenRLHF
+    year: 2024
+    desc: RLHF Framework
   - repo_url: https://github.com/run-llama/llama_index
     year: 2023
     desc: RAG Framework
