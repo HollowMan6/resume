@@ -20,6 +20,7 @@ many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Machine Learning Systems & Databases</b>
+            <br> • Funding: <a href="https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain" target="_blank">Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCode)</a>
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>, Thesis Advisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
@@ -57,7 +58,7 @@ many others.
         (Pass, no grade due to COVID-19)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-            <br> • Specialization: <b>Computer Science</b>
+            <br> • Host: <b>School of Computer Science</b>
         </p>
     </td>
   </tr>
@@ -68,6 +69,7 @@ many others.
         (91/100)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+            <br> • Specialization: <b>Specialized Class for Fundamentals and Theories of Computer Science</b>
             <br> • Thesis: <a href="https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf" target="_blank"><i>A Short-Term Wind Speed Multistep-Ahead Hybrid Prediction Model based on ICEEMDAN and Prophet-GRU-NN</i></a>
             <br> • Supervisor: <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>
         </p>
@@ -84,6 +86,10 @@ many others.
 <p markdown="1" style='margin: 0'><strong><a href="https://github.com/HollowMan6/My-OSPP-Summer" target="_blank">OSPP Summer</a></strong>, <em>OceanBase</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (add support for the IVFPQ vector index algorithm)
 </span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Enable more vector indexing capabilities for OceanBase&nbsp;-&nbsp;a multi-cloud <b>distributed SQL database</b>
+  <br> • OceanBase is developed by Ant Group (Alibaba), supports the peak traffic in Double 11 Shopping Festivals
+  </p>
   </td>
 </tr>
 <tr>
@@ -517,21 +523,31 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-98.1k+ GitHub stars across all of the following selected repositories:
+100.6k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td>
+    <span class='cvdate'>2024</span>
+    <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
+    <i class="fa fas fa-star"></i> 2.4k |
+    <em>RLHF Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 2 commits, 7 lines of additions and 3 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 36.3k |
+    <i class="fa fas fa-star"></i> 36.4k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #73 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
@@ -541,17 +557,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 808 |
+    <i class="fa fas fa-star"></i> 811 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
@@ -561,7 +577,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
@@ -571,7 +587,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
@@ -581,7 +597,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
@@ -591,17 +607,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 152 |
+    <i class="fa fas fa-star"></i> 153 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
@@ -611,7 +627,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
@@ -621,7 +637,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
@@ -631,17 +647,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 24 |
+    <i class="fa fas fa-star"></i> 25 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
@@ -651,7 +667,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
@@ -661,7 +677,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
@@ -671,17 +687,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 144 |
+    <i class="fa fas fa-star"></i> 145 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>18.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
@@ -891,7 +907,7 @@ Content, Link to the talk, and Date:
 <em><a href="https://qikan.cqvip.com/Qikan/Article/Detail?id=7001708234" target="_blank">Voting System Based on Wechat Pay</a></em> 
 [<a href='javascript:;'
     onclick='$("#abs_votingsystemwechatpay").toggle()'>abstract</a>]<br>
-<a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a><br>
+<strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong><br>
 Computer Engineering & Software 2019  <br>
 
 <div id="abs_votingsystemwechatpay" style="text-align: justify; display: none" markdown="1">
