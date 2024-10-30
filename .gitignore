@@ -1,9 +1,12 @@
+.DS_Store
 _posts/ideas
 
 *.swp
+*.shelf
 
 /_site/
 /images/latex/
+/build
 
 .jekyll-metadata
 .bundle
