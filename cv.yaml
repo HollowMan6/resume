@@ -49,7 +49,7 @@ education:
     dates: 08/2024 -- 07/2028
     details:
       - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
-      - "Funding: \\href{https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain}{Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCode)}"
+      - "Funding: \\href{https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain}{Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCoDe)}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/mario-di-francesco}{Prof. Mario Di Francesco}, Thesis Advisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
   - school: Tech. Uni. of Denmark (DTU)
     degree: M.Sc. Eng. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
@@ -60,7 +60,7 @@ education:
       - "Thesis: \\href{https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/DTU_Songlin_Jiang_Msc_Thesis.pdf}{Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters}"
       - "Supervisor: \\href{https://orbit.dtu.dk/en/persons/bernd-dammann}{Prof. Bernd Dammann}"
   - school: Aalto University
-    degree: M.Sc. (Tech.) (Honors) in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
+    degree: M.Sc. (Tech.) (Honor) in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2022 -- 07/2024
     overallGPA: 5/5
     details:
@@ -74,7 +74,7 @@ education:
     details:
       - "Host: \\textbf{School of Computer Science}"
   - school: Lanzhou University
-    degree: B.Eng. in Computer Science \& Technology (Honors)
+    degree: B.Eng. in Computer Science \& Technology (Honor)
     dates: 09/2018 -- 06/2022
     overallGPA: 91/100
     details:
@@ -339,48 +339,48 @@ repos:
 
 talks:
   - year: 09/2024
-    location: Open Source Summit Europe
+    location: \textbf{Open Source Summit} Europe
     url: https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7
     title: \href{https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s}{Fully Automated Release and Code Review with CI/CD}
   - year: 06/2023
-    location: Aalto University Secure Systems Demo Day
+    location: \textbf{Aalto} University Secure Systems Demo Day
     url: https://ssg.aalto.fi/events/secure-systems-demo-day-2023/
     title: \href{https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf}{Virtual Network Systems among Containers}
   - year: 06/2023
-    location: Google Blockly Summit
+    location: \textbf{Google} Blockly Summit
     url: https://www.youtube.com/watch?v=4OFU9D1Y2DI
     title: \href{https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/}{Multi-Select Plugin}
   - year: 08/2022
-    location: Microsoft Research NYC Seminar (RLOSFest)
+    location: \textbf{Microsoft Research} NYC Seminar (RLOSFest)
     url: https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s
     title: \href{https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/}{Native CSV Parser}
   - year: 08/2022
-    location: openEuler Excellent Intern Seminar
+    location: \textbf{openEuler} Excellent Intern Seminar
     url: https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3
     title: \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{Summary of my Open Source Internship}
   - year: 05/2021
-    location: openEuler University Developer Competition
+    location: \textbf{openEuler} University Developer Competition
     url: https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34
     title: \href{https://github.com/HollowMan6/My-openEuler-University-Developer-Competition}{Update Notification Program in Python}
   - year: 08/2020
-    location: Alibaba Summer of Code Presentation
+    location: \textbf{Alibaba} Summer of Code Presentation
     url: https://www.bilibili.com/video/BV1ih41197m3
     title: \href{https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==\&mid=2247483957\&idx=1\&sn=3d2663a2acc130c6c1a66ee121921faa}{Summary of my Contribution to Arthas}
 
 service:
   main:
-    - name: openSUSE Member
+    - name: \textbf{openSUSE} Member
       url: https://en.opensuse.org/User:Hollowman
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
-    - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (ICLR) 2025}"
-    - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (MIDL) 2025}"
-    - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024}"
-    - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at Compression Workshop at NeurIPS 2024}"
-    - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
-    - "\\href{https://www.latinxinai.org/neurips-2023}{Latinx in AI Workshop at Compression Workshop at NeurIPS 2024}"
-    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability \\& Reproducibility}"
+    - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2025}"
+    - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (\\textbf{MIDL}) 2025}"
+    - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2024}"
+    - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at \\textbf{NeurIPS} 2024}"
+    - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{\\textbf{NeurIPS} 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
+    - "\\href{https://www.latinxinai.org/neurips-2024}{Latinx in AI Workshop at \\textbf{NeurIPS} 2024}"
+    - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (\\textbf{SIGMOD}) 2023 Availability \\& Reproducibility}"
 
 skills:
   - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
