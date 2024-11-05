@@ -20,7 +20,7 @@ many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Machine Learning Systems & Databases</b>
-            <br> • Funding: <a href="https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain" target="_blank">Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCode)</a>
+            <br> • Funding: <a href="https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain" target="_blank">Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCoDe)</a>
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>, Thesis Advisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
@@ -41,7 +41,7 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>08/2022&nbsp;-&nbsp;07/2024</span>
-      <strong>M.Sc. (Tech.) (Honors) in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
+      <strong>M.Sc. (Tech.) (Honor) in <a href="https://secclo.eu/" target="_blank">SECCLO Erasmus Mundus</a></strong>, <em>Aalto University</em>
         (5/5)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -65,7 +65,7 @@ many others.
   <tr>
     <td>
       <span class='cvdate'>09/2018&nbsp;-&nbsp;06/2022</span>
-      <strong>B.Eng. in Computer Science & Technology (Honors)</strong>, <em>Lanzhou University</em>
+      <strong>B.Eng. in Computer Science & Technology (Honor)</strong>, <em>Lanzhou University</em>
         (91/100)
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
@@ -523,7 +523,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-100.6k+ GitHub stars across all of the following selected repositories:
+100.7k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -541,9 +541,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 36.4k |
+    <i class="fa fas fa-star"></i> 36.5k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #73 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #74 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -591,7 +591,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 714 |
+    <i class="fa fas fa-star"></i> 715 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -641,7 +641,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
-    <i class="fa fas fa-star"></i> 22 |
+    <i class="fa fas fa-star"></i> 23 |
     <em>GitHub action for WeChat Message</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
   </td>
@@ -691,7 +691,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 145 |
+    <i class="fa fas fa-star"></i> 146 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -719,7 +719,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
      <em><a href="https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
-        <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank">Open Source Summit Europe</a>
+        <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank"><b>Open Source Summit</b> Europe</a>
   </td>
 </tr>
 <tr>
@@ -727,7 +727,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>06/2023</span>
      <em><a href="https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf" target="_blank">Virtual Network Systems among Containers</a></em>,
-        <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/" target="_blank">Aalto University Secure Systems Demo Day</a>
+        <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/" target="_blank"><b>Aalto</b> University Secure Systems Demo Day</a>
   </td>
 </tr>
 <tr>
@@ -735,7 +735,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>06/2023</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Multi-Select Plugin</a></em>,
-        <a href="https://www.youtube.com/watch?v=4OFU9D1Y2DI" target="_blank">Google Blockly Summit</a>
+        <a href="https://www.youtube.com/watch?v=4OFU9D1Y2DI" target="_blank"><b>Google</b> Blockly Summit</a>
   </td>
 </tr>
 <tr>
@@ -743,7 +743,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2022</span>
      <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Native CSV Parser</a></em>,
-        <a href="https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s" target="_blank">Microsoft Research NYC Seminar (RLOSFest)</a>
+        <a href="https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s" target="_blank"><b>Microsoft Research</b> NYC Seminar (RLOSFest)</a>
   </td>
 </tr>
 <tr>
@@ -751,7 +751,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2022</span>
      <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship</a></em>,
-        <a href="https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3" target="_blank">openEuler Excellent Intern Seminar</a>
+        <a href="https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3" target="_blank"><b>openEuler</b> Excellent Intern Seminar</a>
   </td>
 </tr>
 <tr>
@@ -759,7 +759,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>05/2021</span>
      <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
-        <a href="https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank">openEuler University Developer Competition</a>
+        <a href="https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank"><b>openEuler</b> University Developer Competition</a>
   </td>
 </tr>
 <tr>
@@ -767,7 +767,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>08/2020</span>
      <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas</a></em>,
-        <a href="https://www.bilibili.com/video/BV1ih41197m3" target="_blank">Alibaba Summer of Code Presentation</a>
+        <a href="https://www.bilibili.com/video/BV1ih41197m3" target="_blank"><b>Alibaba</b> Summer of Code Presentation</a>
   </td>
 </tr>
 </table>
@@ -778,7 +778,7 @@ Content, Link to the talk, and Date:
 <tr>
   <td style='padding-right:0;'>
   <span class='cvdate'>2021&nbsp;-&nbsp;Present</span>
-     <a href="https://en.opensuse.org/User:Hollowman" target="_blank">openSUSE Member</a>
+     <a href="https://en.opensuse.org/User:Hollowman" target="_blank"><b>openSUSE</b> Member</a>
   <br><p style="color:grey;font-size:1.4rem">Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board</p>
   </td>
 </tr>
@@ -787,25 +787,25 @@ Content, Link to the talk, and Date:
 ### Reviewing
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (ICLR) 2025</a></td>
+  <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (MIDL) 2025</a></td>
+  <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2024</a></td>
+  <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://safegenaiworkshop.github.io/" target="_blank">Safe Generative AI Workshop at Compression Workshop at NeurIPS 2024</a></td>
+  <td style='padding-right:0;'><a href="https://safegenaiworkshop.github.io/" target="_blank">Safe Generative AI Workshop at <b>NeurIPS</b> 2024</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://gp-seminar-series.github.io/neurips-2024/" target="_blank">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)</a></td>
+  <td style='padding-right:0;'><a href="https://gp-seminar-series.github.io/neurips-2024/" target="_blank"><b>NeurIPS</b> 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://www.latinxinai.org/neurips-2023" target="_blank">Latinx in AI Workshop at Compression Workshop at NeurIPS 2024</a></td>
+  <td style='padding-right:0;'><a href="https://www.latinxinai.org/neurips-2024" target="_blank">Latinx in AI Workshop at <b>NeurIPS</b> 2024</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM Special Interest Group on Management of Data (SIGMOD) 2023 Availability & Reproducibility</a></td>
+  <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM Special Interest Group on Management of Data (<b>SIGMOD</b>) 2023 Availability & Reproducibility</a></td>
 </tr>
 </table>
 
