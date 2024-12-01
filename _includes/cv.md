@@ -523,7 +523,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-100.7k+ GitHub stars across all of the following selected repositories:
+102k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -531,9 +531,9 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 2.4k |
+    <i class="fa fas fa-star"></i> 2.8k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 2 commits, 7 lines of additions and 3 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 5 commits, 139 lines of additions and 46 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -541,7 +541,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 36.5k |
+    <i class="fa fas fa-star"></i> 37.1k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #74 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -551,7 +551,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 10.2k |
+    <i class="fa fas fa-star"></i> 10.3k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 811 |
+    <i class="fa fas fa-star"></i> 829 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -581,7 +581,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
-    <i class="fa fas fa-star"></i> 2.3k |
+    <i class="fa fas fa-star"></i> 2.4k |
     <em>Chrome DevTools Protocol in Rust</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
   </td>
@@ -591,7 +591,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 715 |
+    <i class="fa fas fa-star"></i> 720 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -611,7 +611,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 153 |
+    <i class="fa fas fa-star"></i> 155 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -631,7 +631,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 66 |
+    <i class="fa fas fa-star"></i> 68 |
     <em>Full Customization of IBus UI</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 366 commits, 51709 lines of additions and 38654 lines of deletions</p>
   </td>
@@ -671,7 +671,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.6k |
+    <i class="fa fas fa-star"></i> 35.7k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -691,7 +691,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 146 |
+    <i class="fa fas fa-star"></i> 152 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -788,6 +788,9 @@ Content, Link to the talk, and Date:
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://2025.ijcnn.org/about/organizing-committee" target="_blank">The 2025 International Joint Conference on Neural Networks (IJCNN 2025)</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
