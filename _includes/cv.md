@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 829 |
+    <i class="fa fas fa-star"></i> 830 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -790,10 +790,13 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://2025.ijcnn.org/about/organizing-committee" target="_blank">The 2025 International Joint Conference on Neural Networks (IJCNN 2025)</a></td>
+  <td style='padding-right:0;'><a href="https://2025.ijcnn.org/about/organizing-committee" target="_blank">International Joint Conference on Neural Networks (<b>IJCNN</b>) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
