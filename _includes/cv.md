@@ -118,7 +118,7 @@ many others.
 </tr>
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>06/2024&nbsp;-&nbsp;Present</span>
+<span class='cvdate'>06/2023&nbsp;-&nbsp;Present</span>
 <p markdown="1" style='margin: 0'><strong>Founder</strong>, <em>Hollow Software</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (company registered and established in Finland, business ID: 3369577-7)
 </span></p>
@@ -523,7 +523,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-102k+ GitHub stars across all of the following selected repositories:
+102.5k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -531,7 +531,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 2.8k |
+    <i class="fa fas fa-star"></i> 3k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 5 commits, 139 lines of additions and 46 lines of deletions</p>
   </td>
@@ -541,7 +541,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 37.1k |
+    <i class="fa fas fa-star"></i> 37.3k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #74 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 830 |
+    <i class="fa fas fa-star"></i> 833 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -591,7 +591,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 720 |
+    <i class="fa fas fa-star"></i> 722 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -611,7 +611,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 155 |
+    <i class="fa fas fa-star"></i> 159 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -621,7 +621,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 11 |
+    <i class="fa fas fa-star"></i> 12 |
     <em>Blockly Multi-Select Plugin</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 45 commits, 16981 lines of additions and 23637 lines of deletions</p>
   </td>
@@ -671,7 +671,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 35.7k |
+    <i class="fa fas fa-star"></i> 35.8k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -796,7 +796,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
+  <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025/organizers" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
@@ -949,7 +949,7 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 <tr>
   <td class='col-md-2'><b>Frameworks</b></td>
   <td>
-<a href="https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767" target="_blank">Kubernetes</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, <a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, PyTorch, Pandas, GitHub Actions, Flutter, React, QT ...
+<a href="https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767" target="_blank">Kubernetes</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, <a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, <a href="https://github.com/pytorch/pytorch/issues/141678" target="_blank">PyTorch</a>, Pandas, GitHub Actions, Flutter, React, QT ...
   </td>
 </tr>
 <tr>
