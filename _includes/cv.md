@@ -145,7 +145,7 @@ many others.
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Develop <b>VR Browser</b>, refactor <b>Android</b> deprecated methods
   <br> • Address user issues. Implement UI, graphics, browser, and <b>openXR</b> related features
-  <br> • Contribute to the majority of the features available from v1.4.2&nbsp;-&nbsp;1.6
+  <br> • Contribute to the majority of the features available from <a href="https://wolvic.com/blog/release_1.4.2/" target="_blank">v1.4.2</a>&nbsp;-&nbsp;<a href="https://wolvic.com/blog/release_1.6/" target="_blank">v1.6</a>
   </p>
   </td>
 </tr>
@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 833 |
+    <i class="fa fas fa-star"></i> 834 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -591,7 +591,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 722 |
+    <i class="fa fas fa-star"></i> 724 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -797,6 +797,9 @@ Content, Link to the talk, and Date:
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025/organizers" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://sites.google.com/view/marw-ai-agents" target="_blank">Multi-Agent AI in the Real World (MARW) Workshop at <b>AAAI</b> 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
