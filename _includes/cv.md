@@ -523,7 +523,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-102.5k+ GitHub stars across all of the following selected repositories:
+103k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -531,7 +531,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 3k |
+    <i class="fa fas fa-star"></i> 3.3k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 5 commits, 139 lines of additions and 46 lines of deletions</p>
   </td>
@@ -541,9 +541,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 37.3k |
+    <i class="fa fas fa-star"></i> 37.5k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #74 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #75 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 834 |
+    <i class="fa fas fa-star"></i> 839 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -591,7 +591,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 724 |
+    <i class="fa fas fa-star"></i> 726 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -611,7 +611,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 159 |
+    <i class="fa fas fa-star"></i> 161 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -691,7 +691,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 152 |
+    <i class="fa fas fa-star"></i> 153 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -800,6 +800,9 @@ Content, Link to the talk, and Date:
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://sites.google.com/view/marw-ai-agents" target="_blank">Multi-Agent AI in the Real World (MARW) Workshop at <b>AAAI</b> 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://aigovernance.github.io/" target="_blank">International Workshop on AI Governance (AIGOV) at <b>AAAI</b> 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
