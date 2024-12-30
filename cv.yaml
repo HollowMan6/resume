@@ -375,6 +375,7 @@ service:
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
     - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2025}"
+    - "\\href{https://2025.ijcai.org/program-committee/}{International Joint Conference on Artificial Intelligence (\\textbf{IJCAI}) 2025}"
     - "\\href{https://2025.ijcnn.org/about/organizing-committee}{International Joint Conference on Neural Networks (\\textbf{IJCNN}) 2025}"
     - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (\\textbf{MIDL}) 2025}"
     - "\\href{https://sites.google.com/view/dai-2025/organizers}{Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (\\textbf{AAAI}) 2025}"
