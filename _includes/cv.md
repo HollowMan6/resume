@@ -523,7 +523,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-103k+ GitHub stars across all of the following selected repositories:
+103.3k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -531,7 +531,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 3.3k |
+    <i class="fa fas fa-star"></i> 3.4k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 5 commits, 139 lines of additions and 46 lines of deletions</p>
   </td>
@@ -541,9 +541,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 37.5k |
+    <i class="fa fas fa-star"></i> 37.7k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #75 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #76 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 839 |
+    <i class="fa fas fa-star"></i> 842 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -601,7 +601,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 145 |
+    <i class="fa fas fa-star"></i> 146 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -611,7 +611,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 161 |
+    <i class="fa fas fa-star"></i> 162 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 46 commits, 3298 lines of additions and 602 lines of deletions</p>
   </td>
@@ -651,7 +651,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 25 |
+    <i class="fa fas fa-star"></i> 26 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -788,6 +788,9 @@ Content, Link to the talk, and Date:
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://2025.ijcai.org/program-committee/" target="_blank">International Joint Conference on Artificial Intelligence (<b>IJCAI</b>) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.ijcnn.org/about/organizing-committee" target="_blank">International Joint Conference on Neural Networks (<b>IJCNN</b>) 2025</a></td>
