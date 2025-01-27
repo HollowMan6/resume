@@ -390,6 +390,8 @@ service:
     - "\\href{https://sites.google.com/view/dai-2025/organizers}{Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (\\textbf{AAAI}) 2025}"
     - "\\href{https://sites.google.com/view/marw-ai-agents}{Multi-Agent AI in the Real World (MARW) Workshop at \\textbf{AAAI} 2025}"
     - "\\href{https://aigovernance.github.io/}{International Workshop on AI Governance (AIGOV) at \\textbf{AAAI} 2025}"
+    - "\\href{https://delta-workshop.github.io/}{Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy at \\textbf{ICLR} 2025}"
+    - "\\href{https://sites.google.com/view/genai-watermark/home}{Workshop on GenAI Watermarking at \\textbf{ICLR} 2025}"
     - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2024}"
     - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at \\textbf{NeurIPS} 2024}"
     - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{\\textbf{NeurIPS} 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
