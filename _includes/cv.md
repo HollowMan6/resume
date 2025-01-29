@@ -82,7 +82,7 @@ many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>01/2025&nbsp;-&nbsp;Present</span>
+<span class='cvdate'>01/2025</span>
 <p markdown="1" style='margin: 0'><strong>AI Prompt Engineer</strong>, <em>Outlier</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (create RLHF datasets for code generation)
 </span></p>
@@ -626,7 +626,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 165 |
+    <i class="fa fas fa-star"></i> 166 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 47 commits, 3299 lines of additions and 603 lines of deletions</p>
   </td>
