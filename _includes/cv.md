@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.5k+ GitHub followers.
-105.1k+ GitHub stars across all of the following selected repositories:
+105.3k+ GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,7 +546,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 4.1k |
+    <i class="fa fas fa-star"></i> 4.2k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #10 among all contributors with 5 commits, 139 lines of additions and 46 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 38.4k |
+    <i class="fa fas fa-star"></i> 38.5k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #77 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -576,7 +576,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 848 |
+    <i class="fa fas fa-star"></i> 849 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -606,7 +606,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 728 |
+    <i class="fa fas fa-star"></i> 730 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -626,7 +626,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 166 |
+    <i class="fa fas fa-star"></i> 167 |
     <em>MdBook backend for PDF Generation</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 47 commits, 3299 lines of additions and 603 lines of deletions</p>
   </td>
@@ -827,6 +827,12 @@ Content, Link to the talk, and Date:
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://sites.google.com/view/genai-watermark/home" target="_blank">Workshop on GenAI Watermarking at <b>ICLR</b> 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://fm-wild-community.github.io/" target="_blank">Workshop on Foundation Models in the Wild at <b>ICLR</b> 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://ic-greenai.in/" target="_blank">International Conference on Green Artificial Intelligence and Industrial Applications (<b>GreenAI</b> 2025)</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
