@@ -214,6 +214,8 @@ positions:
       - "A \\href{https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa}{Wechat post (in Chinese)} about my work posted by \\href{https://github.com/hengyunabc}{hengyunabc}"
 
 honors:
+  - title: Travel Funding for \textbf{Google} Blockly Summit
+    year: 2024 -- 2025
   - title: \textbf{Aalto University School of Science} Dean's Incentive Scholarship
     year: 2023 -- 2024
   - title: SECCLO \textbf{Erasmus Mundus} Scholarship
@@ -226,8 +228,6 @@ honors:
     descr: To speak at the LFX Mentorship Showcase
     year: 2024
   - title: Certified Kubernetes Security Specialist (\href{https://www.cncf.io/training/certification/cks/}{CKS}), \textbf{CNCF}
-    year: 2024
-  - title: Travel Funding for \textbf{Google} Blockly Summit 2024
     year: 2024
   - title: \href{https://rsvp.withgoogle.com/events/blockly-summit-2024/speaker-guidelines#:~:text=Watch%20these%20great%20presentations%20below%20to%20get%20inspired!}{Recommended Talk} for \textbf{Google} Blockly Summit 2023
     year: 2024
@@ -393,7 +393,7 @@ service:
     - "\\href{https://delta-workshop.github.io/}{Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy at \\textbf{ICLR} 2025}"
     - "\\href{https://sites.google.com/view/genai-watermark/home}{Workshop on GenAI Watermarking at \\textbf{ICLR} 2025}"
     - "\\href{https://fm-wild-community.github.io/}{Workshop on Foundation Models in the Wild at \\textbf{ICLR} 2025}"
-    - "\\href{https://fm-wild-community.github.io/}{Workshop XAI4Science at \\textbf{ICLR} 2025}"
+    - "\\href{https://xai4science.github.io/}{Workshop XAI4Science at \\textbf{ICLR} 2025}"
     - "\\href{https://ic-greenai.in/}{International Conference on Green Artificial Intelligence and Industrial Applications (\\textbf{GreenAI} 2025)}"
     - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2024}"
     - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at \\textbf{NeurIPS} 2024}"

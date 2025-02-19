@@ -399,11 +399,12 @@ def get_pub_summary(bibtex_file):
     summary += '.'
     return summary
 
-def truncate_to_k(num):
-    num_k = math.trunc(num/100)/10
+def round_to_k(num):
+    num_k = round(num / 100) / 10
     num_k = f'{num_k:.1f}'
-    num_k = num_k[:-2] if num_k.endswith('.0') else num_k
-    return f"{num_k}k+"
+    if num_k.endswith('.0'):
+        num_k = num_k[:-2]
+    return f"{num_k}k"
 
 
 def add_repo_data(context, config, in_tex):
@@ -492,7 +493,7 @@ def add_repo_data(context, config, in_tex):
             item['rank'] = sorted(rank_data, reverse=True).index(commits) + 1
         print(short_name, "done!")
 
-    return truncate_to_k(total_stars), truncate_to_k(followers)
+    return round_to_k(total_stars), round_to_k(followers)
 
 def get_scholar_stats(scholar_id):
     scholar_stats = shelve.open('scholar_stats.shelf')
