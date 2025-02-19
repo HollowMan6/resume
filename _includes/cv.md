@@ -304,6 +304,15 @@ many others.
 <table class="table table-hover">
 <tr>
   <td>
+  <div style='float: right'>2024&nbsp;-&nbsp;2025</div>
+  <div>
+        Travel Funding for <b>Google</b> Blockly Summit
+  </div>
+  </td>
+  <!-- <td class='col-md-2' style='text-align:right;'>2024&nbsp;-&nbsp;2025</td> -->
+</tr>
+<tr>
+  <td>
   <div style='float: right'>2023&nbsp;-&nbsp;2024</div>
   <div>
         <b>Aalto University School of Science</b> Dean's Incentive Scholarship
@@ -346,15 +355,6 @@ many others.
   <div style='float: right'>2024</div>
   <div>
         Certified Kubernetes Security Specialist (<a href="https://www.cncf.io/training/certification/cks/" target="_blank">CKS</a>), <b>CNCF</b>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2024</div>
-  <div>
-        Travel Funding for <b>Google</b> Blockly Summit 2024
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
@@ -537,8 +537,8 @@ many others.
 
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
-1.5k+ GitHub followers.
-106.4k+ GitHub stars across all of the following selected repositories:
+1.6k GitHub followers.
+106.7k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,7 +546,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 4.7k |
+    <i class="fa fas fa-star"></i> 4.8k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 12 commits, 248 lines of additions and 83 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 39k |
+    <i class="fa fas fa-star"></i> 39.1k |
     <em>RAG Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #80 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -576,7 +576,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 852 |
+    <i class="fa fas fa-star"></i> 853 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -606,7 +606,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 734 |
+    <i class="fa fas fa-star"></i> 735 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -628,7 +628,7 @@ many others.
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
     <i class="fa fas fa-star"></i> 168 |
     <em>MdBook backend for PDF Generation</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 47 commits, 3299 lines of additions and 603 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 49 commits, 3307 lines of additions and 608 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -696,7 +696,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
-    <i class="fa fas fa-star"></i> 3.1k |
+    <i class="fa fas fa-star"></i> 3.2k |
     <em>Emacs Application Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
   </td>
@@ -832,7 +832,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://fm-wild-community.github.io/" target="_blank">Workshop on Foundation Models in the Wild at <b>ICLR</b> 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://fm-wild-community.github.io/" target="_blank">Workshop XAI4Science at <b>ICLR</b> 2025</a></td>
+  <td style='padding-right:0;'><a href="https://xai4science.github.io/" target="_blank">Workshop XAI4Science at <b>ICLR</b> 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://ic-greenai.in/" target="_blank">International Conference on Green Artificial Intelligence and Industrial Applications (<b>GreenAI</b> 2025)</a></td>
