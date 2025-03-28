@@ -349,8 +349,8 @@ repos:
 talks:
   - year: 09/2024
     location: \textbf{Open Source Summit} Europe
-    url: https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7
-    title: \href{https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s}{Fully Automated Release and Code Review with CI/CD}
+    url: https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s
+    title: \href{https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7}{Fully Automated Release and Code Review with CI/CD}
   - year: 06/2023
     location: \textbf{Aalto} University Secure Systems Demo Day
     url: https://ssg.aalto.fi/events/secure-systems-demo-day-2023/
@@ -369,7 +369,7 @@ talks:
     title: \href{https://github.com/HollowMan6/My-openEuler-Open-Source-Internship}{Summary of my Open Source Internship}
   - year: 05/2021
     location: \textbf{openEuler} University Developer Competition
-    url: https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34
+    url: https://web.archive.org/web/20240606191858/https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34
     title: \href{https://github.com/HollowMan6/My-openEuler-University-Developer-Competition}{Update Notification Program in Python}
   - year: 08/2020
     location: \textbf{Alibaba} Summer of Code Presentation
