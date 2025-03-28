@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-106.7k GitHub stars across all of the following selected repositories:
+109.7k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,9 +546,9 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 4.8k |
+    <i class="fa fas fa-star"></i> 6k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 12 commits, 248 lines of additions and 83 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 21 commits, 444 lines of additions and 138 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -556,9 +556,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 39.1k |
+    <i class="fa fas fa-star"></i> 40.5k |
     <em>RAG Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #80 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #83 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 10.4k |
+    <i class="fa fas fa-star"></i> 10.6k |
     <em>Kubernetes Security Platform</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
@@ -576,7 +576,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 853 |
+    <i class="fa fas fa-star"></i> 866 |
     <em>Immersive VR Browser</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
@@ -598,7 +598,7 @@ many others.
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
     <i class="fa fas fa-star"></i> 2.5k |
     <em>Chrome DevTools Protocol in Rust</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #13 among all contributors with 6 commits, 81 lines of additions and 11 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #12 among all contributors with 7 commits, 87 lines of additions and 12 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 735 |
+    <i class="fa fas fa-star"></i> 747 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -616,7 +616,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 147 |
+    <i class="fa fas fa-star"></i> 145 |
     <em>Bitcoin Packages for Debian</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -626,9 +626,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 168 |
+    <i class="fa fas fa-star"></i> 171 |
     <em>MdBook backend for PDF Generation</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 49 commits, 3307 lines of additions and 608 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 57 commits, 3472 lines of additions and 700 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -646,9 +646,9 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 72 |
+    <i class="fa fas fa-star"></i> 73 |
     <em>Full Customization of IBus UI</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 366 commits, 51709 lines of additions and 38654 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 368 commits, 53677 lines of additions and 40636 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
-    <i class="fa fas fa-star"></i> 23 |
+    <i class="fa fas fa-star"></i> 24 |
     <em>GitHub action for WeChat Message</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
   </td>
@@ -666,7 +666,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 26 |
+    <i class="fa fas fa-star"></i> 29 |
     <em>IBus Themes CSS Hub</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -686,7 +686,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 36k |
+    <i class="fa fas fa-star"></i> 36.1k |
     <em>Java Diagnostic Tool</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -706,7 +706,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 159 |
+    <i class="fa fas fa-star"></i> 165 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -733,8 +733,8 @@ Content, Link to the talk, and Date:
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
-     <em><a href="https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
-        <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank"><b>Open Source Summit</b> Europe</a>
+     <em><a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
+        <a href="https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s" target="_blank"><b>Open Source Summit</b> Europe</a>
   </td>
 </tr>
 <tr>
@@ -774,7 +774,7 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'>
     <span class='cvdate'>05/2021</span>
      <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
-        <a href="https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank"><b>openEuler</b> University Developer Competition</a>
+        <a href="https://web.archive.org/web/20240606191858/https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank"><b>openEuler</b> University Developer Competition</a>
   </td>
 </tr>
 <tr>
