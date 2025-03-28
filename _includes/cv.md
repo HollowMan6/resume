@@ -733,7 +733,7 @@ Content, Link to the talk, and Date:
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td style='padding-right:0;'>
     <span class='cvdate'>09/2024</span>
-     <em><a href="https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
+     <em><a href="https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
         <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank"><b>Open Source Summit</b> Europe</a>
   </td>
 </tr>
