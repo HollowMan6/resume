@@ -291,6 +291,12 @@ all_publications:
     'Songlin Jiang': 'https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ'
 
 repos:
+  - repo_url: https://github.com/deepspeedai/DeepSpeed
+    year: 2025
+    desc: Training Framework
+  - repo_url: https://github.com/zhuzilin/ring-flash-attention
+    year: 2025
+    desc: Ring Attention
   - repo_url: https://github.com/OpenRLHF/OpenRLHF
     year: 2024
     desc: RLHF Framework
