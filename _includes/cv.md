@@ -33,7 +33,7 @@ many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Reliable Distributed Systems</b>
-            <br> • Thesis: <a href="https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/DTU_Songlin_Jiang_Msc_Thesis.pdf" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
+            <br> • Thesis: <a href="https://findit.dtu.dk/en/catalog/66a980cc5f3dd2e8f365f026" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
             <br> • Supervisor: <a href="https://orbit.dtu.dk/en/persons/bernd-dammann" target="_blank">Prof. Bernd Dammann</a>
         </p>
     </td>
@@ -46,7 +46,7 @@ many others.
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
             <br> • Specialization: <b>Security and Cloud Computing</b>
-            <br> • Thesis: <a href="https://github.com/HollowMan6/HPC-GPU-Alert/blob/main/Aalto_Songlin_Jiang_Msc_Thesis.pdf" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
+            <br> • Thesis: <a href="https://aaltodoc.aalto.fi/items/cb31c776-8bff-494d-8917-747abccada1c" target="_blank">Real-Time GPU Usage Alert Service for Pre-Exascale HPC Clusters</a>
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
         </p>
     </td>
@@ -172,7 +172,7 @@ many others.
   <br> • Develop the <b>GPU monitoring service</b> for HPC clusters (NVIDIA and AMD GPUs, including LUMI)
   <br> • Develop the Documentation GPT chatbot service using <a href="https://twitter.com/llama_index/status/1671537854802202624" target="_blank"><b>llamaIndex</b></a>, <b>LangChain</b> and <b>Redis</b>/<b>Qdrant</b>
   <br> • Make <a href="https://github.com/OSC/ondemand/pull/2958" target="_blank">improvements</a> to the HPC web operating interface project <i>Open OnDemand</i> using <b>Ruby on Rails</b>
-  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer TOP500 list by 06/2023
+  <br> • LUMI ranked <b>3rd</b> around the world and <b>1st in Europe</b> at HPC supercomputer <a href="https://top500.org/lists/top500/2023/06/" target="_blank">TOP500 list by 06/2023</a>
   </p>
   </td>
 </tr>
@@ -306,7 +306,7 @@ many others.
   <td>
   <div style='float: right'>2024&nbsp;-&nbsp;2025</div>
   <div>
-        Travel Funding for <b>Google</b> Blockly Summit
+        Travel Funding for <a href="https://developers.google.com/blockly/summits/summits" target="_blank"><b>Google</b> Blockly Summit</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024&nbsp;-&nbsp;2025</td> -->
@@ -324,7 +324,7 @@ many others.
   <td>
   <div style='float: right'>2022&nbsp;-&nbsp;2024</div>
   <div>
-        SECCLO <b>Erasmus Mundus</b> Scholarship
+        SECCLO <b>Erasmus Mundus</b> <a href="https://www.secclo.eu/scholarships-and-fees/scholarship-and-fees/" target="_blank">Scholarship</a>
     <br><p style="color:grey;font-size:1.4rem">(26/767) Full-ride scholarship, includes full tuition fee waiver, covers all living costs and travel expenses</p>
   </div>
   </td>
@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-149.6k GitHub stars across all of the following selected repositories:
+150k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,8 +546,8 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 38k |
-    <em>Training Framework</em>
+    <i class="fa fas fa-star"></i> 38.1k |
+    <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #65 among all contributors with 6 commits, 29 lines of additions and 4 lines of deletions</p>
   </td>
 </tr>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 738 |
+    <i class="fa fas fa-star"></i> 747 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -566,9 +566,9 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 6.3k |
-    <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 30 commits, 507 lines of additions and 157 lines of deletions</p>
+    <i class="fa fas fa-star"></i> 6.4k |
+    <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 31 commits, 510 lines of additions and 161 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -576,8 +576,8 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 41k |
-    <em>RAG Framework</em>
+    <i class="fa fas fa-star"></i> 41.2k |
+    <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #86 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
@@ -587,7 +587,7 @@ many others.
     <span class='cvdate'>2023</span>
     <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
     <i class="fa fas fa-star"></i> 10.7k |
-    <em>Kubernetes Security Platform</em>
+    <em><a href="https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/" target="_blank">Kubernetes Security Platform</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
 </tr>
@@ -596,8 +596,8 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 873 |
-    <em>Immersive VR Browser</em>
+    <i class="fa fas fa-star"></i> 875 |
+    <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 144 commits, 9931 lines of additions and 4186 lines of deletions</p>
   </td>
 </tr>
@@ -607,7 +607,7 @@ many others.
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
     <i class="fa fas fa-star"></i> 8.6k |
-    <em>Machine Learning System</em>
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Machine Learning System</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #58 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
 </tr>
@@ -637,7 +637,7 @@ many others.
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
     <i class="fa fas fa-star"></i> 144 |
-    <em>Bitcoin Packages for Debian</em>
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-summer-of-bitcoin-2022-project-ci-for-cadr/" target="_blank">Bitcoin Packages for Debian</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
 </tr>
@@ -646,8 +646,8 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 173 |
-    <em>MdBook backend for PDF Generation</em>
+    <i class="fa fas fa-star"></i> 174 |
+    <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 57 commits, 3472 lines of additions and 700 lines of deletions</p>
   </td>
 </tr>
@@ -657,7 +657,7 @@ many others.
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
     <i class="fa fas fa-star"></i> 13 |
-    <em>Blockly Multi-Select Plugin</em>
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Blockly Multi-Select Plugin</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 48 commits, 17639 lines of additions and 24679 lines of deletions</p>
   </td>
 </tr>
@@ -666,8 +666,8 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 73 |
-    <em>Full Customization of IBus UI</em>
+    <i class="fa fas fa-star"></i> 75 |
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 368 commits, 53677 lines of additions and 40636 lines of deletions</p>
   </td>
 </tr>
@@ -677,7 +677,7 @@ many others.
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
     <i class="fa fas fa-star"></i> 24 |
-    <em>GitHub action for WeChat Message</em>
+    <em><a href="https://dev.to/hollowman6/github-issues-to-wechat-4klk" target="_blank">GitHub action for WeChat Message</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
   </td>
 </tr>
@@ -687,7 +687,7 @@ many others.
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
     <i class="fa fas fa-star"></i> 29 |
-    <em>IBus Themes CSS Hub</em>
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Themes CSS Hub</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
 </tr>
@@ -696,8 +696,8 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 18 |
-    <em>IBus Theme Generator</em>
+    <i class="fa fas fa-star"></i> 19 |
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Theme Generator</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
 </tr>
@@ -707,7 +707,7 @@ many others.
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
     <i class="fa fas fa-star"></i> 36.2k |
-    <em>Java Diagnostic Tool</em>
+    <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
 </tr>
@@ -717,7 +717,7 @@ many others.
     <span class='cvdate'>2020</span>
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
     <i class="fa fas fa-star"></i> 3.2k |
-    <em>Emacs Application Framework</em>
+    <em><a href="https://github.com/HollowMan6/My-OSPP-Summer/blob/master/2020-69-2012153/2020-Final-Report.md" target="_blank">Emacs Application Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
   </td>
 </tr>
@@ -1008,7 +1008,7 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 <tr>
   <td class='col-md-2'><b>Frameworks</b></td>
   <td>
-<a href="https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767" target="_blank">Kubernetes</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, <a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, <a href="https://github.com/pytorch/pytorch/issues/141678" target="_blank">PyTorch</a>, Pandas, GitHub Actions, Flutter, React, QT ...
+<a href="https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767" target="_blank">Kubernetes</a>, <a href="https://github.com/tensorflow/tensorflow/pull/43570" target="_blank">TensorFlow</a>, <a href="https://github.com/moby/moby/issues/44450" target="_blank">Docker</a>, <a href="https://github.com/pytorch/pytorch/pull/149464" target="_blank">PyTorch</a>, Pandas, GitHub Actions, Flutter, React, QT ...
   </td>
 </tr>
 <tr>
