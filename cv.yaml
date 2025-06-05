@@ -297,6 +297,9 @@ repos:
   - repo_url: https://github.com/zhuzilin/ring-flash-attention
     year: 2025
     desc: Ring Attention
+  - repo_url: https://github.com/volcengine/verl
+    year: 2025
+    desc: RLHF Framework
   - repo_url: https://github.com/OpenRLHF/OpenRLHF
     year: 2024
     desc: \href{https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html}{RLHF Framework}
