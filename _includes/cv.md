@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-161.5k GitHub stars across all of the following selected repositories:
+161.7k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -548,7 +548,7 @@ many others.
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
     <i class="fa fas fa-star"></i> 38.7k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #52 among all contributors with 8 commits, 108 lines of additions and 39 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #53 among all contributors with 8 commits, 108 lines of additions and 39 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 776 |
+    <i class="fa fas fa-star"></i> 778 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -566,7 +566,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 9k |
+    <i class="fa fas fa-star"></i> 9.1k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #28 among all contributors with 4 commits, 111 lines of additions and 54 lines of deletions</p>
   </td>
@@ -586,7 +586,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 42.1k |
+    <i class="fa fas fa-star"></i> 42.2k |
     <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #85 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -841,6 +841,9 @@ Content, Link to the talk, and Date:
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Student Research Workshop (SRW) at <b>ACL</b> 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025/organizers" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
