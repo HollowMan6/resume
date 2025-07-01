@@ -500,8 +500,8 @@ def add_repo_data(context, config, in_tex):
 def get_scholar_stats(scholar_id):
     scholar_stats = shelve.open('scholar_stats.shelf')
     if 'h_index' not in scholar_stats:
-        author = scholarly.search_author_id(scholar_id)
-        author = scholarly.fill(author, sections=['indices'])
+        # author = scholarly.search_author_id(scholar_id)
+        # author = scholarly.fill(author, sections=['indices'])
         scholar_stats['h_index'] = 1
         scholar_stats['citations'] = 2
         # scholar_stats['h_index'] = author['hindex']
