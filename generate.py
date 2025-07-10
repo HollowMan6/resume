@@ -503,7 +503,7 @@ def get_scholar_stats(scholar_id):
         # author = scholarly.search_author_id(scholar_id)
         # author = scholarly.fill(author, sections=['indices'])
         scholar_stats['h_index'] = 1
-        scholar_stats['citations'] = 2
+        scholar_stats['citations'] = 47
         # scholar_stats['h_index'] = author['hindex']
         # citation = 0
         # if 'citedby' in author:
