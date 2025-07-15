@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-165.4k GitHub stars across all of the following selected repositories:
+166k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,7 +546,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 39.3k |
+    <i class="fa fas fa-star"></i> 39.4k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 799 |
+    <i class="fa fas fa-star"></i> 803 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -566,9 +566,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 10.7k |
+    <i class="fa fas fa-star"></i> 11k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #19 among all contributors with 8 commits, 293 lines of additions and 215 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #19 among all contributors with 10 commits, 326 lines of additions and 257 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -576,7 +576,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 7.3k |
+    <i class="fa fas fa-star"></i> 7.4k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
@@ -586,8 +586,9 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 43k |
+    <i class="fa fas fa-star"></i> 43.1k |
     <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #92 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -605,7 +606,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 892 |
+    <i class="fa fas fa-star"></i> 893 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -634,7 +635,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 759 |
+    <i class="fa fas fa-star"></i> 761 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -694,7 +695,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 29 |
+    <i class="fa fas fa-star"></i> 30 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Themes CSS Hub</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -704,7 +705,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 20 |
+    <i class="fa fas fa-star"></i> 21 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Theme Generator</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
@@ -977,7 +978,7 @@ Content, Link to the talk, and Date:
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 47 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 146 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
