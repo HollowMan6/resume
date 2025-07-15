@@ -1,0 +1,14 @@
+#!/bin/bash
+# Pre-commit hook to update scholar stats in generate.py
+
+# Change to repository root
+cd "$(git rev-parse --show-toplevel)"
+
+# Run the scholar stats update script
+python3 scripts/update_scholar_stats.py
+
+# Add the updated generate.py to the commit if it was changed
+if git diff --name-only | grep -q "generate.py"; then
+    git add generate.py
+    echo "Updated scholar stats in generate.py and added to commit"
+fi

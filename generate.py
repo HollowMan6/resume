@@ -498,15 +498,18 @@ def add_repo_data(context, config, in_tex):
     return round_to_k(total_stars), round_to_k(followers)
 
 def get_scholar_stats(scholar_id):
-    scholar_stats = shelve.open('scholar_stats.shelf')
-    if 'h_index' not in scholar_stats:
+    scholar_stats = {}
+    try:
         author = scholarly.search_author_id(scholar_id)
         author = scholarly.fill(author, sections=['indices'])
-        scholar_stats['h_index'] = author['hindex']
-        citation = 0
-        if 'citedby' in author:
-            citation = author['citedby']
-        scholar_stats['citations'] = citation #round_to_k(citation)
+    except Exception as e:
+        print(f"Error fetching Google Scholar data for {scholar_id}: {e}")
+        author = {'hindex': 1, 'citedby': 146}
+    scholar_stats['h_index'] = author['hindex']
+    citation = 0
+    if 'citedby' in author:
+        citation = author['citedby']
+    scholar_stats['citations'] = citation #round_to_k(citation)
     return scholar_stats
 
 
