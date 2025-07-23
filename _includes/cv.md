@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-166k GitHub stars across all of the following selected repositories:
+166.8k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,7 +546,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 39.4k |
+    <i class="fa fas fa-star"></i> 39.5k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 803 |
+    <i class="fa fas fa-star"></i> 811 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -566,9 +566,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 11k |
+    <i class="fa fas fa-star"></i> 11.3k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #19 among all contributors with 10 commits, 326 lines of additions and 257 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #20 among all contributors with 10 commits, 326 lines of additions and 257 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -576,9 +576,9 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 7.4k |
+    <i class="fa fas fa-star"></i> 7.5k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #4 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -586,9 +586,8 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 43.1k |
+    <i class="fa fas fa-star"></i> 43.3k |
     <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #92 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -606,7 +605,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 893 |
+    <i class="fa fas fa-star"></i> 894 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -635,7 +634,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 761 |
+    <i class="fa fas fa-star"></i> 760 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -655,7 +654,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 185 |
+    <i class="fa fas fa-star"></i> 186 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 57 commits, 3472 lines of additions and 700 lines of deletions</p>
   </td>
@@ -735,7 +734,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 171 |
+    <i class="fa fas fa-star"></i> 174 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -850,6 +849,9 @@ Content, Link to the talk, and Date:
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Student Research Workshop (SRW) at <b>ACL</b> 2025</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://berts-workshop.github.io/" target="_blank">Workshop Recent Advances in Time Series Foundation Models (BERT2S) at <b>NeurIPS</b> 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Workshop SoLaR at Conference on Language Modeling (<b>COLM</b>) 2025</a></td>
@@ -978,7 +980,7 @@ Content, Link to the talk, and Date:
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 146 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 147 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
@@ -994,7 +996,7 @@ Content, Link to the talk, and Date:
 [<a href='javascript:;'
     onclick='$("#abs_hu2025openrlhfeasytousescalablehighperformance").toggle()'>abstract</a>]<br>
 Jian&nbsp;Hu, Xibin&nbsp;Wu, Wei&nbsp;Shen, Jason&nbsp;Klein&nbsp;Liu, Zilin&nbsp;Zhu, Weixun&nbsp;Wang, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, Haoran&nbsp;Wang, Hao&nbsp;Chen, Bin&nbsp;Chen, Weikai&nbsp;Fang, Xianyu, Yu&nbsp;Cao, Haotian&nbsp;Xu, and Yiming&nbsp;Liu<br>
-2405.11143 cs.AI arXiv 2025  <br>
+arXiv preprint cs.AI arXiv:2405.11143 2025  <br>
 
 <div id="abs_hu2025openrlhfeasytousescalablehighperformance" style="text-align: justify; display: none" markdown="1">
 Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF)
