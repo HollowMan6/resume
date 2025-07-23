@@ -399,6 +399,7 @@ service:
     - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (\\textbf{MIDL}) 2025}"
     - "\\href{https://neurips.cc/Conferences/2025/ProgramCommittee}{Neural Information Processing Systems (\\textbf{NeurIPS}) Datasets \\& Benchmarks Track 2025}"
     - "\\href{https://acl2025-srw.github.io/}{Student Research Workshop (SRW) at \\textbf{ACL} 2025}"
+    - "\\href{https://berts-workshop.github.io/}{Workshop Recent Advances in Time Series Foundation Models (BERT2S) at \\textbf{NeurIPS} 2025}"
     - "\\href{https://acl2025-srw.github.io/}{Workshop SoLaR at Conference on Language Modeling (\\textbf{COLM}) 2025}"
     - "\\href{https://sites.google.com/view/dai-2025/organizers}{Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (\\textbf{AAAI}) 2025}"
     - "\\href{https://sites.google.com/view/marw-ai-agents}{Multi-Agent AI in the Real World (MARW) Workshop at \\textbf{AAAI} 2025}"
