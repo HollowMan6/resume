@@ -538,7 +538,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-170k GitHub stars across all of the following selected repositories:
+170.2k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -546,7 +546,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 39.9k |
+    <i class="fa fas fa-star"></i> 40k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 850 |
+    <i class="fa fas fa-star"></i> 854 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -566,9 +566,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 12.8k |
+    <i class="fa fas fa-star"></i> 12.9k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #20 among all contributors with 13 commits, 474 lines of additions and 283 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #17 among all contributors with 14 commits, 493 lines of additions and 291 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -655,7 +655,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 187 |
+    <i class="fa fas fa-star"></i> 186 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 59 commits, 3487 lines of additions and 714 lines of deletions</p>
   </td>
@@ -834,19 +834,22 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank">Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2025</a></td>
 </tr>
 <tr>
+  <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank">Neural Information Processing Systems (<b>NeurIPS</b>) 2025 Datasets & Benchmarks Track</a></td>
+</tr>
+<tr>
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2025/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://2025.ijcai.org/program-committee/" target="_blank">International Joint Conference on Artificial Intelligence (<b>IJCAI</b>) 2025</a></td>
+  <td style='padding-right:0;'><a href="https://certificates.ijcai.org/?q=reviewers&y=2025&id=5f98af2d-1135-4faf-a43b-a7cb50599741" target="_blank">International Joint Conference on Artificial Intelligence (<b>IJCAI</b>) 2025 Survey Track</a></td>
+</tr>
+<tr>
+  <td style='padding-right:0;'><a href="https://certificates.ijcai.org/?q=reviewers&y=2025&id=7b87536f-ebf3-42c3-a567-c82e63a8b09f" target="_blank"><b>IJCAI</b> 2025 Special Track on AI for Social Good</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.ijcnn.org/about/organizing-committee" target="_blank">International Joint Conference on Neural Networks (<b>IJCNN</b>) 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank">Neural Information Processing Systems (<b>NeurIPS</b>) Datasets & Benchmarks Track 2025</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Student Research Workshop (SRW) at <b>ACL</b> 2025</a></td>
@@ -987,7 +990,7 @@ Content, Link to the talk, and Date:
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 168 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 173 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
