@@ -28,7 +28,7 @@ order:
   - [patents, Software Copyrights]
   - [all_publications, Publications]
   - [skills, Skills]
-  - [coursework, Courses]
+  # - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
@@ -392,6 +392,7 @@ service:
       year: 2021 -- Present
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
+    - "\\href{https://iclr.cc/Conferences/2026/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2026}"
     - "\\href{https://neurips.cc/Conferences/2025/ProgramCommittee}{Annual Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2025}"
     - "\\href{https://neurips.cc/Conferences/2025/ProgramCommittee}{Neural Information Processing Systems (\\textbf{NeurIPS}) 2025 Datasets \\& Benchmarks Track}"
     - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2025}"
