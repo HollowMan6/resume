@@ -1,3 +1,7 @@
+As a doctoral researcher, my focus is on improving Reinforcement Learning &
+Large Language Models (LLMs) training and inference latency on High-Performance
+Computing (HPC) clusters & edge devices.
+
 I find immense joy in pushing my boundaries by tackling complex issues
 that have the potential to positively impact the public. My fervor
 converges with enhancing <b>computer systems</b>,
@@ -22,6 +26,8 @@ many others.
             <br> • Specialization: <b>Machine Learning Systems & Databases</b>
             <br> • Funding: <a href="https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain" target="_blank">Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCoDe)</a>
             <br> • Supervisor: <a href="https://www.aalto.fi/en/people/mario-di-francesco" target="_blank">Prof. Mario Di Francesco</a>, Thesis Advisor: <a href="https://www.aalto.fi/en/people/bo-zhao" target="_blank">Prof. Bo Zhao</a>
+            <br> • Teaching Assistant: 2025 - now, Cloud Software and Systems D.  <a href="https://courses.aalto.fi/s/course/a05Qt000006soKSIAY/cloud-software-and-systems-d" target="_blank">CS-E4190</a>
+            <br> • Teaching Assistant: 2024, Scalable Systems and Data Management D.  <a href="https://courses.aalto.fi/s/course/a05Qt000006soQxIAI/scalable-systems-and-data-management-d" target="_blank">CS-E4780</a>
         </p>
     </td>
   </tr>
@@ -80,6 +86,18 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
+<tr>
+  <td style='padding-right:0;'>
+<span class='cvdate'>04/2025&nbsp;-&nbsp;08/2025</span>
+<p markdown="1" style='margin: 0'><strong>Reinforcement Learning Algorithm Engineer</strong>, <em>xDAN AI</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(Agentic RL training with verl)
+</span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Developing solutions for Agentic LLMs training using reinforcement learning
+  <br> • Targeting areas include coding, math, finance, deep researcher, and RAG enhancement
+  </p>
+  </td>
+</tr>
 <tr>
   <td style='padding-right:0;'>
 <span class='cvdate'>01/2025</span>
@@ -300,6 +318,368 @@ many others.
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Open Source Repositories
+1.6k GitHub followers.
+171.4k GitHub stars across all of the following selected repositories:
+
+<table class="table table-hover">
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
+  <td>
+    <span class='cvdate'>2025</span>
+    <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
+    <i class="fa fas fa-star"></i> 40.1k |
+    <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td>
+    <span class='cvdate'>2025</span>
+    <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
+    <i class="fa fas fa-star"></i> 872 |
+    <em>Ring Attention</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
+  <td>
+    <span class='cvdate'>2025</span>
+    <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
+    <i class="fa fas fa-star"></i> 13.5k |
+    <em>RLHF Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #14 among all contributors with 19 commits, 854 lines of additions and 618 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
+  <td>
+    <span class='cvdate'>2024</span>
+    <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
+    <i class="fa fas fa-star"></i> 8k |
+    <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
+  <td>
+    <span class='cvdate'>2023</span>
+    <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
+    <i class="fa fas fa-star"></i> 44.3k |
+    <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #95 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
+  <td>
+    <span class='cvdate'>2023</span>
+    <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
+    <i class="fa fas fa-star"></i> 11k |
+    <em><a href="https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/" target="_blank">Kubernetes Security Platform</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
+  <td>
+    <span class='cvdate'>2023</span>
+    <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
+    <i class="fa fas fa-star"></i> 903 |
+    <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
+    <i class="fa fas fa-star"></i> 8.6k |
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Machine Learning System</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #58 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
+    <i class="fa fas fa-star"></i> 2.7k |
+    <em>Chrome DevTools Protocol in Rust</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #12 among all contributors with 7 commits, 87 lines of additions and 12 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
+    <i class="fa fas fa-star"></i> 763 |
+    <em>Multi-Select UI Library</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
+    <i class="fa fas fa-star"></i> 144 |
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-summer-of-bitcoin-2022-project-ci-for-cadr/" target="_blank">Bitcoin Packages for Debian</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
+    <i class="fa fas fa-star"></i> 188 |
+    <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 61 commits, 3515 lines of additions and 742 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
+  <td>
+    <span class='cvdate'>2022</span>
+    <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
+    <i class="fa fas fa-star"></i> 14 |
+    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Blockly Multi-Select Plugin</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 50 commits, 18358 lines of additions and 25270 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
+  <td>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
+    <i class="fa fas fa-star"></i> 78 |
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 371 commits, 53904 lines of additions and 40932 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
+  <td>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
+    <i class="fa fas fa-star"></i> 23 |
+    <em><a href="https://dev.to/hollowman6/github-issues-to-wechat-4klk" target="_blank">GitHub action for WeChat Message</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
+  <td>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
+    <i class="fa fas fa-star"></i> 30 |
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Themes CSS Hub</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
+  <td>
+    <span class='cvdate'>2021</span>
+    <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
+    <i class="fa fas fa-star"></i> 21 |
+    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Theme Generator</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>18.</td>
+  <td>
+    <span class='cvdate'>2020</span>
+    <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
+    <i class="fa fas fa-star"></i> 36.7k |
+    <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>19.</td>
+  <td>
+    <span class='cvdate'>2020</span>
+    <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
+    <i class="fa fas fa-star"></i> 3.3k |
+    <em><a href="https://github.com/HollowMan6/My-OSPP-Summer/blob/master/2020-69-2012153/2020-Final-Report.md" target="_blank">Emacs Application Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>20.</td>
+  <td>
+    <span class='cvdate'>2020</span>
+    <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
+    <i class="fa fas fa-star"></i> 175 |
+    <em>TinyML Programs for ESP32</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>21.</td>
+  <td>
+    <span class='cvdate'>2020</span>
+    <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
+    <i class="fa fas fa-star"></i> 26 |
+    <em>Super Resolution Model</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
+  </td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Publications
+
+<!-- [<a href="https://github.com/HollowMan/resume/blob/master/publications/all.bib" target="_blank">BibTeX</a>] -->
+<!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
+<!-- I most frequently publish at . -->
+<!-- <br> -->
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 176 citations with h-index of 1]
+<br>
+
+<h2>2025</h2>
+<table class="table table-hover">
+
+<tr id="tr-hu2025openrlhfeasytousescalablehighperformance" style="background-color: #ffffd0">
+<td align='right' style='padding-left:0;padding-right:0;'>
+1.
+</td>
+<td>
+<img src="images/publications/hu2025openrlhfeasytousescalablehighperformance.png" onerror="this.style.display='none'" class="publicationImg" />
+<em><a href="https://arxiv.org/abs/2405.11143" target="_blank">OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework</a></em> 
+[<a href='javascript:;'
+    onclick='$("#abs_hu2025openrlhfeasytousescalablehighperformance").toggle()'>abstract</a>]<br>
+Jian&nbsp;Hu, Xibin&nbsp;Wu, Wei&nbsp;Shen, Jason&nbsp;Klein&nbsp;Liu, Zilin&nbsp;Zhu, Weixun&nbsp;Wang, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, Haoran&nbsp;Wang, Hao&nbsp;Chen, Bin&nbsp;Chen, Weikai&nbsp;Fang, Xianyu, Yu&nbsp;Cao, Haotian&nbsp;Xu, and Yiming&nbsp;Liu<br>
+Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>) System Demonstrations 2025  <br>
+
+<div id="abs_hu2025openrlhfeasytousescalablehighperformance" style="text-align: justify; display: none" markdown="1">
+Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF)
+and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI
+values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context
+Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such
+as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this
+gap, we introduce OpenRLHF, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon
+Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and
+comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show
+that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22x to 1.68x across different
+model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for
+implementation. OpenRLHF is publicly available at <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">this https URL</a>,
+and has already been adopted by leading institutions to accelerate RLHF research and learning.
+
+</div>
+
+</td>
+</tr>
+
+</table>
+<h2>2019</h2>
+<table class="table table-hover">
+
+<tr id="tr-votingsystemwechatpay" >
+<td align='right' style='padding-left:0;padding-right:0;'>
+2.
+</td>
+<td>
+<img src="images/publications/votingsystemwechatpay.png" onerror="this.style.display='none'" class="publicationImg" />
+<em><a href="https://qikan.cqvip.com/Qikan/Article/Detail?id=7001708234" target="_blank">Voting System Based on Wechat Pay</a></em> 
+[<a href='javascript:;'
+    onclick='$("#abs_votingsystemwechatpay").toggle()'>abstract</a>]<br>
+<strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong><br>
+Computer Engineering & Software 2019  <br>
+
+<div id="abs_votingsystemwechatpay" style="text-align: justify; display: none" markdown="1">
+
+In contemporary society, there are problems existed in the online voting
+systems such as repeated fraudulent voting, data tampering, loss of voting data,
+and failure to verify the outcome of the voting data, and these problems causes
+inconvenience to the users. Meanwhile, the mobile pay systems represented by
+Wechat pay are distinguished due to its safety and convenience. If we combine
+the voting system with Wechat pay, a huge difference will be made. My system
+is based on Wechat pay. When you want to vote, you just need to pay a little,
+then a refund will give to you to ensure that the voting is real. The system can
+double check the voting record by checking the trading record saved on the Wechat
+Sever. As a result, the system provides users with a safe and fair environment to
+vote and it also reduces the developing cost.
+
+</div>
+
+</td>
+</tr>
+
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Invited Talks
+
+Content, Link to the talk, and Date:
+
+<table class="table table-hover">
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>09/2024</span>
+     <em><a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
+        <a href="https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s" target="_blank"><b>Open Source Summit</b> Europe</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>06/2023</span>
+     <em><a href="https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf" target="_blank">Virtual Network Systems among Containers</a></em>,
+        <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/" target="_blank"><b>Aalto</b> University Secure Systems Demo Day</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>06/2023</span>
+     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Multi-Select Plugin</a></em>,
+        <a href="https://www.youtube.com/watch?v=4OFU9D1Y2DI" target="_blank"><b>Google</b> Blockly Summit</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>08/2022</span>
+     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Native CSV Parser</a></em>,
+        <a href="https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s" target="_blank"><b>Microsoft Research</b> NYC Seminar (RLOSFest)</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>08/2022</span>
+     <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship</a></em>,
+        <a href="https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3" target="_blank"><b>openEuler</b> Excellent Intern Seminar</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>05/2021</span>
+     <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
+        <a href="https://web.archive.org/web/20240606191858/https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank"><b>openEuler</b> University Developer Competition</a>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
+  <td style='padding-right:0;'>
+    <span class='cvdate'>08/2020</span>
+     <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas</a></em>,
+        <a href="https://www.bilibili.com/video/BV1ih41197m3" target="_blank"><b>Alibaba</b> Summer of Code Presentation</a>
+  </td>
+</tr>
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Certificates & Honors & Awards
 <table class="table table-hover">
 <tr>
@@ -355,15 +735,6 @@ many others.
   <div style='float: right'>2024</div>
   <div>
         Certified Kubernetes Security Specialist (<a href="https://www.cncf.io/training/certification/cks/" target="_blank">CKS</a>), <b>CNCF</b>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2024</div>
-  <div>
-        <a href="https://rsvp.withgoogle.com/events/blockly-summit-2024/speaker-guidelines#:~:text=Watch%20these%20great%20presentations%20below%20to%20get%20inspired!" target="_blank">Recommended Talk</a> for <b>Google</b> Blockly Summit 2023
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2024</td> -->
@@ -524,7 +895,7 @@ many others.
   <td>
   <div style='float: right'>2018&nbsp;-&nbsp;2022</div>
   <div>
-        Nine <b>Lanzhou University</b> undergraduate scholarships
+        Nine <b>Lanzhou University</b> Undergraduate Scholarships
     <br><p style="color:grey;font-size:1.4rem">3 x scholarship for academic excellence,
 5 x scholarship for innovation and entrepreneurship projects,
 2020 scholarship for IELTS test fee
@@ -536,283 +907,79 @@ many others.
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Open Source Repositories
-1.6k GitHub followers.
-170.9k GitHub stars across all of the following selected repositories:
-
+## <i class="fa fa-chevron-right"></i> Research Projects Before Doctoral Research
 <table class="table table-hover">
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
+  <td class='col-md-3'>2023</td>
   <td>
-    <span class='cvdate'>2025</span>
-    <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.1k |
-    <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
+    <strong><a href="https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf" target="_blank">Virtual Network Systems among Containers</a></strong> <br> <a href="https://scholar.google.com/citations?user=izj4P5gAAAAJ" target="_blank">Prof. Tuomas Aura</a>, <i>Aalto University</i>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
+  <td class='col-md-3'>2021</td>
   <td>
-    <span class='cvdate'>2025</span>
-    <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 865 |
-    <em>Ring Attention</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
+    <strong><a href="https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx" target="_blank">Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network</a></strong> <br> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67" target="_blank">Dr. Weiwei Liu</a>, <i>Lanzhou University</i>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
+  <td class='col-md-3'>2020</td>
   <td>
-    <span class='cvdate'>2025</span>
-    <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 13.2k |
-    <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #16 among all contributors with 17 commits, 769 lines of additions and 567 lines of deletions</p>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf" target="_blank">Renaissance&nbsp;-&nbsp;Use AI to Repair Old Photos</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>, <i>Lanzhou University</i>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
+  <td class='col-md-3'>2020</td>
   <td>
-    <span class='cvdate'>2024</span>
-    <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 7.9k |
-    <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html" target="_blank">Skin Cancer detection Method Based on CNN</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html" target="_blank">Dr. Xin Lv</a>, <i>Lanzhou University</i>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
+  <td class='col-md-3'>2019</td>
   <td>
-    <span class='cvdate'>2023</span>
-    <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 44.2k |
-    <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Renaissance&nbsp;-&nbsp;AI + Dunhuang Art</a></strong> <br> <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a>, <i>Lanzhou University</i>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
+  <td class='col-md-3'>2019</td>
   <td>
-    <span class='cvdate'>2023</span>
-    <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 11k |
-    <em><a href="https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/" target="_blank">Kubernetes Security Platform</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
-  <td>
-    <span class='cvdate'>2023</span>
-    <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 903 |
-    <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
-    <i class="fa fas fa-star"></i> 8.6k |
-    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Machine Learning System</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #58 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
-    <i class="fa fas fa-star"></i> 2.7k |
-    <em>Chrome DevTools Protocol in Rust</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #12 among all contributors with 7 commits, 87 lines of additions and 12 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 764 |
-    <em>Multi-Select UI Library</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 144 |
-    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-summer-of-bitcoin-2022-project-ci-for-cadr/" target="_blank">Bitcoin Packages for Debian</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 188 |
-    <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 59 commits, 3487 lines of additions and 714 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
-  <td>
-    <span class='cvdate'>2022</span>
-    <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
-    <i class="fa fas fa-star"></i> 14 |
-    <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Blockly Multi-Select Plugin</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 49 commits, 17988 lines of additions and 25023 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
-  <td>
-    <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 78 |
-    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 371 commits, 53904 lines of additions and 40932 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
-  <td>
-    <span class='cvdate'>2021</span>
-    <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
-    <i class="fa fas fa-star"></i> 23 |
-    <em><a href="https://dev.to/hollowman6/github-issues-to-wechat-4klk" target="_blank">GitHub action for WeChat Message</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 99 commits, 4139 lines of additions and 1718 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
-  <td>
-    <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 30 |
-    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Themes CSS Hub</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
-  <td>
-    <span class='cvdate'>2021</span>
-    <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 21 |
-    <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Theme Generator</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>18.</td>
-  <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 36.7k |
-    <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>19.</td>
-  <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
-    <i class="fa fas fa-star"></i> 3.3k |
-    <em><a href="https://github.com/HollowMan6/My-OSPP-Summer/blob/master/2020-69-2012153/2020-Final-Report.md" target="_blank">Emacs Application Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 49 commits, 3482 lines of additions and 1033 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>20.</td>
-  <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 175 |
-    <em>TinyML Programs for ESP32</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>21.</td>
-  <td>
-    <span class='cvdate'>2020</span>
-    <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 26 |
-    <em>Super Resolution Model</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html" target="_blank">Self-balancing Bike</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html" target="_blank">Prof. Hongxin Li</a>, <i>Lanzhou University</i>
   </td>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Invited Talks
-
-Content, Link to the talk, and Date:
-
+## <i class="fa fa-chevron-right"></i> Software Copyrights
 <table class="table table-hover">
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>09/2024</span>
-     <em><a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7" target="_blank">Fully Automated Release and Code Review with CI/CD</a></em>,
-        <a href="https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s" target="_blank"><b>Open Source Summit</b> Europe</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>06/2023</span>
-     <em><a href="https://github.com/HollowMan6/Implement-VPN-System-with-Containers/blob/main/84827_Songlin_Jiang_Implementing_a_Virtual_Network_System_among_Containers_986678_606353348.pdf" target="_blank">Virtual Network Systems among Containers</a></em>,
-        <a href="https://ssg.aalto.fi/events/secure-systems-demo-day-2023/" target="_blank"><b>Aalto</b> University Secure Systems Demo Day</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>06/2023</span>
-     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/" target="_blank">Multi-Select Plugin</a></em>,
-        <a href="https://www.youtube.com/watch?v=4OFU9D1Y2DI" target="_blank"><b>Google</b> Blockly Summit</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>08/2022</span>
-     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Native CSV Parser</a></em>,
-        <a href="https://www.youtube.com/watch?v=jnkxDdZF_gc&t=2276s" target="_blank"><b>Microsoft Research</b> NYC Seminar (RLOSFest)</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>08/2022</span>
-     <em><a href="https://github.com/HollowMan6/My-openEuler-Open-Source-Internship" target="_blank">Summary of my Open Source Internship</a></em>,
-        <a href="https://www.bilibili.com/video/BV1fe4y1o766/?t=257.3" target="_blank"><b>openEuler</b> Excellent Intern Seminar</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>05/2021</span>
-     <em><a href="https://github.com/HollowMan6/My-openEuler-University-Developer-Competition" target="_blank">Update Notification Program in Python</a></em>,
-        <a href="https://web.archive.org/web/20240606191858/https://www.bilibili.com/video/BV18f4y1Y7qW/?p=34" target="_blank"><b>openEuler</b> University Developer Competition</a>
-  </td>
-</tr>
-<tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
-  <td style='padding-right:0;'>
-    <span class='cvdate'>08/2020</span>
-     <em><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDI0ODE0NQ==&mid=2247483957&idx=1&sn=3d2663a2acc130c6c1a66ee121921faa" target="_blank">Summary of my Contribution to Arthas</a></em>,
-        <a href="https://www.bilibili.com/video/BV1ih41197m3" target="_blank"><b>Alibaba</b> Summer of Code Presentation</a>
-  </td>
-</tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software for Smartly Memorizing Words</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html" target="_blank">CN 2020SR0839716</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software System for Sport Center Management</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html" target="_blank">CN 2020SR0839709</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software for Jack Compiler</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html" target="_blank">CN 2020SR0839702</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software for Picture & Video Information Hiding En-Decryption</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html" target="_blank">CN 2020SR0079950</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Face Recognition Access Control System</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html" target="_blank">CN 2019SR1388115</a>
+        </td>
+    </tr>
 </table>
 
 
@@ -907,163 +1074,6 @@ Content, Link to the talk, and Date:
 <tr>
   <td style='padding-right:0;'><a href="https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf" target="_blank">ACM Special Interest Group on Management of Data (<b>SIGMOD</b>) 2023 Availability & Reproducibility</a></td>
 </tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Research Projects
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'>2023</td>
-  <td>
-    <strong><a href="https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf" target="_blank">Virtual Network Systems among Containers</a></strong> <br> <a href="https://scholar.google.com/citations?user=izj4P5gAAAAJ" target="_blank">Prof. Tuomas Aura</a>, <i>Aalto University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2021</td>
-  <td>
-    <strong><a href="https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx" target="_blank">Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network</a></strong> <br> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67" target="_blank">Dr. Weiwei Liu</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2020</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf" target="_blank">Renaissance&nbsp;-&nbsp;Use AI to Repair Old Photos</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2020</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html" target="_blank">Skin Cancer detection Method Based on CNN</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html" target="_blank">Dr. Xin Lv</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2019</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Renaissance&nbsp;-&nbsp;AI + Dunhuang Art</a></strong> <br> <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2019</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html" target="_blank">Self-balancing Bike</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html" target="_blank">Prof. Hongxin Li</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Software Copyrights
-<table class="table table-hover">
-    <tr>
-        <td class='col-md-2'>Hollow Software for Smartly Memorizing Words</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html" target="_blank">CN 2020SR0839716</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software System for Sport Center Management</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html" target="_blank">CN 2020SR0839709</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software for Jack Compiler</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html" target="_blank">CN 2020SR0839702</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software for Picture & Video Information Hiding En-Decryption</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html" target="_blank">CN 2020SR0079950</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Face Recognition Access Control System</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html" target="_blank">CN 2019SR1388115</a>
-        </td>
-    </tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Publications
-
-<!-- [<a href="https://github.com/HollowMan/resume/blob/master/publications/all.bib" target="_blank">BibTeX</a>] -->
-<!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
-<!-- I most frequently publish at . -->
-<!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 174 citations with h-index of 1]
-<br>
-
-<h2>2025</h2>
-<table class="table table-hover">
-
-<tr id="tr-hu2025openrlhfeasytousescalablehighperformance" style="background-color: #ffffd0">
-<td align='right' style='padding-left:0;padding-right:0;'>
-1.
-</td>
-<td>
-<img src="images/publications/hu2025openrlhfeasytousescalablehighperformance.png" onerror="this.style.display='none'" class="publicationImg" />
-<em><a href="https://arxiv.org/abs/2405.11143" target="_blank">OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework</a></em> 
-[<a href='javascript:;'
-    onclick='$("#abs_hu2025openrlhfeasytousescalablehighperformance").toggle()'>abstract</a>]<br>
-Jian&nbsp;Hu, Xibin&nbsp;Wu, Wei&nbsp;Shen, Jason&nbsp;Klein&nbsp;Liu, Zilin&nbsp;Zhu, Weixun&nbsp;Wang, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, Haoran&nbsp;Wang, Hao&nbsp;Chen, Bin&nbsp;Chen, Weikai&nbsp;Fang, Xianyu, Yu&nbsp;Cao, Haotian&nbsp;Xu, and Yiming&nbsp;Liu<br>
-Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>) System Demonstrations 2025  <br>
-
-<div id="abs_hu2025openrlhfeasytousescalablehighperformance" style="text-align: justify; display: none" markdown="1">
-Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF)
-and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI
-values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context
-Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such
-as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this
-gap, we introduce OpenRLHF, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon
-Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and
-comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show
-that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22x to 1.68x across different
-model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for
-implementation. OpenRLHF is publicly available at <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">this https URL</a>,
-and has already been adopted by leading institutions to accelerate RLHF research and learning.
-
-</div>
-
-</td>
-</tr>
-
-</table>
-<h2>2019</h2>
-<table class="table table-hover">
-
-<tr id="tr-votingsystemwechatpay" >
-<td align='right' style='padding-left:0;padding-right:0;'>
-2.
-</td>
-<td>
-<img src="images/publications/votingsystemwechatpay.png" onerror="this.style.display='none'" class="publicationImg" />
-<em><a href="https://qikan.cqvip.com/Qikan/Article/Detail?id=7001708234" target="_blank">Voting System Based on Wechat Pay</a></em> 
-[<a href='javascript:;'
-    onclick='$("#abs_votingsystemwechatpay").toggle()'>abstract</a>]<br>
-<strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong><br>
-Computer Engineering & Software 2019  <br>
-
-<div id="abs_votingsystemwechatpay" style="text-align: justify; display: none" markdown="1">
-
-In contemporary society, there are problems existed in the online voting
-systems such as repeated fraudulent voting, data tampering, loss of voting data,
-and failure to verify the outcome of the voting data, and these problems causes
-inconvenience to the users. Meanwhile, the mobile pay systems represented by
-Wechat pay are distinguished due to its safety and convenience. If we combine
-the voting system with Wechat pay, a huge difference will be made. My system
-is based on Wechat pay. When you want to vote, you just need to pay a little,
-then a refund will give to you to ensure that the voting is real. The system can
-double check the voting record by checking the trading record saved on the Wechat
-Sever. As a result, the system provides users with a safe and fair environment to
-vote and it also reduces the developing cost.
-
-</div>
-
-</td>
-</tr>
-
 </table>
 
 
