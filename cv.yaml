@@ -20,18 +20,22 @@ order:
   - [about, NONE]
   - [education, Education]
   - [positions, Experience]
-  - [honors, Certificates \& Honors \& Awards]
   - [repos, Open Source Repositories]
-  - [talks, Invited Talks]
-  - [service, Professional Activities]
-  - [research, Research Projects]
-  - [patents, Software Copyrights]
   - [all_publications, Publications]
+  - [talks, Invited Talks]
+  - [honors, Certificates \& Honors \& Awards]
+  - [research, Research Projects Before Doctoral Research]
+  - [patents, Software Copyrights]
+  - [service, Professional Activities]
   - [skills, Skills]
   # - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
+  As a doctoral researcher, my focus is on improving Reinforcement Learning \&
+  Large Language Models (LLMs) training and inference latency on High-Performance
+  Computing (HPC) clusters \& edge devices.
+
   I find immense joy in pushing my boundaries by tackling complex issues
   that have the potential to positively impact the public. My fervor
   converges with enhancing \textbf{computer systems},
@@ -51,6 +55,8 @@ education:
       - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
       - "Funding: \\href{https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain}{Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCoDe)}"
       - "Supervisor: \\href{https://www.aalto.fi/en/people/mario-di-francesco}{Prof. Mario Di Francesco}, Thesis Advisor: \\href{https://www.aalto.fi/en/people/bo-zhao}{Prof. Bo Zhao}"
+      - "Teaching Assistant: 2025 - now, Cloud Software and Systems D.  \\href{https://courses.aalto.fi/s/course/a05Qt000006soKSIAY/cloud-software-and-systems-d}{CS-E4190}"
+      - "Teaching Assistant: 2024, Scalable Systems and Data Management D.  \\href{https://courses.aalto.fi/s/course/a05Qt000006soQxIAI/scalable-systems-and-data-management-d}{CS-E4780}"
   - school: Tech. Uni. of Denmark (DTU)
     degree: M.Sc. Eng. in \href{https://secclo.eu/}{SECCLO Erasmus Mundus}
     dates: 08/2023 -- 06/2024
@@ -83,6 +89,13 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: xDAN AI
+    title: Reinforcement Learning Algorithm Engineer
+    inline_detail: "Agentic RL training with verl"
+    dates: 04/2025 -- 08/2025
+    details:
+      - "Developing solutions for Agentic LLMs training using reinforcement learning"
+      - "Targeting areas include coding, math, finance, deep researcher, and RAG enhancement"
   - place: Outlier
     title: AI Prompt Engineer
     inline_detail: "create RLHF datasets for code generation"
@@ -229,8 +242,6 @@ honors:
     year: 2024
   - title: Certified Kubernetes Security Specialist (\href{https://www.cncf.io/training/certification/cks/}{CKS}), \textbf{CNCF}
     year: 2024
-  - title: \href{https://rsvp.withgoogle.com/events/blockly-summit-2024/speaker-guidelines#:~:text=Watch%20these%20great%20presentations%20below%20to%20get%20inspired!}{Recommended Talk} for \textbf{Google} Blockly Summit 2023
-    year: 2024
   - title: \textbf{Black Hat} Europe 2023 Student Scholarship
     year: 2023
   - title: Cloud Captains in \textbf{Linux Foundation} Training \href{https://training.linuxfoundation.cn/news/338}{(LiFT) Scholarship (China)}
@@ -274,7 +285,7 @@ honors:
   - title: \href{https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf}{Excellent Project Award} in \textbf{Lanzhou University} Innovation and Entrepreneurship Plan
     descr: "Only 122/1268 got this award"
     year: 2019
-  - title: Nine \textbf{Lanzhou University} undergraduate scholarships
+  - title: Nine \textbf{Lanzhou University} Undergraduate Scholarships
     descr: |
       3 x scholarship for academic excellence,
       5 x scholarship for innovation and entrepreneurship projects,
@@ -289,6 +300,11 @@ all_publications:
   group_by_year: True
   author_urls:
     'Songlin Jiang': 'https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ'
+    # 'Jian Hu': 'https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ'
+    # 'Wei Shen': 'https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ'
+    # 'Weixun Wang': 'https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ'
+    # 'Haotian Xu': 'https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ'
+    # 'Haoran Wang': 'https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ'
 
 repos:
   - repo_url: https://github.com/deepspeedai/DeepSpeed
