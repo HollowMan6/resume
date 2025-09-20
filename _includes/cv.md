@@ -320,7 +320,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-171.4k GitHub stars across all of the following selected repositories:
+171.5k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -338,7 +338,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 872 |
+    <i class="fa fas fa-star"></i> 873 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -348,7 +348,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 13.5k |
+    <i class="fa fas fa-star"></i> 13.6k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #14 among all contributors with 19 commits, 854 lines of additions and 618 lines of deletions</p>
   </td>
@@ -556,7 +556,7 @@ many others.
 <em><a href="https://arxiv.org/abs/2405.11143" target="_blank">OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework</a></em> 
 [<a href='javascript:;'
     onclick='$("#abs_hu2025openrlhfeasytousescalablehighperformance").toggle()'>abstract</a>]<br>
-Jian&nbsp;Hu, Xibin&nbsp;Wu, Wei&nbsp;Shen, Jason&nbsp;Klein&nbsp;Liu, Zilin&nbsp;Zhu, Weixun&nbsp;Wang, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, Haoran&nbsp;Wang, Hao&nbsp;Chen, Bin&nbsp;Chen, Weikai&nbsp;Fang, Xianyu, Yu&nbsp;Cao, Haotian&nbsp;Xu, and Yiming&nbsp;Liu<br>
+<a href='https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ' target='_blank'>Jian&nbsp;Hu</a>, <a href='https://openreview.net/profile?id=~Xibin_Wu1' target='_blank'>Xibin&nbsp;Wu</a>, <a href='https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ' target='_blank'>Wei&nbsp;Shen</a>, <a href='https://openreview.net/profile?id=~Jason_Klein_Liu1' target='_blank'>Jason&nbsp;Klein&nbsp;Liu</a>, <a href='https://github.com/zhuzilin' target='_blank'>Zilin&nbsp;Zhu</a>, <a href='https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ' target='_blank'>Weixun&nbsp;Wang</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ' target='_blank'>Haoran&nbsp;Wang</a>, <a href='https://openreview.net/profile?id=~Hao_Chen116' target='_blank'>Hao&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Bin_Chen7' target='_blank'>Bin&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Wenkai_Fang1' target='_blank'>Weikai&nbsp;Fang</a>, <a href='https://openreview.net/profile?id=~Xianyu2' target='_blank'>Xianyu</a>, <a href='https://scholar.google.com/citations?hl=en&user=lcTd7rkAAAAJ' target='_blank'>Yu&nbsp;Cao</a>, <a href='https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ' target='_blank'>Haotian&nbsp;Xu</a>, and <a href='https://openreview.net/profile?id=~Yiming_Liu15' target='_blank'>Yiming&nbsp;Liu</a><br>
 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>) System Demonstrations 2025  <br>
 
 <div id="abs_hu2025openrlhfeasytousescalablehighperformance" style="text-align: justify; display: none" markdown="1">
@@ -1097,4 +1097,43 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
   </td>
 </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Courses
+Some top-quality courses I've taken: <br>
+
+<table class="table table-hover">
+    <tr>
+        <td class='col-md-2'><b><a href="https://kurser.dtu.dk/course/02242" target="_blank">Program Analysis</a></b>, <i>DTU</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://ppc.cs.aalto.fi/" target="_blank">Programming Parallel Computers</a></b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Platform Security</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Cloud Software and Systems</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Multimedia Services in Internet</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/" target="_blank">Designing and Building Scalable Web Applications</a></b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b>Network Security</b>, <i>Aalto University</i></td>
+        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
+    </tr>
+    <tr>
+        <td class='col-md-2'><b><a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321" target="_blank">Formal Languages and Finite Automata</a></b>, <i>University of Leeds</i></td>
+        <td class='col-md-2' style='text-align:right;'>Spring 2020</td>
+    </tr>
 </table>
