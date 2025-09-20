@@ -28,7 +28,7 @@ order:
   - [patents, Software Copyrights]
   - [service, Professional Activities]
   - [skills, Skills]
-  # - [coursework, Courses]
+  - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
@@ -300,11 +300,20 @@ all_publications:
   group_by_year: True
   author_urls:
     'Songlin Jiang': 'https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ'
-    # 'Jian Hu': 'https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ'
-    # 'Wei Shen': 'https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ'
-    # 'Weixun Wang': 'https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ'
-    # 'Haotian Xu': 'https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ'
-    # 'Haoran Wang': 'https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ'
+    'Jian Hu': 'https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ'
+    'Zilin Zhu': 'https://github.com/zhuzilin'
+    'Xibin Wu': 'https://openreview.net/profile?id=~Xibin_Wu1'
+    'Jason Klein Liu': 'https://openreview.net/profile?id=~Jason_Klein_Liu1'
+    'Wei Shen': 'https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ'
+    'Weixun Wang': 'https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ'
+    'Haotian Xu': 'https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ'
+    'Haoran Wang': 'https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ'
+    'Yu Cao': 'https://scholar.google.com/citations?hl=en&user=lcTd7rkAAAAJ'
+    'Hao Chen': 'https://openreview.net/profile?id=~Hao_Chen116'
+    'Bin Chen': 'https://openreview.net/profile?id=~Bin_Chen7'
+    'Weikai Fang': 'https://openreview.net/profile?id=~Wenkai_Fang1'
+    'Xianyu': 'https://openreview.net/profile?id=~Xianyu2'
+    'Yiming Liu': 'https://openreview.net/profile?id=~Yiming_Liu15'
 
 repos:
   - repo_url: https://github.com/deepspeedai/DeepSpeed
