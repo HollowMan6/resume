@@ -13,7 +13,7 @@ social:
 
 # LaTeX formatting
 style: banking # casual, classic, oldstyle, or banking
-color: blue # blue, orange, green, red, purple, grey and black
+color: purple # blue, orange, green, red, purple, grey and black
 color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 
 order:
@@ -24,19 +24,19 @@ order:
   - [all_publications, Publications]
   - [talks, Invited Talks]
   - [honors, Certificates \& Honors \& Awards]
-  - [research, Research Projects Before Doctoral Research]
-  - [patents, Software Copyrights]
   - [service, Professional Activities]
   - [skills, Skills]
+  - [research, Research Projects Before Doctoral Research]
+  - [patents, Software Copyrights]
   - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
-  As a doctoral researcher, my focus is on improving Reinforcement Learning \&
+  As a \href{https://www.aalto.fi/en/people/songlin-jiang}{doctoral researcher}, my focus is on improving Reinforcement Learning \&
   Large Language Models (LLMs) training and inference latency on High-Performance
   Computing (HPC) clusters \& edge devices.
 
-  I find immense joy in pushing my boundaries by tackling complex issues
+  Besides, I find immense joy in pushing my boundaries by tackling complex issues
   that have the potential to positively impact the public. My fervor
   converges with enhancing \textbf{computer systems},
   \textbf{networks}, \textbf{databases}, and their corresponding
