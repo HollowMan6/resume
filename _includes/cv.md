@@ -1,8 +1,8 @@
-As a doctoral researcher, my focus is on improving Reinforcement Learning &
+As a <a href="https://www.aalto.fi/en/people/songlin-jiang" target="_blank">doctoral researcher</a>, my focus is on improving Reinforcement Learning &
 Large Language Models (LLMs) training and inference latency on High-Performance
 Computing (HPC) clusters & edge devices.
 
-I find immense joy in pushing my boundaries by tackling complex issues
+Besides, I find immense joy in pushing my boundaries by tackling complex issues
 that have the potential to positively impact the public. My fervor
 converges with enhancing <b>computer systems</b>,
 <b>networks</b>, <b>databases</b>, and their corresponding
@@ -320,7 +320,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-171.5k GitHub stars across all of the following selected repositories:
+171.7k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -328,7 +328,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.1k |
+    <i class="fa fas fa-star"></i> 40.2k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #40 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -338,7 +338,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 873 |
+    <i class="fa fas fa-star"></i> 874 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -368,7 +368,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/run-llama/llama_index" target="_blank">run-llama/llama_index</a> |
-    <i class="fa fas fa-star"></i> 44.3k |
+    <i class="fa fas fa-star"></i> 44.4k |
     <em><a href="https://x.com/llama_index/status/1671537854802202624" target="_blank">RAG Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #95 among all contributors with 6 commits, 427 lines of additions and 24 lines of deletions</p>
   </td>
@@ -457,7 +457,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 78 |
+    <i class="fa fas fa-star"></i> 77 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 371 commits, 53904 lines of additions and 40932 lines of deletions</p>
   </td>
@@ -907,82 +907,6 @@ Content, Link to the talk, and Date:
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Research Projects Before Doctoral Research
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'>2023</td>
-  <td>
-    <strong><a href="https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf" target="_blank">Virtual Network Systems among Containers</a></strong> <br> <a href="https://scholar.google.com/citations?user=izj4P5gAAAAJ" target="_blank">Prof. Tuomas Aura</a>, <i>Aalto University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2021</td>
-  <td>
-    <strong><a href="https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx" target="_blank">Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network</a></strong> <br> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67" target="_blank">Dr. Weiwei Liu</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2020</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf" target="_blank">Renaissance&nbsp;-&nbsp;Use AI to Repair Old Photos</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2020</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html" target="_blank">Skin Cancer detection Method Based on CNN</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html" target="_blank">Dr. Xin Lv</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2019</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Renaissance&nbsp;-&nbsp;AI + Dunhuang Art</a></strong> <br> <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>2019</td>
-  <td>
-    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html" target="_blank">Self-balancing Bike</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html" target="_blank">Prof. Hongxin Li</a>, <i>Lanzhou University</i>
-  </td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Software Copyrights
-<table class="table table-hover">
-    <tr>
-        <td class='col-md-2'>Hollow Software for Smartly Memorizing Words</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html" target="_blank">CN 2020SR0839716</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software System for Sport Center Management</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html" target="_blank">CN 2020SR0839709</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software for Jack Compiler</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html" target="_blank">CN 2020SR0839702</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Hollow Software for Picture & Video Information Hiding En-Decryption</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html" target="_blank">CN 2020SR0079950</a>
-        </td>
-    </tr>
-    <tr>
-        <td class='col-md-2'>Face Recognition Access Control System</td>
-        <td class='col-md-2' style='text-align:right;'>
-            <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html" target="_blank">CN 2019SR1388115</a>
-        </td>
-    </tr>
-</table>
-
-
 ## <i class="fa fa-chevron-right"></i> Professional Activities
 <table class="table table-hover">
 <tr>
@@ -1097,6 +1021,82 @@ C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby .
 PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ...
   </td>
 </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Research Projects Before Doctoral Research
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>2023</td>
+  <td>
+    <strong><a href="https://ssg.aalto.fi/wp-content/uploads/2023/06/Songlin_Jiang_Poster.pptx.pdf" target="_blank">Virtual Network Systems among Containers</a></strong> <br> <a href="https://scholar.google.com/citations?user=izj4P5gAAAAJ" target="_blank">Prof. Tuomas Aura</a>, <i>Aalto University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2021</td>
+  <td>
+    <strong><a href="https://job.lzu.edu.cn/ueditor/upload/file/20220112/1641949809772073051.xlsx" target="_blank">Hybrid Model for Stock Price Prediction Based on Time Series and Neural Network</a></strong> <br> <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=67" target="_blank">Dr. Weiwei Liu</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2020</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20210120105525.pdf" target="_blank">Renaissance&nbsp;-&nbsp;Use AI to Repair Old Photos</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html" target="_blank">Prof. Chao Ren</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2020</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2021/01/20/N20210120105713.html" target="_blank">Skin Cancer detection Method Based on CNN</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/jiangshi/2020/0921/133063.html" target="_blank">Dr. Xin Lv</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2019</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/upload/news/N20200115173352.pdf" target="_blank">Renaissance&nbsp;-&nbsp;AI + Dunhuang Art</a></strong> <br> <a href="https://scholar.google.com.hk/citations?user=6JXBFVQAAAAJ" target="_blank">Prof. Qingguo Zhou</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+<tr>
+  <td class='col-md-3'>2019</td>
+  <td>
+    <strong><a href="https://tuanwei.lzu.edu.cn/lzupage/2020/01/17/N20200117172601.html" target="_blank">Self-balancing Bike</a></strong> <br> <a href="https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132703.html" target="_blank">Prof. Hongxin Li</a>, <i>Lanzhou University</i>
+  </td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Software Copyrights
+<table class="table table-hover">
+    <tr>
+        <td class='col-md-2'>Hollow Software for Smartly Memorizing Words</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/1226348391d242548593141afac64a46.html" target="_blank">CN 2020SR0839716</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software System for Sport Center Management</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/b1b1d4504c5f448ba3c0d9006cef9d50.html" target="_blank">CN 2020SR0839709</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software for Jack Compiler</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/1ed7cc3ac4854481a149cad8d967e320.html" target="_blank">CN 2020SR0839702</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Hollow Software for Picture & Video Information Hiding En-Decryption</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/5e042e2d592b4158a504a7c78d6f21fa.html" target="_blank">CN 2020SR0079950</a>
+        </td>
+    </tr>
+    <tr>
+        <td class='col-md-2'>Face Recognition Access Control System</td>
+        <td class='col-md-2' style='text-align:right;'>
+            <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html" target="_blank">CN 2019SR1388115</a>
+        </td>
+    </tr>
 </table>
 
 
