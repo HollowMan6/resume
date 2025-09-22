@@ -13,7 +13,7 @@ social:
 
 # LaTeX formatting
 style: banking # casual, classic, oldstyle, or banking
-color: purple # blue, orange, green, red, purple, grey and black
+color: red # blue, orange, green, red, purple, grey and black
 color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 
 order:
@@ -43,7 +43,7 @@ about: |
   \textbf{security} aspects, which allows me to have impacts
   on computing for both the environment (\textbf{greener while efficient})
   and people (\textbf{faster while reliable}). 
-  Additionally, I am a passionate \textbf{free software developer}. During my
+  I am also a passionate \textbf{free software developer}. During my
   leisure time, I maintain several open-source projects and contribute to
   many others.
 
