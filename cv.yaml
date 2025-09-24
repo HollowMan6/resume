@@ -13,7 +13,7 @@ social:
 
 # LaTeX formatting
 style: banking # casual, classic, oldstyle, or banking
-color: red # blue, orange, green, red, purple, grey and black
+color: blue # blue, orange, green, red, purple, grey and black
 color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 
 order:
@@ -28,7 +28,7 @@ order:
   - [skills, Skills]
   - [research, Research Projects Before Doctoral Research]
   - [patents, Software Copyrights]
-  - [coursework, Courses]
+  # - [coursework, Courses]
   # - [NEWPAGE, NONE]
 
 about: |
@@ -42,9 +42,8 @@ about: |
   \textbf{networks}, \textbf{databases}, and their corresponding
   \textbf{security} aspects, which allows me to have impacts
   on computing for both the environment (\textbf{greener while efficient})
-  and people (\textbf{faster while reliable}). 
-  I am also a passionate \textbf{free software developer}. During my
-  leisure time, I maintain several open-source projects and contribute to
+  and people (\textbf{faster while reliable}). I am also a passionate \textbf{free software developer},
+  I maintain several open-source projects and contribute to
   many others.
 
 education:
@@ -418,6 +417,7 @@ service:
       details: "Continued and substantial contributions to the openSUSE project. With voting rights and the ability to run for the openSUSE board"
   reviewing:
     - "\\href{https://iclr.cc/Conferences/2026/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2026}"
+    - "\\href{https://2026.midl.io/organization}{Medical Imaging with Deep Learning (\\textbf{MIDL}) 2026}"
     - "\\href{https://neurips.cc/Conferences/2025/ProgramCommittee}{Annual Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2025}"
     - "\\href{https://neurips.cc/Conferences/2025/ProgramCommittee}{Neural Information Processing Systems (\\textbf{NeurIPS}) 2025 Datasets \\& Benchmarks Track}"
     - "\\href{https://iclr.cc/Conferences/2025/ProgramCommittee}{International Conference on Learning Representations (\\textbf{ICLR}) 2025}"
@@ -425,22 +425,22 @@ service:
     - "\\href{https://certificates.ijcai.org/?q=reviewers&y=2025&id=7b87536f-ebf3-42c3-a567-c82e63a8b09f}{\\textbf{IJCAI} 2025 Special Track on AI for Social Good}"
     - "\\href{https://2025.ijcnn.org/about/organizing-committee}{International Joint Conference on Neural Networks (\\textbf{IJCNN}) 2025}"
     - "\\href{https://2025.midl.io/organization}{Medical Imaging with Deep Learning (\\textbf{MIDL}) 2025}"
-    - "\\href{https://acl2025-srw.github.io/}{Student Research Workshop (SRW) at \\textbf{ACL} 2025}"
-    - "\\href{https://berts-workshop.github.io/}{Workshop on Recent Advances in Time Series Foundation Models (BERT2S) at \\textbf{NeurIPS} 2025}"
-    - "\\href{https://mathai2025.github.io/}{Workshop on Mathematical Reasoning and AI (MATH-AI) at \\textbf{NeurIPS} 2025}"
+    # - "\\href{https://acl2025-srw.github.io/}{Student Research Workshop (SRW) at \\textbf{ACL} 2025}"
+    # - "\\href{https://berts-workshop.github.io/}{Workshop on Recent Advances in Time Series Foundation Models (BERT2S) at \\textbf{NeurIPS} 2025}"
+    # - "\\href{https://mathai2025.github.io/}{Workshop on Mathematical Reasoning and AI (MATH-AI) at \\textbf{NeurIPS} 2025}"
     - "\\href{https://www.latinxinai.org/neurips-2025}{Latinx in AI Workshop at \\textbf{NeurIPS} 2025}"
-    - "\\href{https://acl2025-srw.github.io/}{Workshop SoLaR at Conference on Language Modeling (\\textbf{COLM}) 2025}"
-    - "\\href{https://sites.google.com/view/dai-2025/organizers}{Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (\\textbf{AAAI}) 2025}"
-    - "\\href{https://sites.google.com/view/marw-ai-agents}{Multi-Agent AI in the Real World (MARW) Workshop at \\textbf{AAAI} 2025}"
-    - "\\href{https://aigovernance.github.io/}{International Workshop on AI Governance (AIGOV) at \\textbf{AAAI} 2025}"
-    - "\\href{https://delta-workshop.github.io/}{Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy at \\textbf{ICLR} 2025}"
-    - "\\href{https://sites.google.com/view/genai-watermark/home}{Workshop on GenAI Watermarking at \\textbf{ICLR} 2025}"
-    - "\\href{https://fm-wild-community.github.io/}{Workshop on Foundation Models in the Wild at \\textbf{ICLR} 2025}"
-    - "\\href{https://xai4science.github.io/}{Workshop XAI4Science at \\textbf{ICLR} 2025}"
-    - "\\href{https://ic-greenai.in/}{International Conference on Green Artificial Intelligence and Industrial Applications (\\textbf{GreenAI} 2025)}"
-    - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2024}"
-    - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at \\textbf{NeurIPS} 2024}"
-    - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{\\textbf{NeurIPS} 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
+    # - "\\href{https://acl2025-srw.github.io/}{Workshop SoLaR at Conference on Language Modeling (\\textbf{COLM}) 2025}"
+    # - "\\href{https://sites.google.com/view/dai-2025/organizers}{Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (\\textbf{AAAI}) 2025}"
+    # - "\\href{https://sites.google.com/view/marw-ai-agents}{Multi-Agent AI in the Real World (MARW) Workshop at \\textbf{AAAI} 2025}"
+    # - "\\href{https://aigovernance.github.io/}{International Workshop on AI Governance (AIGOV) at \\textbf{AAAI} 2025}"
+    # - "\\href{https://delta-workshop.github.io/}{Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy at \\textbf{ICLR} 2025}"
+    # - "\\href{https://sites.google.com/view/genai-watermark/home}{Workshop on GenAI Watermarking at \\textbf{ICLR} 2025}"
+    # - "\\href{https://fm-wild-community.github.io/}{Workshop on Foundation Models in the Wild at \\textbf{ICLR} 2025}"
+    # - "\\href{https://xai4science.github.io/}{Workshop XAI4Science at \\textbf{ICLR} 2025}"
+    - "\\href{https://github.com/user-attachments/files/19673594/Songlin-Jiang.pdf}{International Conference on Green Artificial Intelligence and Industrial Applications (\\textbf{GreenAI} 2025)}"
+    # - "\\href{https://neuralcompression.github.io/workshop24}{Compression Workshop at Conference on Neural Information Processing Systems (\\textbf{NeurIPS}) 2024}"
+    # - "\\href{https://safegenaiworkshop.github.io/}{Safe Generative AI Workshop at \\textbf{NeurIPS} 2024}"
+    # - "\\href{https://gp-seminar-series.github.io/neurips-2024/}{\\textbf{NeurIPS} 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)}"
     - "\\href{https://www.latinxinai.org/neurips-2024}{Latinx in AI Workshop at \\textbf{NeurIPS} 2024}"
     - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (\\textbf{SIGMOD}) 2023 Availability \\& Reproducibility}"
 
