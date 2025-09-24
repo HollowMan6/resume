@@ -8,9 +8,8 @@ converges with enhancing <b>computer systems</b>,
 <b>networks</b>, <b>databases</b>, and their corresponding
 <b>security</b> aspects, which allows me to have impacts
 on computing for both the environment (<b>greener while efficient</b>)
-and people (<b>faster while reliable</b>). 
-I am also a passionate <b>free software developer</b>. During my
-leisure time, I maintain several open-source projects and contribute to
+and people (<b>faster while reliable</b>). I am also a passionate <b>free software developer</b>,
+I maintain several open-source projects and contribute to
 many others.
 
 
@@ -320,7 +319,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-171.7k GitHub stars across all of the following selected repositories:
+171.8k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -338,7 +337,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 876 |
+    <i class="fa fas fa-star"></i> 878 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -348,7 +347,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 13.6k |
+    <i class="fa fas fa-star"></i> 13.7k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #15 among all contributors with 19 commits, 854 lines of additions and 618 lines of deletions</p>
   </td>
@@ -387,7 +386,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 903 |
+    <i class="fa fas fa-star"></i> 904 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -923,6 +922,9 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://iclr.cc/Conferences/2026/ProgramCommittee" target="_blank">International Conference on Learning Representations (<b>ICLR</b>) 2026</a></td>
 </tr>
 <tr>
+  <td style='padding-right:0;'><a href="https://2026.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2026</a></td>
+</tr>
+<tr>
   <td style='padding-right:0;'><a href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank">Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2025</a></td>
 </tr>
 <tr>
@@ -944,52 +946,10 @@ Content, Link to the talk, and Date:
   <td style='padding-right:0;'><a href="https://2025.midl.io/organization" target="_blank">Medical Imaging with Deep Learning (<b>MIDL</b>) 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Student Research Workshop (SRW) at <b>ACL</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://berts-workshop.github.io/" target="_blank">Workshop on Recent Advances in Time Series Foundation Models (BERT2S) at <b>NeurIPS</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://mathai2025.github.io/" target="_blank">Workshop on Mathematical Reasoning and AI (MATH-AI) at <b>NeurIPS</b> 2025</a></td>
-</tr>
-<tr>
   <td style='padding-right:0;'><a href="https://www.latinxinai.org/neurips-2025" target="_blank">Latinx in AI Workshop at <b>NeurIPS</b> 2025</a></td>
 </tr>
 <tr>
-  <td style='padding-right:0;'><a href="https://acl2025-srw.github.io/" target="_blank">Workshop SoLaR at Conference on Language Modeling (<b>COLM</b>) 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://sites.google.com/view/dai-2025/organizers" target="_blank">Deployable AI Workshop (DAI) at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://sites.google.com/view/marw-ai-agents" target="_blank">Multi-Agent AI in the Real World (MARW) Workshop at <b>AAAI</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://aigovernance.github.io/" target="_blank">International Workshop on AI Governance (AIGOV) at <b>AAAI</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://delta-workshop.github.io/" target="_blank">Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy at <b>ICLR</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://sites.google.com/view/genai-watermark/home" target="_blank">Workshop on GenAI Watermarking at <b>ICLR</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://fm-wild-community.github.io/" target="_blank">Workshop on Foundation Models in the Wild at <b>ICLR</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://xai4science.github.io/" target="_blank">Workshop XAI4Science at <b>ICLR</b> 2025</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://ic-greenai.in/" target="_blank">International Conference on Green Artificial Intelligence and Industrial Applications (<b>GreenAI</b> 2025)</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://neuralcompression.github.io/workshop24" target="_blank">Compression Workshop at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://safegenaiworkshop.github.io/" target="_blank">Safe Generative AI Workshop at <b>NeurIPS</b> 2024</a></td>
-</tr>
-<tr>
-  <td style='padding-right:0;'><a href="https://gp-seminar-series.github.io/neurips-2024/" target="_blank"><b>NeurIPS</b> 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU)</a></td>
+  <td style='padding-right:0;'><a href="https://github.com/user-attachments/files/19673594/Songlin-Jiang.pdf" target="_blank">International Conference on Green Artificial Intelligence and Industrial Applications (<b>GreenAI</b> 2025)</a></td>
 </tr>
 <tr>
   <td style='padding-right:0;'><a href="https://www.latinxinai.org/neurips-2024" target="_blank">Latinx in AI Workshop at <b>NeurIPS</b> 2024</a></td>
@@ -1095,44 +1055,5 @@ PostgreSQL, MongoDB, Redis, InfluxDB, TimescaleDB, HBase, Hive, Hadoop, Spark ..
         <td class='col-md-2' style='text-align:right;'>
             <a href="https://www.zhifufu.com/software/79cf51cfc2b449db8d47ef1f20f8bd73.html" target="_blank">CN 2019SR1388115</a>
         </td>
-    </tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Courses
-Some top-quality courses I've taken: <br>
-
-<table class="table table-hover">
-    <tr>
-        <td class='col-md-2'><b><a href="https://kurser.dtu.dk/course/02242" target="_blank">Program Analysis</a></b>, <i>DTU</i></td>
-        <td class='col-md-2' style='text-align:right;'>Fall 2023</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b><a href="https://ppc.cs.aalto.fi/" target="_blank">Programming Parallel Computers</a></b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b>Platform Security</b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Spring 2023</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b>Cloud Software and Systems</b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b>Multimedia Services in Internet</b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b><a href="https://fitech101.aalto.fi/designing-and-building-scalable-web-applications/" target="_blank">Designing and Building Scalable Web Applications</a></b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b>Network Security</b>, <i>Aalto University</i></td>
-        <td class='col-md-2' style='text-align:right;'>Fall 2022</td>
-    </tr>
-    <tr>
-        <td class='col-md-2'><b><a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?M=COMP-2321" target="_blank">Formal Languages and Finite Automata</a></b>, <i>University of Leeds</i></td>
-        <td class='col-md-2' style='text-align:right;'>Spring 2020</td>
     </tr>
 </table>
