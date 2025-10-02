@@ -313,6 +313,13 @@ all_publications:
     'Weikai Fang': 'https://openreview.net/profile?id=~Wenkai_Fang1'
     'Xianyu': 'https://openreview.net/profile?id=~Xianyu2'
     'Yiming Liu': 'https://openreview.net/profile?id=~Yiming_Liu15'
+    'Cong Yu': 'https://scholar.google.com/citations?user=IiuqC3kAAAAJ&hl=en'
+    'Valter Uotila': 'https://scholar.google.com/citations?user=fe9ed_0AAAAJ&hl=en'
+    'Shilong Deng' : 'https://scholar.google.com/citations?user=79_LyAIAAAAJ&hl=en'
+    'Qingyuan Wu': 'https://scholar.google.com/citations?user=CYfMzb8AAAAJ&hl=en'
+    'Tuo Shi': 'https://scholar.google.com/citations?user=KIZjoPEAAAAJ&hl=en'
+    'Lei You': 'https://scholar.google.com/citations?user=DTpo_scAAAAJ&hl=en'
+    'Bo Zhao': 'https://scholar.google.com/citations?user=R6igYYYAAAAJ&hl=en'
 
 repos:
   - repo_url: https://github.com/deepspeedai/DeepSpeed
