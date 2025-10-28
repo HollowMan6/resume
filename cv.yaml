@@ -334,9 +334,9 @@ repos:
   - repo_url: https://github.com/OpenRLHF/OpenRLHF
     year: 2024
     desc: \href{https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html}{RLHF Framework}
-  - repo_url: https://github.com/run-llama/llama_index
-    year: 2023
-    desc: \href{https://x.com/llama_index/status/1671537854802202624}{RAG Framework}
+  # - repo_url: https://github.com/run-llama/llama_index
+  #   year: 2023
+  #   desc: \href{https://x.com/llama_index/status/1671537854802202624}{RAG Framework}
   - repo_url: https://github.com/kubescape/kubescape
     year: 2023
     desc: \href{https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/}{Kubernetes Security Platform}
