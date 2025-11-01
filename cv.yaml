@@ -88,13 +88,20 @@ education:
       - "Supervisor: \\href{https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132722.html}{Prof. Chao Ren}"
 
 positions:
+  - place: Fellou
+    title: Reinforcement Learning Infrastructure Engineer
+    inline_detail: "world's first agentic browser"
+    dates: 08/2025 -- 10/2025
+    details:
+      - "Building infrastructures for Agentic RL training of Vision Language Models (VLMs) on top of \\textbf{verl}"
+      - "\\href{https://github.com/volcengine/verl/pulls?q=is\\%3Apr+author\\%3AHollowMan6+is\\%3Aclosed}{\\textbf{Verl}} is \\textbf{Volcano Engine} \\& \\textbf{ByteDance Seed}'s Reinforcement Learning framework for LLMs"
   - place: xDAN AI
     title: Reinforcement Learning Algorithm Engineer
     inline_detail: "Agentic RL training with verl"
     dates: 04/2025 -- 08/2025
     details:
       - "Developing solutions for Agentic LLMs training using reinforcement learning"
-      - "Targeting areas include coding, math, finance, deep researcher, and RAG enhancement"
+      - "Targeting areas include \\textbf{coding}, \\textbf{math}, \\textbf{finance}, \\textbf{deep researcher}, and \\textbf{RAG enhancement}"
   - place: Outlier
     title: AI Prompt Engineer
     inline_detail: "create RLHF datasets for code generation"
