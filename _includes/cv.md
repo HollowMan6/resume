@@ -87,13 +87,25 @@ many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
+<span class='cvdate'>08/2025&nbsp;-&nbsp;10/2025</span>
+<p markdown="1" style='margin: 0'><strong>Reinforcement Learning Infrastructure Engineer</strong>, <em>Fellou</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
+(world's first agentic browser)
+</span></p>
+  <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+  <br> • Building infrastructures for Agentic RL training of Vision Language Models (VLMs) on top of <b>verl</b>
+  <br> • <a href="https://github.com/volcengine/verl/pulls?q=is%3Apr+author%3AHollowMan6+is%3Aclosed" target="_blank"><b>Verl</b></a> is <b>Volcano Engine</b> & <b>ByteDance Seed</b>'s Reinforcement Learning framework for LLMs
+  </p>
+  </td>
+</tr>
+<tr>
+  <td style='padding-right:0;'>
 <span class='cvdate'>04/2025&nbsp;-&nbsp;08/2025</span>
 <p markdown="1" style='margin: 0'><strong>Reinforcement Learning Algorithm Engineer</strong>, <em>xDAN AI</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (Agentic RL training with verl)
 </span></p>
   <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
   <br> • Developing solutions for Agentic LLMs training using reinforcement learning
-  <br> • Targeting areas include coding, math, finance, deep researcher, and RAG enhancement
+  <br> • Targeting areas include <b>coding</b>, <b>math</b>, <b>finance</b>, <b>deep researcher</b>, and <b>RAG enhancement</b>
   </p>
   </td>
 </tr>
@@ -319,7 +331,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-129.5k GitHub stars across all of the following selected repositories:
+129.8k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -327,7 +339,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.5k |
+    <i class="fa fas fa-star"></i> 40.6k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #41 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -337,7 +349,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 903 |
+    <i class="fa fas fa-star"></i> 904 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -347,9 +359,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 14.8k |
+    <i class="fa fas fa-star"></i> 15k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 43 commits, 1713 lines of additions and 1340 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 45 commits, 1714 lines of additions and 1342 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -377,7 +389,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 909 |
+    <i class="fa fas fa-star"></i> 911 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -406,7 +418,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 764 |
+    <i class="fa fas fa-star"></i> 765 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -426,7 +438,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 192 |
+    <i class="fa fas fa-star"></i> 193 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 61 commits, 3515 lines of additions and 742 lines of deletions</p>
   </td>
@@ -530,7 +542,7 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 210 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 213 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
