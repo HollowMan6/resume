@@ -331,7 +331,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-129.8k GitHub stars across all of the following selected repositories:
+129.9k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -359,9 +359,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 15k |
+    <i class="fa fas fa-star"></i> 15.1k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 45 commits, 1714 lines of additions and 1342 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 46 commits, 1813 lines of additions and 1435 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -438,7 +438,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 193 |
+    <i class="fa fas fa-star"></i> 194 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 61 commits, 3515 lines of additions and 742 lines of deletions</p>
   </td>
@@ -528,7 +528,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 26 |
+    <i class="fa fas fa-star"></i> 25 |
     <em>Super Resolution Model</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
@@ -542,38 +542,26 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 213 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 230 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
 <table class="table table-hover">
 
-<tr id="tr-hu2025openrlhfeasytousescalablehighperformance" style="background-color: #ffffd0">
+<tr id="tr-hu-etal-2025-openrlhf" >
 <td align='right' style='padding-left:0;padding-right:0;'>
 1.
 </td>
 <td>
-<img src="images/publications/hu2025openrlhfeasytousescalablehighperformance.png" onerror="this.style.display='none'" class="publicationImg" />
-<em><a href="https://arxiv.org/abs/2405.11143" target="_blank">OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework</a></em> 
+<img src="images/publications/hu-etal-2025-openrlhf.png" onerror="this.style.display='none'" class="publicationImg" />
+<em><a href="https://aclanthology.org/2025.emnlp-demos.48/" target="_blank">OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework</a></em> 
 [<a href='javascript:;'
-    onclick='$("#abs_hu2025openrlhfeasytousescalablehighperformance").toggle()'>abstract</a>]<br>
-<a href='https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ' target='_blank'>Jian&nbsp;Hu</a>, <a href='https://openreview.net/profile?id=~Xibin_Wu1' target='_blank'>Xibin&nbsp;Wu</a>, <a href='https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ' target='_blank'>Wei&nbsp;Shen</a>, <a href='https://openreview.net/profile?id=~Jason_Klein_Liu1' target='_blank'>Jason&nbsp;Klein&nbsp;Liu</a>, <a href='https://github.com/zhuzilin' target='_blank'>Zilin&nbsp;Zhu</a>, <a href='https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ' target='_blank'>Weixun&nbsp;Wang</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ' target='_blank'>Haoran&nbsp;Wang</a>, <a href='https://openreview.net/profile?id=~Hao_Chen116' target='_blank'>Hao&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Bin_Chen7' target='_blank'>Bin&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Wenkai_Fang1' target='_blank'>Weikai&nbsp;Fang</a>, <a href='https://openreview.net/profile?id=~Xianyu2' target='_blank'>Xianyu</a>, <a href='https://scholar.google.com/citations?hl=en&user=lcTd7rkAAAAJ' target='_blank'>Yu&nbsp;Cao</a>, <a href='https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ' target='_blank'>Haotian&nbsp;Xu</a>, and <a href='https://openreview.net/profile?id=~Yiming_Liu15' target='_blank'>Yiming&nbsp;Liu</a><br>
-Conference on Empirical Methods in Natural Language Processing (<b>EMNLP</b>) System Demonstrations 2025  <br>
+    onclick='$("#abs_hu-etal-2025-openrlhf").toggle()'>abstract</a>]<br>
+<a href='https://scholar.google.com/citations?hl=en&user=-xt5vGkAAAAJ' target='_blank'>Jian&nbsp;Hu</a>, <a href='https://openreview.net/profile?id=~Xibin_Wu1' target='_blank'>Xibin&nbsp;Wu</a>, <a href='https://scholar.google.com/citations?hl=en&user=M_bRlb8AAAAJ' target='_blank'>Wei&nbsp;Shen</a>, <a href='https://openreview.net/profile?id=~Jason_Klein_Liu1' target='_blank'>Jason&nbsp;Klein&nbsp;Liu</a>, <a href='https://scholar.google.com/citations?hl=en&user=pG1-T4QAAAAJ' target='_blank'>Weixun&nbsp;Wang</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?hl=en&user=FGuQhccAAAAJ' target='_blank'>Haoran&nbsp;Wang</a>, <a href='https://openreview.net/profile?id=~Hao_Chen116' target='_blank'>Hao&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Bin_Chen7' target='_blank'>Bin&nbsp;Chen</a>, <a href='https://openreview.net/profile?id=~Wenkai_Fang1' target='_blank'>Wenkai&nbsp;Fang</a>, <a href='https://openreview.net/profile?id=~Xianyu2' target='_blank'>Xianyu</a>, <a href='https://scholar.google.com/citations?hl=en&user=lcTd7rkAAAAJ' target='_blank'>Yu&nbsp;Cao</a>, <a href='https://scholar.google.com/citations?hl=en&user=WTocGYAAAAAJ' target='_blank'>Haotian&nbsp;Xu</a>, and <a href='https://openreview.net/profile?id=~Yiming_Liu15' target='_blank'>Yiming&nbsp;Liu</a><br>
+Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations 2025  <br>
 
-<div id="abs_hu2025openrlhfeasytousescalablehighperformance" style="text-align: justify; display: none" markdown="1">
-Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF)
-and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI
-values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context
-Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such
-as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this
-gap, we introduce OpenRLHF, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon
-Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and
-comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show
-that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22x to 1.68x across different
-model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for
-implementation. OpenRLHF is publicly available at <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">this https URL</a>,
-and has already been adopted by leading institutions to accelerate RLHF research and learning.
-
+<div id="abs_hu-etal-2025-openrlhf" style="text-align: justify; display: none" markdown="1">
+Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this gap, we introduce <b>OpenRLHF</b>, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22texttimes to 1.68texttimes across different model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for implementation. OpenRLHF is publicly available at [https://github.com/OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), and has already been adopted by leading institutions to accelerate RLHF research and learning.
 </div>
 
 </td>
