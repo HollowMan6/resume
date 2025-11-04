@@ -504,7 +504,7 @@ def get_scholar_stats(scholar_id):
         author = scholarly.fill(author, sections=['indices'])
     except Exception as e:
         print(f"Error fetching Google Scholar data for {scholar_id}: {e}")
-        author = {'hindex': 1, 'citedby': 213}
+        author = {'hindex': 1, 'citedby': 230}
     scholar_stats['h_index'] = author['hindex']
     citation = 0
     if 'citedby' in author:
