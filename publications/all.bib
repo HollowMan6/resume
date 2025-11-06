@@ -1,29 +1,32 @@
 @inproceedings{hu-etal-2025-openrlhf,
-    title = {\href{https://aclanthology.org/2025.emnlp-demos.48/}{OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework}},
-    author = {Jian Hu and Xibin Wu and Wei Shen and Jason Klein Liu and Weixun Wang and Songlin Jiang and Haoran Wang and Hao Chen and Bin Chen and Wenkai Fang and Xianyu and Yu Cao and Haotian Xu and Yiming Liu},
-    editor = {Habernal, Ivan  and
-      Schulam, Peter  and
-      Tiedemann, J{\"o}rg},
-    _venue = "Proceedings of the Conference on Empirical Methods in Natural Language Processing (\textbf{EMNLP}): System Demonstrations",
-    month = nov,
-    year = "2025",
-    address = "Suzhou, China",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.emnlp-demos.48/",
-    pages = "656--666",
-    ISBN = "979-8-89176-334-0",
-    abstract = "Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this gap, we introduce \textbf{OpenRLHF}, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22{\texttimes} to 1.68{\texttimes} across different model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for implementation. OpenRLHF is publicly available at \url{https://github.com/OpenRLHF/OpenRLHF}, and has already been adopted by leading institutions to accelerate RLHF research and learning."
+  title = {\href{https://aclanthology.org/2025.emnlp-demos.48/}{OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework}},
+  author = {Jian Hu and Xibin Wu and Wei Shen and Jason Klein Liu and Weixun Wang and Songlin Jiang and Haoran Wang and Hao Chen and Bin Chen and Wenkai Fang and Xianyu and Yu Cao and Haotian Xu and Yiming Liu},
+  editor = {Habernal, Ivan  and
+    Schulam, Peter  and
+    Tiedemann, J{\"o}rg},
+  selected={true},
+  _venue = "Proceedings of the Conference on Empirical Methods in Natural Language Processing (\textbf{EMNLP}): System Demonstrations",
+  month = nov,
+  year = "2025",
+  address = "Suzhou, China",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.emnlp-demos.48/",
+  pages = "656--666",
+  ISBN = "979-8-89176-334-0",
+  abstract = "Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this gap, we introduce \textbf{OpenRLHF}, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22{\texttimes} to 1.68{\texttimes} across different model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for implementation. OpenRLHF is publicly available at \url{https://github.com/OpenRLHF/OpenRLHF}, and has already been adopted by leading institutions to accelerate RLHF research and learning."
 }
 
 @misc{yu2025quasarquantumassemblycode,
-      title={\href{https://arxiv.org/abs/2510.00967}{QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL}}, 
-      author={Cong Yu and Valter Uotila and Shilong Deng and Qingyuan Wu and Tuo Shi and Songlin Jiang and Lei You and Bo Zhao},
-      year={2025},
-      _venue={preprint arXiv:2510.00967},
-      eprint={2510.00967},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2510.00967}, 
+  title={\href{https://arxiv.org/abs/2510.00967}{QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL}}, 
+  author={Cong Yu and Valter Uotila and Shilong Deng and Qingyuan Wu and Tuo Shi and Songlin Jiang and Lei You and Bo Zhao},
+  year={2025},
+  _venue={preprint arXiv:2510.00967},
+  selected={false},
+  eprint={2510.00967},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  abstract = "Designing and optimizing task-specific quantum circuits are crucial to leverage the advantage of quantum computing. Recent large language model (LLM)-based quantum circuit generation has emerged as a promising automatic solution. However, the fundamental challenges remain unaddressed: (i) parameterized quantum gates require precise numerical values for optimal performance, which also depend on multiple aspects, including the number of quantum gates, their parameters, and the layout/depth of the circuits. (ii) LLMs often generate low-quality or incorrect quantum circuits due to the lack of quantum domain-specific knowledge. We propose QUASAR, an agentic reinforcement learning (RL) framework for quantum circuits generation and optimization based on tool-augmented LLMs. To align the LLM with quantum-specific knowledge and improve the generated quantum circuits, QUASAR designs (i) a quantum circuit verification approach with external quantum simulators and (ii) a sophisticated hierarchical reward mechanism in RL training. Extensive evaluation shows improvements in both syntax and semantic performance of the generated quantum circuits. When augmenting a 4B LLM, QUASAR has achieved the validity of 99.31% in Pass@1 and 100% in Pass@10, outperforming industrial LLMs of GPT-4o, GPT-5 and DeepSeek-V3 and several supervised-fine-tuning (SFT)-only and RL-only baselines.",
+  url={https://arxiv.org/abs/2510.00967}, 
 }
 
 @misc{votingsystemwechatpay,
