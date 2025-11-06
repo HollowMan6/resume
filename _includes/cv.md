@@ -331,7 +331,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-129.9k GitHub stars across all of the following selected repositories:
+130k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -349,7 +349,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 904 |
+    <i class="fa fas fa-star"></i> 905 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -359,7 +359,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 15.1k |
+    <i class="fa fas fa-star"></i> 15.2k |
     <em>RLHF Framework</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 46 commits, 1813 lines of additions and 1435 lines of deletions</p>
   </td>
@@ -389,7 +389,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 911 |
+    <i class="fa fas fa-star"></i> 912 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -418,7 +418,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 765 |
+    <i class="fa fas fa-star"></i> 766 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -518,7 +518,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 180 |
+    <i class="fa fas fa-star"></i> 179 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -542,13 +542,13 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 230 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 231 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
 <table class="table table-hover">
 
-<tr id="tr-hu-etal-2025-openrlhf" >
+<tr id="tr-hu-etal-2025-openrlhf" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 1.
 </td>
@@ -574,9 +574,15 @@ Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Fe
 </td>
 <td>
 <img src="images/publications/yu2025quasarquantumassemblycode.png" onerror="this.style.display='none'" class="publicationImg" />
-<em><a href="https://arxiv.org/abs/2510.00967" target="_blank">QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL</a></em> <br>
+<em><a href="https://arxiv.org/abs/2510.00967" target="_blank">QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL</a></em> 
+[<a href='javascript:;'
+    onclick='$("#abs_yu2025quasarquantumassemblycode").toggle()'>abstract</a>]<br>
 <a href='https://scholar.google.com/citations?user=IiuqC3kAAAAJ&hl=en' target='_blank'>Cong&nbsp;Yu</a>, <a href='https://scholar.google.com/citations?user=fe9ed_0AAAAJ&hl=en' target='_blank'>Valter&nbsp;Uotila</a>, <a href='https://scholar.google.com/citations?user=79_LyAIAAAAJ&hl=en' target='_blank'>Shilong&nbsp;Deng</a>, <a href='https://scholar.google.com/citations?user=CYfMzb8AAAAJ&hl=en' target='_blank'>Qingyuan&nbsp;Wu</a>, <a href='https://scholar.google.com/citations?user=KIZjoPEAAAAJ&hl=en' target='_blank'>Tuo&nbsp;Shi</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?user=DTpo_scAAAAJ&hl=en' target='_blank'>Lei&nbsp;You</a>, and <a href='https://scholar.google.com/citations?user=R6igYYYAAAAJ&hl=en' target='_blank'>Bo&nbsp;Zhao</a><br>
 preprint arXiv:2510.00967 2025  <br>
+
+<div id="abs_yu2025quasarquantumassemblycode" style="text-align: justify; display: none" markdown="1">
+Designing and optimizing task-specific quantum circuits are crucial to leverage the advantage of quantum computing. Recent large language model (LLM)-based quantum circuit generation has emerged as a promising automatic solution. However, the fundamental challenges remain unaddressed: (i) parameterized quantum gates require precise numerical values for optimal performance, which also depend on multiple aspects, including the number of quantum gates, their parameters, and the layout/depth of the circuits. (ii) LLMs often generate low-quality or incorrect quantum circuits due to the lack of quantum domain-specific knowledge. We propose QUASAR, an agentic reinforcement learning (RL) framework for quantum circuits generation and optimization based on tool-augmented LLMs. To align the LLM with quantum-specific knowledge and improve the generated quantum circuits, QUASAR designs (i) a quantum circuit verification approach with external quantum simulators and (ii) a sophisticated hierarchical reward mechanism in RL training. Extensive evaluation shows improvements in both syntax and semantic performance of the generated quantum circuits. When augmenting a 4B LLM, QUASAR has achieved the validity of 99.31% in Pass@1 and 100% in Pass@10, outperforming industrial LLMs of GPT-4o, GPT-5 and DeepSeek-V3 and several supervised-fine-tuning (SFT)-only and RL-only baselines.
+</div>
 
 </td>
 </tr>
