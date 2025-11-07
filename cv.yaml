@@ -91,7 +91,7 @@ positions:
   - place: Fellou
     title: Reinforcement Learning Infrastructure Engineer
     inline_detail: "world's first agentic browser"
-    dates: 08/2025 -- 10/2025
+    dates: 08/2025 -- 11/2025
     details:
       - "Building infrastructures for Agentic RL training of Vision Language Models (VLMs) on top of \\textbf{verl}"
       - "\\href{https://github.com/volcengine/verl/pulls?q=is\\%3Apr+author\\%3AHollowMan6+is\\%3Aclosed}{\\textbf{Verl}} is \\textbf{Volcano Engine} \\& \\textbf{ByteDance Seed}'s Reinforcement Learning framework for LLMs"
