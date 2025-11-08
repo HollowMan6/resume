@@ -87,7 +87,7 @@ many others.
 <table class="table table-hover">
 <tr>
   <td style='padding-right:0;'>
-<span class='cvdate'>08/2025&nbsp;-&nbsp;10/2025</span>
+<span class='cvdate'>08/2025&nbsp;-&nbsp;11/2025</span>
 <p markdown="1" style='margin: 0'><strong>Reinforcement Learning Infrastructure Engineer</strong>, <em>Fellou</em><span markdown="1" style="color:grey;font-size:1.4rem;margin: 0">
 (world's first agentic browser)
 </span></p>
@@ -349,7 +349,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 905 |
+    <i class="fa fas fa-star"></i> 906 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -438,7 +438,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 194 |
+    <i class="fa fas fa-star"></i> 195 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 61 commits, 3515 lines of additions and 742 lines of deletions</p>
   </td>
