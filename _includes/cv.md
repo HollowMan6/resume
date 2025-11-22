@@ -331,70 +331,80 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-130k GitHub stars across all of the following selected repositories:
+131.7k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>1.</td>
   <td>
     <span class='cvdate'>2025</span>
-    <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.6k |
-    <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #41 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
+    <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
+    <i class="fa fas fa-star"></i> 208 |
+    <em>HuggingFace <-> Megatron</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #17 among all contributors with 5 commits, 328 lines of additions and 41 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>2.</td>
   <td>
     <span class='cvdate'>2025</span>
-    <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 906 |
-    <em>Ring Attention</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
+    <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
+    <i class="fa fas fa-star"></i> 40.8k |
+    <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #41 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>3.</td>
   <td>
     <span class='cvdate'>2025</span>
-    <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 15.2k |
-    <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 46 commits, 1813 lines of additions and 1435 lines of deletions</p>
+    <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
+    <i class="fa fas fa-star"></i> 919 |
+    <em>Ring Attention</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>4.</td>
   <td>
-    <span class='cvdate'>2024</span>
-    <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 8.3k |
-    <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
+    <span class='cvdate'>2025</span>
+    <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
+    <i class="fa fas fa-star"></i> 16.3k |
+    <em>RLHF Framework</em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 50 commits, 1853 lines of additions and 1532 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>5.</td>
   <td>
-    <span class='cvdate'>2023</span>
-    <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
-    <i class="fa fas fa-star"></i> 11k |
-    <em><a href="https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/" target="_blank">Kubernetes Security Platform</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
+    <span class='cvdate'>2024</span>
+    <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
+    <i class="fa fas fa-star"></i> 8.4k |
+    <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>6.</td>
   <td>
     <span class='cvdate'>2023</span>
-    <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 912 |
-    <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
+    <a href="https://github.com/kubescape/kubescape" target="_blank">kubescape/kubescape</a> |
+    <i class="fa fas fa-star"></i> 11.1k |
+    <em><a href="https://hollowmansblog.wordpress.com/2023/05/14/my-cncf-lfx-mentorship-spring-2023-project-at-kubescape/" target="_blank">Kubernetes Security Platform</a></em>
+    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 40 commits, 745 lines of additions and 555 lines of deletions</p>
   </td>
 </tr>
 <tr>
   <td align='right' style='padding-right:0;padding-left:0;'>7.</td>
+  <td>
+    <span class='cvdate'>2023</span>
+    <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
+    <i class="fa fas fa-star"></i> 916 |
+    <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
+  </td>
+</tr>
+<tr>
+  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
@@ -404,7 +414,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>8.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
@@ -414,17 +424,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>9.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 766 |
+    <i class="fa fas fa-star"></i> 765 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>10.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
@@ -434,17 +444,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>11.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 195 |
+    <i class="fa fas fa-star"></i> 198 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 61 commits, 3515 lines of additions and 742 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 62 commits, 3515 lines of additions and 759 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>12.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/mit-cml/workspace-multiselect" target="_blank">mit-cml/workspace-multiselect</a> |
@@ -454,17 +464,17 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>13.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 78 |
+    <i class="fa fas fa-star"></i> 79 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 371 commits, 53904 lines of additions and 40932 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>14.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/HollowMan6/Wechat-Timed-Message" target="_blank">HollowMan6/Wechat-Timed-Message</a> |
@@ -474,7 +484,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>15.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
@@ -484,7 +494,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>16.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
@@ -494,7 +504,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>17.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>18.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
@@ -504,7 +514,7 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>18.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>19.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank">emacs-eaf/emacs-application-framework</a> |
@@ -514,21 +524,21 @@ many others.
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>19.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>20.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 179 |
+    <i class="fa fas fa-star"></i> 181 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
 </tr>
 <tr>
-  <td align='right' style='padding-right:0;padding-left:0;'>20.</td>
+  <td align='right' style='padding-right:0;padding-left:0;'>21.</td>
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 25 |
+    <i class="fa fas fa-star"></i> 26 |
     <em>Super Resolution Model</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
@@ -542,7 +552,7 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 231 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 239 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
