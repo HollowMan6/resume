@@ -329,6 +329,9 @@ all_publications:
     'Bo Zhao': 'https://scholar.google.com/citations?user=R6igYYYAAAAJ&hl=en'
 
 repos:
+  - repo_url: https://github.com/NVIDIA-NeMo/Megatron-Bridge
+    year: 2025
+    desc: HuggingFace <-> Megatron
   - repo_url: https://github.com/deepspeedai/DeepSpeed
     year: 2025
     desc: \href{https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7}{Training Framework}
