@@ -504,7 +504,7 @@ def get_scholar_stats(scholar_id):
         author = scholarly.fill(author, sections=['indices'])
     except Exception as e:
         print(f"Error fetching Google Scholar data for {scholar_id}: {e}")
-        author = {'hindex': 1, 'citedby': 239}
+        author = {'hindex': 1, 'citedby': 251}
     scholar_stats['h_index'] = author['hindex']
     citation = 0
     if 'citedby' in author:
@@ -679,6 +679,7 @@ MARKDOWN_CONTEXT = RenderContext(
         (r'\\\$', r'\$'),  # unescape $
         (r'\\%', '%'),  # unescape %
         (r'\\textbf{(.*?)}', r'<b>\1</b>'),  # bold text
+        (r'\$\\leftrightarrow\$', '<=>'),
         (r'\{ *\\bf *(.*?)\}', r'<b>\1</b>'),
         (r'\\textit{(.*?)}', r'<i>\1</i>'),  # italic text
         (r'\{ *\\it *(.*?)\}', r'<i>\1</i>'),

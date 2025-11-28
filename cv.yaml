@@ -331,7 +331,7 @@ all_publications:
 repos:
   - repo_url: https://github.com/NVIDIA-NeMo/Megatron-Bridge
     year: 2025
-    desc: HuggingFace <-> Megatron
+    desc: HuggingFace $\leftrightarrow$ Megatron
   - repo_url: https://github.com/deepspeedai/DeepSpeed
     year: 2025
     desc: \href{https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7}{Training Framework}
