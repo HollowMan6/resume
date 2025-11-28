@@ -331,7 +331,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-131.7k GitHub stars across all of the following selected repositories:
+132.6k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -339,8 +339,8 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
-    <i class="fa fas fa-star"></i> 208 |
-    <em>HuggingFace <-> Megatron</em>
+    <i class="fa fas fa-star"></i> 226 |
+    <em>HuggingFace <=> Megatron</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #17 among all contributors with 5 commits, 328 lines of additions and 41 lines of deletions</p>
   </td>
 </tr>
@@ -349,7 +349,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.8k |
+    <i class="fa fas fa-star"></i> 40.9k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #41 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -359,7 +359,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 919 |
+    <i class="fa fas fa-star"></i> 923 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -369,9 +369,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 16.3k |
+    <i class="fa fas fa-star"></i> 16.8k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 50 commits, 1853 lines of additions and 1532 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 52 commits, 3233 lines of additions and 1641 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 8.4k |
+    <i class="fa fas fa-star"></i> 8.5k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
@@ -399,7 +399,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 916 |
+    <i class="fa fas fa-star"></i> 918 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -448,9 +448,9 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 198 |
+    <i class="fa fas fa-star"></i> 199 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 62 commits, 3515 lines of additions and 759 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 63 commits, 3522 lines of additions and 766 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 36.8k |
+    <i class="fa fas fa-star"></i> 36.9k |
     <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -538,7 +538,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/SRMD-Pytorch" target="_blank">HollowMan6/SRMD-Pytorch</a> |
-    <i class="fa fas fa-star"></i> 26 |
+    <i class="fa fas fa-star"></i> 28 |
     <em>Super Resolution Model</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 23 commits, 21397 lines of additions and 1399 lines of deletions</p>
   </td>
@@ -552,7 +552,7 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 239 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 251 citations with h-index of 1]
 <br>
 
 <h2>2025</h2>
