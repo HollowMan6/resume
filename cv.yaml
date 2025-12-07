@@ -327,6 +327,12 @@ all_publications:
     'Tuo Shi': 'https://scholar.google.com/citations?user=KIZjoPEAAAAJ&hl=en'
     'Lei You': 'https://scholar.google.com/citations?user=DTpo_scAAAAJ&hl=en'
     'Bo Zhao': 'https://scholar.google.com/citations?user=R6igYYYAAAAJ&hl=en'
+    'Qihan Liu': 'https://scholar.google.com/citations?user=a3J4_OQAAAAJ&hl=en'
+    'Rio Yang': 'https://scholar.google.com/citations?user=eFWkg64AAAAJ&hl=en'
+    'Alex Yin': 'https://www.linkedin.com/in/yinhaoran/'
+    'Pony Ma': 'https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en'
+    'Andrew Chen': 'https://scholar.google.com/citations?user=IFKToXUAAAAJ&hl=en'
+    'Mind Lab': 'https://macaron.im/mindlab'
 
 repos:
   - repo_url: https://github.com/NVIDIA-NeMo/Megatron-Bridge
