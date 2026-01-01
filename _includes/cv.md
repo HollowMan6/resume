@@ -331,7 +331,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-133.1k GitHub stars across all of the following selected repositories:
+134.4k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -339,9 +339,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
-    <i class="fa fas fa-star"></i> 250 |
+    <i class="fa fas fa-star"></i> 321 |
     <em>HuggingFace <=> Megatron</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #18 among all contributors with 5 commits, 328 lines of additions and 41 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #11 among all contributors with 11 commits, 1216 lines of additions and 199 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 40.9k |
+    <i class="fa fas fa-star"></i> 41.1k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #42 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -359,7 +359,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 937 |
+    <i class="fa fas fa-star"></i> 957 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -369,9 +369,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 17.3k |
+    <i class="fa fas fa-star"></i> 18k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 52 commits, 3233 lines of additions and 1641 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 63 commits, 3477 lines of additions and 1706 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 8.5k |
+    <i class="fa fas fa-star"></i> 8.7k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
@@ -398,7 +398,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 920 |
+    <i class="fa fas fa-star"></i> 927 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -427,7 +427,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 766 |
+    <i class="fa fas fa-star"></i> 767 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -437,7 +437,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 143 |
+    <i class="fa fas fa-star"></i> 144 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-summer-of-bitcoin-2022-project-ci-for-cadr/" target="_blank">Bitcoin Packages for Debian</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -449,7 +449,7 @@ many others.
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
     <i class="fa fas fa-star"></i> 199 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 63 commits, 3522 lines of additions and 766 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 64 commits, 3525 lines of additions and 769 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -507,7 +507,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 36.9k |
+    <i class="fa fas fa-star"></i> 37k |
     <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #2 among all contributors with 80 commits, 25191 lines of additions and 1543 lines of deletions</p>
   </td>
@@ -527,7 +527,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 183 |
+    <i class="fa fas fa-star"></i> 185 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -551,15 +551,38 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 255 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 263 citations with h-index of 1]
 <br>
 
+<h2>2026</h2>
+<table class="table table-hover">
+
+<tr id="tr-yiwen2025MinT" >
+<td align='right' style='padding-left:0;padding-right:0;'>
+1.
+</td>
+<td>
+<img src="images/publications/yiwen2025MinT.png" onerror="this.style.display='none'" class="publicationImg" />
+<em><a href="https://macaron.im/mindlab/research/mint-rl-infrastructure-for-experiential-intelligence" target="_blank">MinT: RL Infrastructure for Experiential Intelligence</a></em> 
+[<a href='javascript:;'
+    onclick='$("#abs_yiwen2025MinT").toggle()'>abstract</a>]<br>
+<a href='https://scholar.google.com/citations?user=ZkbKoXsAAAAJ&hl=en' target='_blank'>Yiwen&nbsp;Lu</a>, <a href='https://lei00764.github.io/' target='_blank'>Xiang&nbsp;Lei</a>, <a href='https://github.com/lysrain21' target='_blank'>Yushen&nbsp;Li</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?user=a3J4_OQAAAAJ&hl=en' target='_blank'>Qihan&nbsp;Liu</a>, <a href='https://www.linkedin.com/in/chenkaijie/' target='_blank'>Kaijie&nbsp;Chen</a>, <a href='https://scholar.google.com/citations?user=IFKToXUAAAAJ&hl=en' target='_blank'>Andrew&nbsp;Chen</a>, <a href='https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en' target='_blank'>Pony&nbsp;Ma</a>, and <a href='https://macaron.im/mindlab' target='_blank'>Mind&nbsp;Lab</a><br>
+Blog Post at <b>Mind Lab</b>: A Lab for Experiential Intelligence 2026  <br>
+
+<div id="abs_yiwen2025MinT" style="text-align: justify; display: none" markdown="1">
+Today we are launching Mind Lab Toolkit (MinT), a managed service for post training and reinforcement learning on a wide range of open models from Qwen3-0.5B to 1T Kimi-K2.
+</div>
+
+</td>
+</tr>
+
+</table>
 <h2>2025</h2>
 <table class="table table-hover">
 
 <tr id="tr-hu-etal-2025-openrlhf" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
-1.
+2.
 </td>
 <td>
 <img src="images/publications/hu-etal-2025-openrlhf.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -579,7 +602,7 @@ Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Fe
 
 <tr id="tr-qihan2025Build" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-2.
+3.
 </td>
 <td>
 <img src="images/publications/qihan2025Build.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -587,7 +610,7 @@ Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Fe
 [<a href='javascript:;'
     onclick='$("#abs_qihan2025Build").toggle()'>abstract</a>]<br>
 <a href='https://scholar.google.com/citations?user=a3J4_OQAAAAJ&hl=en' target='_blank'>Qihan&nbsp;Liu</a>, <strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?user=eFWkg64AAAAJ&hl=en' target='_blank'>Rio&nbsp;Yang</a>, <a href='https://www.linkedin.com/in/yinhaoran/' target='_blank'>Alex&nbsp;Yin</a>, <a href='https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en' target='_blank'>Pony&nbsp;Ma</a>, <a href='https://scholar.google.com/citations?user=IFKToXUAAAAJ&hl=en' target='_blank'>Andrew&nbsp;Chen</a>, and <a href='https://macaron.im/mindlab' target='_blank'>Mind&nbsp;Lab</a><br>
-<b>Mind Lab</b>: A Lab for Experiential Intelligence 2025  <br>
+Blog Post at <b>Mind Lab</b>: A Lab for Experiential Intelligence 2025  <br>
 
 <div id="abs_qihan2025Build" style="text-align: justify; display: none" markdown="1">
 We present what we believe is the first end-to-end Reinforcement Learning (RL) with Low-Rank Adaptor (LoRA) on a trillion-parameter reasoning model. Our system runs on large Mixture-of-Experts (MoE) models with 10% GPUs compared to conventional full-parameter RL. Our solutions have also been contributed to major open-source projects: NVIDIA's Megatron-Bridge and Volcengine's verl.
@@ -599,7 +622,7 @@ We present what we believe is the first end-to-end Reinforcement Learning (RL) w
 
 <tr id="tr-yu2025quasarquantumassemblycode" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-3.
+4.
 </td>
 <td>
 <img src="images/publications/yu2025quasarquantumassemblycode.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -622,7 +645,7 @@ Designing and optimizing task-specific quantum circuits are crucial to leverage 
 
 <tr id="tr-votingsystemwechatpay" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-4.
+5.
 </td>
 <td>
 <img src="images/publications/votingsystemwechatpay.png" onerror="this.style.display='none'" class="publicationImg" />
