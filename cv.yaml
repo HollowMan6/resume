@@ -50,6 +50,7 @@ education:
   - school: Aalto University
     degree: Ph.D. in Computer Science and Technology
     dates: 08/2024 -- 07/2028
+    overallGPA: 4.77/5
     details:
       - "Specialization: \\textbf{Machine Learning Systems \\& Databases}"
       - "Funding: \\href{https://research.aalto.fi/en/projects/efficient-deep-neural-network-computation-with-resource-constrain}{Efficient Deep Neural Network Computation with Resource-Constrained Devices (DNN ReCoDe)}"
