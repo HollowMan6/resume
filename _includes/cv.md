@@ -340,7 +340,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
-    <i class="fa fas fa-star"></i> 392 |
+    <i class="fa fas fa-star"></i> 393 |
     <em>HuggingFace <=> Megatron</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 20 commits, 4127 lines of additions and 935 lines of deletions</p>
   </td>
@@ -557,9 +557,29 @@ many others.
 <h2>2026</h2>
 <table class="table table-hover">
 
-<tr id="tr-yiwen2025MinT" >
+<tr id="tr-jiang2026routerreplay" >
 <td align='right' style='padding-left:0;padding-right:0;'>
 1.
+</td>
+<td>
+<img src="images/publications/jiang2026routerreplay.png" onerror="this.style.display='none'" class="publicationImg" />
+<em><a href="https://macaron.im/mindlab/research/router-replay-r3-why-it-failed-and-how-we-fixed-it" target="_blank">Router Replay R3: Why It Failed and How We Fixed It</a></em> 
+[<a href='javascript:;'
+    onclick='$("#abs_jiang2026routerreplay").toggle()'>abstract</a>]<br>
+<strong><a href='https://scholar.google.com/citations?hl=en&user=F7Z3Fd0AAAAJ' target='_blank'>Songlin&nbsp;Jiang</a></strong>, <a href='https://scholar.google.com/citations?user=ZkbKoXsAAAAJ&hl=en' target='_blank'>Yiwen&nbsp;Lu</a>, <a href='https://scholar.google.com/citations?user=a3J4_OQAAAAJ&hl=en' target='_blank'>Qihan&nbsp;Liu</a>, <a href='https://scholar.google.com/citations?user=IFKToXUAAAAJ&hl=en' target='_blank'>Andrew&nbsp;Chen</a>, <a href='https://scholar.google.com/citations?user=CeDFnNMAAAAJ&hl=en' target='_blank'>Pony&nbsp;Ma</a>, and <a href='https://macaron.im/mindlab' target='_blank'>Mind&nbsp;Lab</a><br>
+Blog Post at <b>Mind Lab</b>: A Lab for Experiential Intelligence 2026  <br>
+
+<div id="abs_jiang2026routerreplay" style="text-align: justify; display: none" markdown="1">
+Training-inference mismatch (TIM) is the silent failure mode for MoE: the training path and the inference path diverge, gradients stop matching the policy you deploy, and optimization drifts. In this blog post, we walk through a real case where TIM is much worse on a DeepSeekV3-architecture model (Moonlight-16B-A3B) than on Qwen3 MoE models (Qwen3-30B-A3B). We investigate why common mitigations failed, and how we fixed Router Replay R3 across vLLM and veRL to remove the mismatch without discarding samples.
+</div>
+
+</td>
+</tr>
+
+
+<tr id="tr-yiwen2025MinT" >
+<td align='right' style='padding-left:0;padding-right:0;'>
+2.
 </td>
 <td>
 <img src="images/publications/yiwen2025MinT.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -582,7 +602,7 @@ Today we are launching Mind Lab Toolkit (MinT), a managed service for post train
 
 <tr id="tr-hu-etal-2025-openrlhf" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
-2.
+3.
 </td>
 <td>
 <img src="images/publications/hu-etal-2025-openrlhf.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -602,7 +622,7 @@ Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Fe
 
 <tr id="tr-qihan2025Build" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-3.
+4.
 </td>
 <td>
 <img src="images/publications/qihan2025Build.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -622,7 +642,7 @@ We present what we believe is the first end-to-end Reinforcement Learning (RL) w
 
 <tr id="tr-yu2025quasarquantumassemblycode" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-4.
+5.
 </td>
 <td>
 <img src="images/publications/yu2025quasarquantumassemblycode.png" onerror="this.style.display='none'" class="publicationImg" />
@@ -645,7 +665,7 @@ Designing and optimizing task-specific quantum circuits are crucial to leverage 
 
 <tr id="tr-votingsystemwechatpay" >
 <td align='right' style='padding-left:0;padding-right:0;'>
-5.
+6.
 </td>
 <td>
 <img src="images/publications/votingsystemwechatpay.png" onerror="this.style.display='none'" class="publicationImg" />
