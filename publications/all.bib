@@ -16,6 +16,14 @@
   abstract = "Large Language Models (LLMs) fine-tuned via Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning with Verifiable Rewards (RLVR) significantly improve the alignment of human-AI values and further raise the upper bound of AI capabilities, particularly in reasoning-intensive, long-context Chain-of-Thought (long-CoT) tasks. However, existing RLHF (or RLVR) frameworks commonly face challenges such as inference bottlenecks and complexity barriers, restricting their accessibility for newcomers. To bridge this gap, we introduce \textbf{OpenRLHF}, a user-friendly, scalable, and easy-to-learn open-source RLHF framework built upon Ray, vLLM, DeepSpeed, and HuggingFace Transformers, featuring a simplified design, clear code structure, and comprehensive documentation to facilitate entry for researchers and practitioners. Experimental results show that OpenRLHF achieves superior training efficiency with speedups ranging from 1.22{\texttimes} to 1.68{\texttimes} across different model sizes compared to state-of-the-art frameworks, while requiring significantly fewer lines of code for implementation. OpenRLHF is publicly available at \url{https://github.com/OpenRLHF/OpenRLHF}, and has already been adopted by leading institutions to accelerate RLHF research and learning."
 }
 
+@misc{jiang2026routerreplay,
+  title = {\href{https://macaron.im/mindlab/research/router-replay-r3-why-it-failed-and-how-we-fixed-it}{Router Replay R3: Why It Failed and How We Fixed It}},
+  author = {Songlin Jiang and Yiwen Lu and Qihan Liu and Andrew Chen and Pony Ma and Mind Lab},
+  year = {2026},
+  _venue = {Blog Post at \textbf{Mind Lab}: A Lab for Experiential Intelligence},
+  abstract = "Training-inference mismatch (TIM) is the silent failure mode for MoE: the training path and the inference path diverge, gradients stop matching the policy you deploy, and optimization drifts. In this blog post, we walk through a real case where TIM is much worse on a DeepSeekV3-architecture model (Moonlight-16B-A3B) than on Qwen3 MoE models (Qwen3-30B-A3B). We investigate why common mitigations failed, and how we fixed Router Replay R3 across vLLM and veRL to remove the mismatch without discarding samples.",
+}
+
 @misc{yiwen2025MinT,
   title = {\href{https://macaron.im/mindlab/research/mint-rl-infrastructure-for-experiential-intelligence}{MinT: RL Infrastructure for Experiential Intelligence}},
   author = {Yiwen Lu and Xiang Lei and Yushen Li and Songlin Jiang and Qihan Liu and Kaijie Chen and Andrew Chen and Pony Ma and Mind Lab},
