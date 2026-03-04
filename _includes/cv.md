@@ -332,7 +332,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-136k GitHub stars across all of the following selected repositories:
+137.6k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -340,9 +340,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
-    <i class="fa fas fa-star"></i> 393 |
+    <i class="fa fas fa-star"></i> 475 |
     <em>HuggingFace <=> Megatron</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #8 among all contributors with 20 commits, 4127 lines of additions and 935 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 23 commits, 9232 lines of additions and 988 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -350,7 +350,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 41.5k |
+    <i class="fa fas fa-star"></i> 41.7k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #42 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -360,7 +360,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 971 |
+    <i class="fa fas fa-star"></i> 987 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -370,9 +370,8 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 18.8k |
+    <i class="fa fas fa-star"></i> 19.6k |
     <em>RLHF Framework</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #6 among all contributors with 74 commits, 4286 lines of additions and 2106 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -380,7 +379,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 8.9k |
+    <i class="fa fas fa-star"></i> 9.1k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
@@ -399,7 +398,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 929 |
+    <i class="fa fas fa-star"></i> 934 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -408,7 +407,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/VowpalWabbit/vowpal_wabbit" target="_blank">VowpalWabbit/vowpal_wabbit</a> |
-    <i class="fa fas fa-star"></i> 8.6k |
+    <i class="fa fas fa-star"></i> 8.7k |
     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/microsoft-reinforcement-learning-open-source-fest-2022-native-csv-parser/" target="_blank">Machine Learning System</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #59 among all contributors with 8 commits, 0 lines of additions and 0 lines of deletions</p>
   </td>
@@ -418,7 +417,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/rust-headless-chrome/rust-headless-chrome" target="_blank">rust-headless-chrome/rust-headless-chrome</a> |
-    <i class="fa fas fa-star"></i> 2.8k |
+    <i class="fa fas fa-star"></i> 2.9k |
     <em>Chrome DevTools Protocol in Rust</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #12 among all contributors with 7 commits, 87 lines of additions and 12 lines of deletions</p>
   </td>
@@ -428,7 +427,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/ThibaultJanBeyer/DragSelect" target="_blank">ThibaultJanBeyer/DragSelect</a> |
-    <i class="fa fas fa-star"></i> 769 |
+    <i class="fa fas fa-star"></i> 770 |
     <em>Multi-Select UI Library</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #7 among all contributors with 3 commits, 213 lines of additions and 23 lines of deletions</p>
   </td>
@@ -438,7 +437,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/debian-cryptoanarchy/cryptoanarchy-deb-repo-builder" target="_blank">debian-cryptoanarchy/cryptoanarchy-deb-repo-builder</a> |
-    <i class="fa fas fa-star"></i> 143 |
+    <i class="fa fas fa-star"></i> 144 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/08/13/my-summer-of-bitcoin-2022-project-ci-for-cadr/" target="_blank">Bitcoin Packages for Debian</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 7 commits, 245 lines of additions and 22 lines of deletions</p>
   </td>
@@ -448,7 +447,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 200 |
+    <i class="fa fas fa-star"></i> 201 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 65 commits, 3526 lines of additions and 770 lines of deletions</p>
   </td>
@@ -468,9 +467,8 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/Customize-IBus" target="_blank">openSUSE/Customize-IBus</a> |
-    <i class="fa fas fa-star"></i> 80 |
+    <i class="fa fas fa-star"></i> 82 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">Full Customization of IBus UI</a></em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 371 commits, 53904 lines of additions and 40932 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -508,7 +506,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 37k |
+    <i class="fa fas fa-star"></i> 37.1k |
     <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
   </td>
 </tr>
@@ -527,7 +525,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 186 |
+    <i class="fa fas fa-star"></i> 188 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -551,7 +549,7 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 276 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 316 citations with h-index of 1]
 <br>
 
 <h2>2026</h2>
@@ -1049,7 +1047,7 @@ Content, Link to the talk, and Date:
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'><b><a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other" target="_blank">Programming</a></b></td>
+  <td class='col-md-2'><b><a href="https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other" target="_blank">Programming</a></b></td>
   <td>
 C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby ...
   </td>
