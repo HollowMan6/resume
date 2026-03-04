@@ -474,7 +474,7 @@ service:
     - "\\href{https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-10.pdf}{ACM Special Interest Group on Management of Data (\\textbf{SIGMOD}) 2023 Availability \\& Reproducibility}"
 
 skills:
-  - title: \href{https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
+  - title: \href{https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6\&layout=compact\&hide=other}{Programming}
     details: C++, Go, Rust, Python, C, Java, Kotlin, JavaScript, SQL, HTML, Bash, PHP, Ruby ...
   - title: Frameworks
     details: \href{https://github.com/kubernetes/release/issues/2862#issuecomment-1560095767}{Kubernetes}, \href{https://github.com/tensorflow/tensorflow/pull/43570}{TensorFlow}, \href{https://github.com/moby/moby/issues/44450}{Docker}, \href{https://github.com/pytorch/pytorch/pull/149464}{PyTorch}, Pandas, GitHub Actions, Flutter, React, QT ...
