@@ -332,7 +332,7 @@ many others.
 
 ## <i class="fa fa-chevron-right"></i> Open Source Repositories
 1.6k GitHub followers.
-137.6k GitHub stars across all of the following selected repositories:
+138.2k GitHub stars across all of the following selected repositories:
 
 <table class="table table-hover">
 <tr>
@@ -340,9 +340,9 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/NVIDIA-NeMo/Megatron-Bridge" target="_blank">NVIDIA-NeMo/Megatron-Bridge</a> |
-    <i class="fa fas fa-star"></i> 475 |
+    <i class="fa fas fa-star"></i> 496 |
     <em>HuggingFace <=> Megatron</em>
-    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 23 commits, 9232 lines of additions and 988 lines of deletions</p>
+    <br><p style="color:grey;font-size:1.4rem">Rank #9 among all contributors with 24 commits, 9234 lines of additions and 990 lines of deletions</p>
   </td>
 </tr>
 <tr>
@@ -350,7 +350,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/deepspeedai/DeepSpeed" target="_blank">deepspeedai/DeepSpeed</a> |
-    <i class="fa fas fa-star"></i> 41.7k |
+    <i class="fa fas fa-star"></i> 41.8k |
     <em><a href="https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.16.7" target="_blank">Training Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #42 among all contributors with 12 commits, 119 lines of additions and 76 lines of deletions</p>
   </td>
@@ -360,7 +360,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/zhuzilin/ring-flash-attention" target="_blank">zhuzilin/ring-flash-attention</a> |
-    <i class="fa fas fa-star"></i> 987 |
+    <i class="fa fas fa-star"></i> 996 |
     <em>Ring Attention</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #3 among all contributors with 4 commits, 124 lines of additions and 23 lines of deletions</p>
   </td>
@@ -370,7 +370,7 @@ many others.
   <td>
     <span class='cvdate'>2025</span>
     <a href="https://github.com/volcengine/verl" target="_blank">volcengine/verl</a> |
-    <i class="fa fas fa-star"></i> 19.6k |
+    <i class="fa fas fa-star"></i> 19.9k |
     <em>RLHF Framework</em>
   </td>
 </tr>
@@ -379,7 +379,7 @@ many others.
   <td>
     <span class='cvdate'>2024</span>
     <a href="https://github.com/OpenRLHF/OpenRLHF" target="_blank">OpenRLHF/OpenRLHF</a> |
-    <i class="fa fas fa-star"></i> 9.1k |
+    <i class="fa fas fa-star"></i> 9.2k |
     <em><a href="https://blog.vllm.ai/2025/04/23/openrlhf-vllm.html" target="_blank">RLHF Framework</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #5 among all contributors with 33 commits, 531 lines of additions and 199 lines of deletions</p>
   </td>
@@ -398,7 +398,7 @@ many others.
   <td>
     <span class='cvdate'>2023</span>
     <a href="https://github.com/Igalia/wolvic" target="_blank">Igalia/wolvic</a> |
-    <i class="fa fas fa-star"></i> 934 |
+    <i class="fa fas fa-star"></i> 935 |
     <em><a href="https://hollowmansblog.wordpress.com/2024/02/18/my-igalia-coding-experience-2023-i-ii-at-wolvic/" target="_blank">Immersive VR Browser</a></em>
   </td>
 </tr>
@@ -447,7 +447,7 @@ many others.
   <td>
     <span class='cvdate'>2022</span>
     <a href="https://github.com/HollowMan6/mdbook-pdf" target="_blank">HollowMan6/mdbook-pdf</a> |
-    <i class="fa fas fa-star"></i> 201 |
+    <i class="fa fas fa-star"></i> 202 |
     <em><a href="https://hollowmansblog.wordpress.com/2022/01/30/mdbook-pdf-a-mdbook-backend-for-generating-pdf-files/" target="_blank">MdBook backend for PDF Generation</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 65 commits, 3526 lines of additions and 770 lines of deletions</p>
   </td>
@@ -486,7 +486,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Hub" target="_blank">openSUSE/IBus-Theme-Hub</a> |
-    <i class="fa fas fa-star"></i> 32 |
+    <i class="fa fas fa-star"></i> 33 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Themes CSS Hub</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 21 commits, 3190 lines of additions and 442 lines of deletions</p>
   </td>
@@ -496,7 +496,7 @@ many others.
   <td>
     <span class='cvdate'>2021</span>
     <a href="https://github.com/openSUSE/IBus-Theme-Tools" target="_blank">openSUSE/IBus-Theme-Tools</a> |
-    <i class="fa fas fa-star"></i> 22 |
+    <i class="fa fas fa-star"></i> 23 |
     <em><a href="https://news.opensuse.org/2021/07/05/gsoc-2021-ibus-customize/" target="_blank">IBus Theme Generator</a></em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 104 commits, 8558 lines of additions and 4654 lines of deletions</p>
   </td>
@@ -506,7 +506,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/alibaba/arthas" target="_blank">alibaba/arthas</a> |
-    <i class="fa fas fa-star"></i> 37.1k |
+    <i class="fa fas fa-star"></i> 37.2k |
     <em><a href="https://hollowmansblog.wordpress.com/2021/09/11/alibaba-summer-of-code-2020-arthas-final-report/" target="_blank">Java Diagnostic Tool</a></em>
   </td>
 </tr>
@@ -525,7 +525,7 @@ many others.
   <td>
     <span class='cvdate'>2020</span>
     <a href="https://github.com/HollowMan6/TinyML-ESP32" target="_blank">HollowMan6/TinyML-ESP32</a> |
-    <i class="fa fas fa-star"></i> 188 |
+    <i class="fa fas fa-star"></i> 189 |
     <em>TinyML Programs for ESP32</em>
     <br><p style="color:grey;font-size:1.4rem">Rank #1 among all contributors with 11 commits, 78393 lines of additions and 19530 lines of deletions</p>
   </td>
@@ -549,7 +549,7 @@ many others.
 <!-- Selected publications are <span style='background-color: #ffffd0'>highlighted.</span> -->
 <!-- I most frequently publish at . -->
 <!-- <br> -->
-[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 316 citations with h-index of 1]
+[<a href="https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ" target="_blank">Google Scholar</a>, 319 citations with h-index of 1]
 <br>
 
 <h2>2026</h2>
@@ -944,7 +944,7 @@ Content, Link to the talk, and Date:
   <td>
   <div style='float: right'>2019</div>
   <div>
-        <b>China Scholarship Council</b> <a href="https://www.csc.edu.cn/chuguo/s/1673" target="_blank">Outstanding Undergraduate International Exchange Scholarship</a>
+        Lanzhou University Outstanding Undergraduate International Exchange Scholarship
     <br><p style="color:grey;font-size:1.4rem">(Only 1) Full covering of visa fees, traveling fees, and living costs, plus the host university exchange program tuition fee waiver agreement</p>
   </div>
   </td>
